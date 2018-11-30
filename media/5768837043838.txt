@@ -1,0 +1,17 @@
+abcdefghijklmnopqrstuvwxyz
+-
+npm
+â¤Novel Preposterous Mockerynpm EnterpriseFeaturesPricingDocsSupportnpmlog inorsign up
+Share your code.
+npm Orgs help your team discover, share, and reuse code. Create a free org Â»
+abcdefghijklmnopqrstuvwxyzpublicReadme0Dependencies0Dependents4Versions
+abcdefghijklmnopqrstuvwxyz
+Provides the English alphabet, to reduce typing and the risk of mistakes. A lightweight alternative to the alphabet package, with a relatively streamlined API.
+This package exports a single lower-case 26-character string containing the modern English alphabet, suitable for using as-is, or for safely interpolating, without the need for escaping, into nearly any context.
+Installation
+npmÂ installÂ abcdefghijklmnopqrstuvwxyz
+Usage
+varÂ abcdefghijklmnopqrstuvwxyzÂ =Â require("abcdefghijklmnopqrstuvwxyz");Â console.log(abcdefghijklmnopqrstuvwxyz);//Â "abcdefghijklmnopqrstuvwxyz"
+Licence
+MIT
+Keywordsabcalphabetabcdefghijklmnopqrstuvwxyzinstallnpm i abcdefghijklmnopqrstuvwxyzDownloadslast 7 days5version1.0.3licenseMITrepositorygithub.comlast publish5 months agocollaboratorstest in your browserYou Need HelpDocumentationSupport / Contact UsRegistry StatusWebsite IssuesCLI IssuesSecurityAbout npmAbout npm, IncJobsnpm WeeklyBlogTwitterGitHubLegal StuffTerms of UseCode of ConductPackage Name DisputesPrivacy PolicyReporting AbuseOther policiesnpm loves you

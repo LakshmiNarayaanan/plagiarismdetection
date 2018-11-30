@@ -1,0 +1,342 @@
+Internship - GeeksforGeeks
+Write an Article
+Skip to content
+Algo ▼
+Analysis of Algorithms
+Topicwise ►
+Searching Algorithms
+Sorting Algorithms
+Graph Algorithms
+Bit Algorithms
+Pattern Searching
+Geometric Algorithms
+Mathematical Algorithms
+Randomized Algorithms
+Game Theory
+Algorithm Paradigms ►
+Greedy Algorithms
+Dynamic Programming
+Divide and Conquer
+Backtracking
+Branch & Bound
+All Algorithms
+DS
+▼
+Array
+LinkedList
+Stack
+Queue
+Tree based DS ►
+Binary Tree
+Binary Search Tree
+Heap
+Hashing
+Graph
+Advanced Data Structure
+Matrix
+Strings
+All Data Structures
+Languages ▼
+C
+C++
+Java
+Python
+SQL
+PHP
+Javascript
+Program Output
+Interview
+▼
+Company Prep
+Top Topics
+Practice Company Questions
+Interview Experiences
+Experienced Interviews
+Internship Interviews
+Competitive Programming
+Design Patterns
+Multiple Choice Quizzes
+Students
+▼
+Campus Ambassador Program
+Geek of the Month
+Placement Course
+Project
+Competitive Programming
+Testimonials
+Geek on the Top
+Careers
+Internship
+School Programming
+GATE ▼
+GATE CS Corner
+GATE Notes
+Last Minute Notes
+Official Papers
+Gate 2018 Important Dates and Links
+CS Subjects ▼
+Operating Systems
+DBMS
+Computer Networks
+Compiler Design
+Web Technology
+Computer Organization & Architecture
+Digital Electronics
+Engg. Mathematics
+Theory of Computation
+Advanced Topics
+What’s Difference?
+Quizzes ▼
+Languages ►
+C
+C++
+Java
+Python
+CS Subjectwise ►
+Data Structures
+Algorithms
+Operating Systems
+DBMS
+Compiler Design
+Computer Networks
+Theory of Computation
+Computer Organization
+Software Engineering
+HTML & XML
+Engg. Mathematics
+Aptitude
+GBlog
+Puzzles
+What’s New?
+▲
+Internships @ GeeksforGeeks
+Coding Practice
+How to write an Interview Experience?
+Must Do Coding Questions Company-wise
+Must Do Coding Questions Topic-wise
+Difficulty Levels
+Basic
+Easy
+Medium
+Hard
+Expert
+Popular Tags
+Amazon,
+Microsoft, Dynamic Programming, SamsungClick here for more
+Interview Preparation
+Step by Step Preparation
+Company Preparation
+Top Topics
+Company Specific Practice
+Software Design Patterns
+Placements Preparation Course
+Interview Corner
+Recent Interview Experiences
+GQ Home Page
+Quiz Corner
+LMNs
+Practice Platform
+What's New ?
+Leaderboard !!
+Topic-wise Practice
+Subjective Problems
+Difficulty Level - School
+Difficulty Level - Basic
+Difficulty Level - Easy
+Difficulty Level - Medium
+Difficulty Level - Hard
+How to pick a difficulty level?
+Explore More...
+Programming Languages
+C
+C++
+Java
+Python
+SQL
+PHP
+JavaScript
+Important Quick Links
+School Programming
+Operating Systems
+DBMS
+Computer Networks
+Engineering Mathematics
+Design Patterns
+Common Interview Puzzles
+Web Technology
+G-Facts
+Computer Graphics
+Image Processing
+Project Ideas
+Internship
+Summer Internship-2018
+Following internship profiles are available for summer internships – 2018
+Photoshop and UI/UX Designer : Knowledge of HTML , CSS , Javascript , Adobe Illustrator , Photoshop required
+Video Animations for existing GeeksforGeeks articles : See sample videos here
+Article Writing and Reviewing ( Work from home ) : Excellent writing skills in technical content is must for content writing. Reviewing from home can only be done by existing GeeksforGeeks authors who have successfully published more than 50 articles.
+Article Writing and Reviewing at Office( Noida – Minimum Duration 6 months ) : Excellent writing skills in technical content is must.
+Digital Marketing : Manage the company’s social media channels, Find out methods for audience engagement and visibility, Work on SEO and SEM.
+Problem Curator ( Only Work at Office (Noida) – Minimum Duration 6 months ) : Having active profiles with good scores in competitive programming is must.
+Apply here
+Description: GeeksforGeeks needs excellent content writers to be appointed as “Interns”. The interns are free to choose their time period (minimum one month).
+Why should you apply?
+Candidates qualified for internship will be eligible for Certificates by GeeksforGeeks
+Students will also get Stipend of the internship
+Improves your knowledge as you need to learn extensively before writing an article
+Flexible work timings as this is work@home Internship
+Duration of internship can be one month to one year.
+Read more – Benefits of becoming a Content Writer at GeeksforGeeks
+How to apply?
+Please mail your Resume/CV and a sample article of your area of interest on a topic preferably previously not published on GeeksforGeeks.org. You can also submit your article directly at contribute.
+Email Address: hr@geeksforgeeks.org
+You can choose to write under the following categories, also, please mention Relevant Subject in your mail:
+Article Writing Category
+Subject of Mail
+Writing different language code for existing Programs in existing articles- Guidelines
+Code
+Article Writing in Algo & DS
+Algo & DS
+Article Writing in Java
+Java
+Article Writing in Python
+Python
+Article Writing in C/C++
+C/C++
+STL in C++ and Collections in Java
+Library functions
+Making videos for existing articles
+Video
+Article Writing in Linux/Unix Commands
+Linux
+Article Writing in SQL
+SQL
+Articles in Competitive Programming
+CP
+Technical Blogs
+Blogger
+Problem setting at practice.geeksforgeeks.org
+Problem Setter
+Writing small puzzles
+Puzzle
+Interesting Facts in Languages
+GFacts
+Design Pattern based Articles
+Design
+Animation for articles
+Animation
+Anything Else
+Misc
+Company Wise Coding Practice
+Topic Wise Coding Practice
+Writing code in comment? Please use ide.geeksforgeeks.org, generate link and share the link here.
+Load Comments
+Share this post !
+Trending Content
+Python List,
+Set, Tuple & Dictionary
+Number Theory
+Set to Array in Java
+BFS, 	DFS
+School Programming
+Longest Repeated Subsequence
+Longest Palindromic Subsequence
+Detect a negative cycle.
+GATE CS Notes
+Reverse a linked list
+Most Visited Posts
+Top 10 Algorithms and Data Structures for Competitive Programming
+Top 10 algorithms in Interview Questions
+How to begin with Competitive Programming?
+Step by Step Guide for Placement Preparation
+How to prepare for ACM-ICPC?
+Insertion Sort,
+Binary Search,
+QuickSort,
+MergeSort,
+HeapSort
+Popular Categories
+Interview Experiences
+Advanced Data Structures
+Dynamic Programming
+Greedy Algorithms
+Backtracking
+Pattern Searching
+Divide & Conquer
+Geometric Algorithms
+Searching
+Sorting
+Analysis of Algorithms
+Mathematical Algorithms
+Randomized Algorithms
+Recursion
+Game Theory
+Statistical Algorithms
+TagsAdvanced Data Structure
+Amazon
+Aptitude
+Aptitude
+Arrays
+Bit Magic
+C
+C
+C++
+Computer Networks
+CPP-Library
+C Quiz
+Dynamic Programming
+Experienced
+GBlog
+Geometric
+Graph
+Hash
+Internship
+Interview Experiences
+ISRO
+Java
+java-stream
+JavaScript
+Linked Lists
+Mathematical
+Matrix
+Microsoft
+number-digits
+PHP
+Program Output
+Puzzles
+Python
+QA - Placement Quizzes
+QA - Placement Quizzes
+School Programming
+Searching
+series
+Sorting
+STL
+Strings
+Technical Scripter
+Trees
+UGC-NET
+Web Technologies
+710-B, Advant Navis Business Park,
+Sector-142, Noida, Uttar Pradesh - 201305
+feedback@geeksforgeeks.org
+COMPANY
+About Us
+Careers
+Privacy Policy
+Contact Us
+LEARN
+Algorithms
+Data Structures
+Languages
+CS Subjects
+Video Tutorials
+PRACTICE
+Company-wise
+Topic-wise
+Contests
+Subjective Questions
+CONTRIBUTE
+Write an Article
+GBlog
+Videos
+@geeksforgeeks, Some rights reserved

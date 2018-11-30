@@ -1,0 +1,305 @@
+How to contribute videos to GeeksforGeeks? - GeeksforGeeks
+Write an Article
+Skip to content
+Algo ▼
+Analysis of Algorithms
+Topicwise ►
+Searching Algorithms
+Sorting Algorithms
+Graph Algorithms
+Bit Algorithms
+Pattern Searching
+Geometric Algorithms
+Mathematical Algorithms
+Randomized Algorithms
+Game Theory
+Algorithm Paradigms ►
+Greedy Algorithms
+Dynamic Programming
+Divide and Conquer
+Backtracking
+Branch & Bound
+All Algorithms
+DS
+▼
+Array
+LinkedList
+Stack
+Queue
+Tree based DS ►
+Binary Tree
+Binary Search Tree
+Heap
+Hashing
+Graph
+Advanced Data Structure
+Matrix
+Strings
+All Data Structures
+Languages ▼
+C
+C++
+Java
+Python
+SQL
+PHP
+Javascript
+Program Output
+Interview
+▼
+Company Prep
+Top Topics
+Practice Company Questions
+Interview Experiences
+Experienced Interviews
+Internship Interviews
+Competitive Programming
+Design Patterns
+Multiple Choice Quizzes
+Students
+▼
+Campus Ambassador Program
+Geek of the Month
+Placement Course
+Project
+Competitive Programming
+Testimonials
+Geek on the Top
+Careers
+Internship
+School Programming
+GATE ▼
+GATE CS Corner
+GATE Notes
+Last Minute Notes
+Official Papers
+Gate 2018 Important Dates and Links
+CS Subjects ▼
+Operating Systems
+DBMS
+Computer Networks
+Compiler Design
+Web Technology
+Computer Organization & Architecture
+Digital Electronics
+Engg. Mathematics
+Theory of Computation
+Advanced Topics
+What’s Difference?
+Quizzes ▼
+Languages ►
+C
+C++
+Java
+Python
+CS Subjectwise ►
+Data Structures
+Algorithms
+Operating Systems
+DBMS
+Compiler Design
+Computer Networks
+Theory of Computation
+Computer Organization
+Software Engineering
+HTML & XML
+Engg. Mathematics
+Aptitude
+GBlog
+Puzzles
+What’s New?
+▲
+Internships @ GeeksforGeeks
+Coding Practice
+How to write an Interview Experience?
+Must Do Coding Questions Company-wise
+Must Do Coding Questions Topic-wise
+Difficulty Levels
+Basic
+Easy
+Medium
+Hard
+Expert
+Popular Tags
+Amazon,
+Microsoft, Dynamic Programming, SamsungClick here for more
+Interview Preparation
+Step by Step Preparation
+Company Preparation
+Top Topics
+Company Specific Practice
+Software Design Patterns
+Placements Preparation Course
+Interview Corner
+Recent Interview Experiences
+GQ Home Page
+Quiz Corner
+LMNs
+Practice Platform
+What's New ?
+Leaderboard !!
+Topic-wise Practice
+Subjective Problems
+Difficulty Level - School
+Difficulty Level - Basic
+Difficulty Level - Easy
+Difficulty Level - Medium
+Difficulty Level - Hard
+How to pick a difficulty level?
+Explore More...
+Programming Languages
+C
+C++
+Java
+Python
+SQL
+PHP
+JavaScript
+Important Quick Links
+School Programming
+Operating Systems
+DBMS
+Computer Networks
+Engineering Mathematics
+Design Patterns
+Common Interview Puzzles
+Web Technology
+G-Facts
+Computer Graphics
+Image Processing
+Project Ideas
+How to contribute videos to GeeksforGeeks?
+How do I get selected for the Video Content Development Internship ?
+All you need to do is just make one video on any topic of your interest related to computer science and mail it to videos@geeksforgeeks.org. Once it is published on our Youtube channel, you are selected.
+Do I get a certificate?
+Yes, on completion of your internship you’ll get a certificate.
+Do I get remuneration for the internship?
+Yes, you’ll be receiving remuneration depending on your performance.
+What types of videos can I make?
+You can make:
+Presentation Videos –
+Animation Videos –
+What are the different topics on which i can make videos?
+You can make videos on :
+Algorithms
+Data Structures
+C/C++ or any other Programming Language
+GATE related stuff
+Interview Experiences
+These are just major categories. If you have any other idea in mind, you are most welcome to share.
+Can I use the content available on the GeeksforGeeks website?
+Yes, for content you can use any article available on GeeksforGeeks .
+Company Wise Coding Practice
+Topic Wise Coding Practice
+Writing code in comment? Please use ide.geeksforgeeks.org, generate link and share the link here.
+Load Comments
+Share this post !
+Trending Content
+Python List,
+Set, Tuple & Dictionary
+Number Theory
+Set to Array in Java
+BFS, 	DFS
+School Programming
+Longest Repeated Subsequence
+Longest Palindromic Subsequence
+Detect a negative cycle.
+GATE CS Notes
+Reverse a linked list
+Most Visited Posts
+Top 10 Algorithms and Data Structures for Competitive Programming
+Top 10 algorithms in Interview Questions
+How to begin with Competitive Programming?
+Step by Step Guide for Placement Preparation
+How to prepare for ACM-ICPC?
+Insertion Sort,
+Binary Search,
+QuickSort,
+MergeSort,
+HeapSort
+Popular Categories
+Interview Experiences
+Advanced Data Structures
+Dynamic Programming
+Greedy Algorithms
+Backtracking
+Pattern Searching
+Divide & Conquer
+Geometric Algorithms
+Searching
+Sorting
+Analysis of Algorithms
+Mathematical Algorithms
+Randomized Algorithms
+Recursion
+Game Theory
+Statistical Algorithms
+TagsAdvanced Data Structure
+Amazon
+Aptitude
+Aptitude
+Arrays
+Bit Magic
+C
+C
+C++
+Computer Networks
+CPP-Library
+C Quiz
+Dynamic Programming
+Experienced
+GBlog
+Geometric
+Graph
+Hash
+Internship
+Interview Experiences
+ISRO
+Java
+java-stream
+JavaScript
+Linked Lists
+Mathematical
+Matrix
+Microsoft
+number-digits
+PHP
+Program Output
+Puzzles
+Python
+QA - Placement Quizzes
+QA - Placement Quizzes
+School Programming
+Searching
+series
+Sorting
+STL
+Strings
+Technical Scripter
+Trees
+UGC-NET
+Web Technologies
+710-B, Advant Navis Business Park,
+Sector-142, Noida, Uttar Pradesh - 201305
+feedback@geeksforgeeks.org
+COMPANY
+About Us
+Careers
+Privacy Policy
+Contact Us
+LEARN
+Algorithms
+Data Structures
+Languages
+CS Subjects
+Video Tutorials
+PRACTICE
+Company-wise
+Topic-wise
+Contests
+Subjective Questions
+CONTRIBUTE
+Write an Article
+GBlog
+Videos
+@geeksforgeeks, Some rights reserved

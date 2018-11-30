@@ -1,0 +1,399 @@
+ {% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Plagiarism Checker</title>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+
+<!-- Google fonts -->
+
+
+
+<!-- bootstrap -->
+<link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap.min.css' %}" />
+
+<!-- animate.css -->
+<!-- <link rel="stylesheet" href="{% static 'assets/animate/animate.css' %}" />
+<link rel="stylesheet" href="{% static 'assets/animate/set.css' %}" /> -->
+
+<!-- gallery -->
+<!-- <link rel="stylesheet" href="{% static 'assets/gallery/blueimp-gallery.min.css' %}"> -->
+
+<!-- favicon -->
+<!-- <link rel="shortcut icon" href="{% static 'images/favicon.ico' %}" type="image/x-icon">
+<link rel="icon" href="{% static 'images/favicon.ico' %}" type="image/x-icon"> -->
+
+
+<link rel="stylesheet" href="{% static 'assets/style.css' %}">
+<!--===============================================================================================-->
+	<link rel="icon" type="{% static 'image/png' %}" href="{% static 'img/icons/favicon.ico' %}"/>
+<!--===============================================================================================-->
+	<!-- <link rel="stylesheet" type="text/css" href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}"> -->
+<!--===============================================================================================-->
+	<!-- <link rel="stylesheet" type="text/css" href="{% static 'fonts/font-awesome-4.7.0/css/font-awesome.min.css' %}"> -->
+<!--===============================================================================================-->
+	<!-- <link rel="stylesheet" type="text/css" href="{% static 'fonts/Linearicons-Free-v1.0.0/icon-font.min.css' %}"> -->
+<!--===============================================================================================-->
+
+<!--===============================================================================================-->
+	<!-- <link rel="stylesheet" type="text/css" href="{% static 'vendor/css-hamburgers/hamburgers.min.css' %}"> -->
+<!--===============================================================================================-->
+	<!-- <link rel="stylesheet" type="text/css" href="{% static 'vendor/select2/select2.min.css' %}"> -->
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="{% static 'vendor/animate/animate.css' %}">
+  	<link rel="stylesheet" type="text/css" href="{% static 'css/main.css' %}">
+
+  <script>
+             var myvar;
+         function spin()
+
+             {
+               document.getElementById("hi").style.display="none";
+               document.getElementById("loader").style.display="block";
+
+                 myvar = setTimeout(showPage,30000)
+             }
+             function showPage()
+             {
+                 document.getElementById("loader").style.display="none";
+                 document.getElementById("hi").style.display="block";
+             }
+
+
+
+         </script>
+
+
+
+
+
+
+                 <style>
+
+
+         #loader
+                     {
+                       display: none;
+                       margin:auto;
+                       margin-top: 250px;
+                         height: 100px;
+                         width: 100px;
+
+                         background-color: blue;
+                         border-radius: 100%;
+                         -webkit-animation:spin 2s linear infinite;
+                     }
+                     @-webkit-keyframes spin
+                     {
+                         0%
+                         {
+                           background-radius:90%;
+                             background-color: aqua;
+                         }
+                         25%
+                         {
+                          border-radius: 70%;
+
+                             background-color: red;
+                         }
+                         50%
+                         {
+                           border-radius: 40%;
+                             background-color: darkblue;
+                         }
+                         75%
+                         {  border-radius: 10%;
+                             background-color: darkorange;
+                         }
+
+                         100%
+                         {
+                             background-color: dimgray;
+                         }
+                     }
+
+
+
+                     #hi
+                     {
+                       display: block;
+                     }
+
+                     #b{
+                      display:inline-block;
+                     }
+                     a{
+                      color:white;
+                     }
+                 </style>
+
+
+
+
+
+<!--===============================================================================================-->
+</head>
+
+<body>
+<center><div id="loader"></div></center>
+<div id="hi">
+ <div class="topbar animated fadeInLeftBig"></div>
+
+  <!-- Header Starts -->
+  <div class="navbar-wrapper">
+        <div class="container">
+
+          <div class="navbar navbar-default navbar-fixed-top" role="navigation" id="top-nav">
+            <div class="container">
+              <div class="navbar-header">
+                <!-- Logo Starts -->
+<!--                 <a class="navbar-brand" href="#works"><img src="{% static 'images/logo.png' %}" alt="logo"></a>
+ -->                <!-- #Logo Ends -->
+
+
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+
+              </div>
+
+
+              <!-- Nav Starts -->
+              <div class="navbar-collapse  collapse">
+                <ul class="nav navbar-nav navbar-right scroll">
+                   <li class="active"><a href="#contact">Check Plagiarism</a></li>
+
+                  <!--  <li ><a href="#about">About</a></li>
+                     <li ><a href="#works">Works</a></li>
+                   <li ><a href="#partners">Partners</a></li> -->
+
+                </ul>
+              </div>
+              <!-- #Nav Ends -->
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+  <!-- #Header Starts -->
+
+
+
+
+  <!--Contact Starts-->
+
+
+  <div id="contact" class="spacer">
+
+
+  <h2 class="text-center  wowload fadeInUp">Check Your Content Here</h2>
+    <div class="row wowload fadeInLeftBig">
+        <div class="col-sm-6 col-sm-offset-3 col-xs-12">
+          <form class="contact100-form validate-form" method='POST' action='.'>
+    				{% csrf_token %}
+
+
+    				<!-- <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+    					<span class="label-input100">Tell us your name *</span>
+    					<input class="input100" type="text" name="name" placeholder="Enter your name">
+    				</div> -->
+
+    				<!-- <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
+    					<span class="label-input100">  Enter your email *</span>
+    					<input class="input100" type="text" name="email" placeholder="Enter your email">
+    				</div> -->
+
+    				<!-- <div class="wrap-input100">
+    					<span class="label-input100">Your Website</span>
+    					<input class="input100" type="text" name="web" placeholder="http://">
+    				</div> -->
+
+    				<div class="wrap-input100 validate-input" data-validate = "Content is required">
+
+  <textarea id="text" class="input100" name="data" placeholder="Your data here..."></textarea>
+    					<!--<textarea class="input100"  name="data" placeholder="Your data here..."></textarea>-->
+              <div ><p id ="result" style="float: left"></p>
+                  <p id="res" style="float:right"></p>
+                  </div>
+
+    				<div class="container-contact100-form-btn">
+    					<div class="wrap-contact100-form-btn">
+    						<div class="contact100-form-bgbtn"></div>
+    						<button  id="b" onclick="spin()" class="contact100-form-btn" name="quickcheck">
+    							QuickCheck
+    						</button>
+
+                <button  id="b" onclick="spin()" class="contact100-form-btn" name="deepcheck">
+                  DeepCheck
+                </button>
+                 <button id="b" class="contact100-form-btn" name="uploadafile">
+                  <a href="/upload/">Upload a file</a>
+                </button>
+
+    			</form>
+        </div>
+    </div>
+  </div>
+
+
+
+  </div>
+  </div>
+
+  <!--Contact Ends-->
+
+
+  <!-- Cirlce Starts -->
+  <div id="about"  class="container spacer about">
+  <h2 class="text-center wowload fadeInUp">Why Plagiarism Checker ?</h2>
+    <div class="row">
+
+
+      <h4>
+        You created a paper for presentation in your educational institution and want to check content for originality? Or you ordered papers from writing companies and want to check essay for plagiarism? Whatever your cause is – the purpose stays the same – you apparently desire to check papers before submission. To help users worldwide detect copied content, we created free plagiarism checker! With the assistance of this useful instrument, you can search for any stolen data and avoid them in your document easy.
+
+  When you are preparing assignments, the quality of them is the first thing teacher is paying attention to. Of course, mistakes and typos strike the eye, but they can be fixed. But, many students tend to duplicate content and pass it off as own. As a result, college plagiarism became a usual thing, and such works frequently are returned to students. To avoid such a problem it is necessary to sift through text before submission. That’s why our plagiarism detector is tool for you.
+
+  If you decided to buy papers from professional authors, you might come across the same problem – copied essay. Don’t give those so-called “helpers” a chance fool you! Use plagiarism scanner to be sure sent paper is authentic and deserves the money paid.
+
+  </h4>
+
+
+    </div>
+
+    </div>
+
+  </div>
+  <!-- #Cirlce Ends -->
+
+
+
+  <div id="partners" class="container spacer ">
+
+
+     <!-- Indicators -->
+     	<ol class="carousel-indicators">
+      <li data-target="#carousel-testimonials" data-slide-to="0" class="active"></li>
+      <li data-target="#carousel-testimonials" data-slide-to="1"></li>
+      <li data-target="#carousel-testimonials" data-slide-to="2"></li>
+    	</ol>
+    	<!-- Indicators -->
+    </div>
+
+
+
+
+
+
+  <!-- team -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <script type="text/javascript">
+          function wordCount( val ){
+      var wom = val.match(/\S+/g);
+      return {
+          charactersNoSpaces : val.replace(/\s+/g, '').length,
+          characters         : val.length,
+          words              : wom ? wom.length : 0,
+          lines              : val.split(/\r*\n/).length
+      };
+  }
+
+
+  var textarea = document.getElementById("text");
+  var result   = document.getElementById("result");
+          var res = document.getElementById("res");
+
+  textarea.addEventListener("input", function(){
+    var v = wordCount( this.value );
+    result.innerHTML = (
+
+
+        "<br>Lines: "+ v.lines
+    );
+      res.innerHTML=(
+           "<br>Words: "+ v.words
+      )
+  }, false);
+      </script>
+
+
+  <!-- jquery -->
+  <script src="assets/jquery.js"></script>
+  <script src="{% static 'vendor/jquery/jquery-3.2.1.min.js' %}"></script>
+  <!--===============================================================================================-->
+  	<script src="{% static 'vendor/bootstrap/js/popper.js' %}"></script>
+  	<script src="{% static 'vendor/bootstrap/js/bootstrap.min.js' %}"></script>
+  <!--===============================================================================================-->
+  	<script src="{% static 'vendor/select2/select2.min.js' %}"></script>
+  <!--===============================================================================================-->
+  	<script src="{% static 'js/main.js' %}"></script>
+
+  <!-- wow script -->
+  <script src="assets/wow/wow.min.js"></script>
+
+
+  <!-- boostrap -->
+  <script src="assets/bootstrap/js/bootstrap.js" type="text/javascript" ></script>
+
+  <!-- jquery mobile -->
+  <script src="assets/mobile/touchSwipe.min.js"></script>
+  <script src="assets/respond/respond.js"></script>
+
+  <!-- gallery -->
+  <script src="assets/gallery/jquery.blueimp-gallery.min.js"></script>
+
+  <!-- custom script -->
+  <script src="assets/script.js"></script>
+
+
+
+
+
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/jquery/jquery-3.2.1.min.js' %}"></script>
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/bootstrap/js/popper.js' %}"></script>
+	<script src="{% static 'vendor/bootstrap/js/bootstrap.min.js' %}"></script>
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/select2/select2.min.js' %}"></script>
+<!--===============================================================================================-->
+	<script src="{% static 'js/main.js' %}"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script> -->
+
+</body>
+</html>

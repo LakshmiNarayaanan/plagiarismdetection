@@ -1,0 +1,339 @@
+GATE-CS-DS-&-Algo Archives - GeeksforGeeks
+Write an Article
+Skip to content
+Algo ▼
+Analysis of Algorithms
+Topicwise ►
+Searching Algorithms
+Sorting Algorithms
+Graph Algorithms
+Bit Algorithms
+Pattern Searching
+Geometric Algorithms
+Mathematical Algorithms
+Randomized Algorithms
+Game Theory
+Algorithm Paradigms ►
+Greedy Algorithms
+Dynamic Programming
+Divide and Conquer
+Backtracking
+Branch & Bound
+All Algorithms
+DS
+▼
+Array
+LinkedList
+Stack
+Queue
+Tree based DS ►
+Binary Tree
+Binary Search Tree
+Heap
+Hashing
+Graph
+Advanced Data Structure
+Matrix
+Strings
+All Data Structures
+Languages ▼
+C
+C++
+Java
+Python
+SQL
+PHP
+Javascript
+Program Output
+Interview
+▼
+Company Prep
+Top Topics
+Practice Company Questions
+Interview Experiences
+Experienced Interviews
+Internship Interviews
+Competitive Programming
+Design Patterns
+Multiple Choice Quizzes
+Students
+▼
+Campus Ambassador Program
+Geek of the Month
+Placement Course
+Project
+Competitive Programming
+Testimonials
+Geek on the Top
+Careers
+Internship
+School Programming
+GATE ▼
+GATE CS Corner
+GATE Notes
+Last Minute Notes
+Official Papers
+Gate 2018 Important Dates and Links
+CS Subjects ▼
+Operating Systems
+DBMS
+Computer Networks
+Compiler Design
+Web Technology
+Computer Organization & Architecture
+Digital Electronics
+Engg. Mathematics
+Theory of Computation
+Advanced Topics
+What’s Difference?
+Quizzes ▼
+Languages ►
+C
+C++
+Java
+Python
+CS Subjectwise ►
+Data Structures
+Algorithms
+Operating Systems
+DBMS
+Compiler Design
+Computer Networks
+Theory of Computation
+Computer Organization
+Software Engineering
+HTML & XML
+Engg. Mathematics
+Aptitude
+GBlog
+Puzzles
+What’s New?
+▲
+Internships @ GeeksforGeeks
+Coding Practice
+How to write an Interview Experience?
+Must Do Coding Questions Company-wise
+Must Do Coding Questions Topic-wise
+Difficulty Levels
+Basic
+Easy
+Medium
+Hard
+Expert
+Popular Tags
+Amazon,
+Microsoft, Dynamic Programming, SamsungClick here for more
+Interview Preparation
+Step by Step Preparation
+Company Preparation
+Top Topics
+Company Specific Practice
+Software Design Patterns
+Placements Preparation Course
+Interview Corner
+Recent Interview Experiences
+GQ Home Page
+Quiz Corner
+LMNs
+Practice Platform
+What's New ?
+Leaderboard !!
+Topic-wise Practice
+Subjective Problems
+Difficulty Level - School
+Difficulty Level - Basic
+Difficulty Level - Easy
+Difficulty Level - Medium
+Difficulty Level - Hard
+How to pick a difficulty level?
+Explore More...
+Programming Languages
+C
+C++
+Java
+Python
+SQL
+PHP
+JavaScript
+Important Quick Links
+School Programming
+Operating Systems
+DBMS
+Computer Networks
+Engineering Mathematics
+Design Patterns
+Common Interview Puzzles
+Web Technology
+G-Facts
+Computer Graphics
+Image Processing
+Project Ideas
+Tag Archives: GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 37
+Que – 1. For 8 keys and 6 slots in a hashing table with uniform hashing and chaining, what is the expected number of items… Read More »
+Data StructuresGATE CSMCQ GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 36
+2
+Que – 1. The function shiftNode() which takes as input two linked lists- destination and source. It deletes front node from source and places it… Read More »
+Data StructuresGATE CSMCQ GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 35
+2
+Following questions have been asked in GATE CS 2014 exam.
+MCQ GATE-CS-2014GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 34
+4
+Following questions have been asked in GATE CS 2014 exam.
+MCQ GATE-CS-2014GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 33
+1.6
+Following questions have been asked in GATE CS 2014 exam.
+MCQ GATE-CS-2014GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 32
+2
+Following questions have been asked in GATE CS 2014 exam.
+GATE CSMCQ GATE-CS-2014GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 31
+2
+Following questions have been asked in GATE CS 2013 exam.
+GATE CSMCQ GATE-CS-2013GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 30
+3.7
+Following questions have been asked in GATE CS 2013 exam.
+GATE CSMCQ GATE-CS-2013GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 29
+1
+Following questions have been asked in GATE 2012 exam.
+GATE CSMCQ GATE-CS-2012GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 28
+1
+Following questions have been asked in GATE 2012 exam.
+GATE CSMCQ GATE-CS-2012GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 27
+Following questions have been asked in GATE CS 2011 exam.
+GATE CSMCQ GATE-CS-2011GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 26
+5
+Following questions have been asked in GATE 2011 exam.
+GATE CSMCQ GATE-CS-2011GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 25
+4
+Following questions have been asked in GATE 2010 exam.
+GATE CSMCQ GATE-CS-2010GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 24
+3
+Following questions have been asked in GATE CS 2010 exam.
+GATE CSMCQ GATE-CS-2010GATE-CS-DS-&-Algo
+Data Structures and Algorithms | Set 23
+3
+Following questions have been asked in GATE CS 2005 exam.
+GATE CSMCQ GATE-CS-2005GATE-CS-DS-&-Algo
+Page 1 of 3123»
+Trending Content
+Python List,
+Set, Tuple & Dictionary
+Number Theory
+Set to Array in Java
+BFS, 	DFS
+School Programming
+Longest Repeated Subsequence
+Longest Palindromic Subsequence
+Detect a negative cycle.
+GATE CS Notes
+Reverse a linked list
+Most Visited Posts
+Top 10 Algorithms and Data Structures for Competitive Programming
+Top 10 algorithms in Interview Questions
+How to begin with Competitive Programming?
+Step by Step Guide for Placement Preparation
+How to prepare for ACM-ICPC?
+Insertion Sort,
+Binary Search,
+QuickSort,
+MergeSort,
+HeapSort
+Popular Categories
+Interview Experiences
+Advanced Data Structures
+Dynamic Programming
+Greedy Algorithms
+Backtracking
+Pattern Searching
+Divide & Conquer
+Geometric Algorithms
+Searching
+Sorting
+Analysis of Algorithms
+Mathematical Algorithms
+Randomized Algorithms
+Recursion
+Game Theory
+Statistical Algorithms
+TagsAdvanced Data Structure
+Amazon
+Aptitude
+Aptitude
+Arrays
+Bit Magic
+C
+C
+C++
+Computer Networks
+CPP-Library
+C Quiz
+Dynamic Programming
+Experienced
+GBlog
+Geometric
+Graph
+Hash
+Internship
+Interview Experiences
+ISRO
+Java
+java-stream
+JavaScript
+Linked Lists
+Mathematical
+Matrix
+Microsoft
+number-digits
+PHP
+Program Output
+Puzzles
+Python
+QA - Placement Quizzes
+QA - Placement Quizzes
+School Programming
+Searching
+series
+Sorting
+STL
+Strings
+Technical Scripter
+Trees
+UGC-NET
+Web Technologies
+710-B, Advant Navis Business Park,
+Sector-142, Noida, Uttar Pradesh - 201305
+feedback@geeksforgeeks.org
+COMPANY
+About Us
+Careers
+Privacy Policy
+Contact Us
+LEARN
+Algorithms
+Data Structures
+Languages
+CS Subjects
+Video Tutorials
+PRACTICE
+Company-wise
+Topic-wise
+Contests
+Subjective Questions
+CONTRIBUTE
+Write an Article
+GBlog
+Videos
+@geeksforgeeks, Some rights reserved

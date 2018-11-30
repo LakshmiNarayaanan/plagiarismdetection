@@ -1,0 +1,167 @@
+Department of Computer Science and Engineering at The University of Texas at Arlington
+Skip to content. Skip to main navigation.
+Home
+News
+Future Students
+Undergraduate Applicants
+Graduate Applicants
+Masters Students' Testimonials
+Current Students
+Undergraduate Study
+Graduate Study
+Courses, Catalog & Schedules
+Student Clubs/Organizations
+Student Services
+People
+Faculty Directory
+Research Associates and Postdocs Directory
+Staff Directory
+PhD Student Directory
+Research
+Centers & Labs
+Research Areas
+Technical Reports
+Seminars
+Invited Talks
+MS Defenses
+PhD Defenses
+Contacts
+External Relations
+Support CSE
+Faculty Positions
+Invited TalksMon 04/16 10:00 Deokgun Park - Visual Analytics for Comments Analysis - ERB 228 Details and More Talks >
+Computer Scienceand Engineering
+Administration Dr. Hong Jiang Chair 817-272-3605
+hong.jiang@uta.eduDr. Ramez Elmasri Associate Chair 817-272-2348
+elmasri@uta.edu Dr. Chengkai Li
+Associate Chair 817-272-0162
+cli@uta.edu
+Deliveries CSE Department c/o UTA Central Receiving Box 19015 1225 West Mitchell Arlington TX 76019
+Mailing Address Box 19015 Arlington, TX 76019 Phone / Fax Phone: 817-272-3785 Fax: 817-272-3784
+VisitorsMapParking Virtual Tour
+Computer Science and Engineering
+Invited TalksMon 04/16 10:00 Deokgun Park - Visual Analytics for Comments Analysis - ERB 228 Details and More Talks >
+New!
+Faculty Positions  CSE Flyer Spring 2018 Courses
+ABET Accredited
+External Relations
+Join us! We are hiring!
+The CSE department at UTA values faculty candidates who can contribute to the college’s and the department’s diversity initiatives. We further welcome experience with teaching or mentoring diverse groups of students, including first-generation college students, low-income students, racial and ethnic minorities, veterans, and women.
+UTA features:
+➢ Strong enrollment growth in CSE: Currently 1,270 Bachelor’s, 634 Master's, 110 Ph.D.
+➢ R1 university [Carnegie Classification of Institutions of Higher Education]
+➢ 2nd-lowest avg. student debt among U.S. univ. [U.S. News & World Report]
+➢ #5 in the U.S. for undergraduate diversity [U.S. News & World Report]
+➢ The top four-year college in Texas for veterans [Military Times’ 2017 Best for Vets]
+➢ A Hispanic-Serving Institution
+➢ #57 in CS: #4 (AI), #10 (OS), #19 (Databases), #20 (HPC), #21 (Bioinformatics), #33 (Security), #46 (ML & data mining) [csrankings.org, avg. 2016--2017 publication count, as of September 2017]
+➢ Best paper awards in several recent top-tier CS conferences
+➢ Several recent CSE graduates have accepted tenure-track positions
+➢ The $125-million Science and Engineering Innovation and Research (SEIR) building is under construction. It will house several CSE research labs.
+See our full ad
+The Department of Computer Science and Engineering is one of seven departments in the College of Engineering, the third-largest engineering college in Texas. Its mission is to serve the needs of the region, the state, and the nation by providing quality educational and innovative, relevant research programs in computer science and engineering. The department strives to offer first-rate undergraduate, graduate, and continuing education opportunities; conduct research and development technologies in selected areas, and facilitate technology transfer for the betterment of the quality of life. Its internationally recognized faculty members are engaged in breakthrough research across the leading areas of computer science and engineering.
+The department was established in 1981, and it is one of the first departments in the nation to have an undergraduate program accredited by both the Engineering Accreditation Commission and the Computing Accreditation Commission of ABET. At this time, we offer undergraduate degrees in Computer Engineering, Computer Science and Software Engineering, Master’s in Computer Engineering, Computer Science and Software Engineering, and PhD degrees in Computer Engineering and Computer Science. Currently we have 36 full-time faculty and over 1500 undergraduate and graduate students. Our undergraduate programs Computer Engineering, Computer Science and Software Engineering are ABET accredited.
+The department's graduates work at America's leading companies and governmental agencies and in other sectors. UT Arlington's location in the Dallas-Fort Worth metroplex - one of the nation's two most influential technology corridors - and strong relationship with major technology companies such as Lockheed Martin, Nokia, L-3, BNSF, Fidelity, Sabre Holdings, American Airlines, and many others, provides students with outstanding opportunities for internships and jobs.
+The department has a number of teaching and research laboratories, centers and other facilities that support its educational and teaching mission. These include the Biocomputing and Vision Laboratory (BioVIL), Computational Science Lab (CSL), Database Exploration Laboratory (DBXLAB), Distributed and Parallel Computing Lab, Embedded Systems and Instrumentation Lab, Health and Assistive Technology Laboratory (ASSIST), Heracleia Human-Centered Computing Laboratory, Information Security Lab (iSec), Information Technology Lab, Innovative Database and Information Systems Research Lab (IDIR), Learning and Adaptive Robotics Laboratory (LEARN), Multimedia Lab, Software Engineering Lab (SERC), Wireless Networks and Systems Lab (WINS), and the Vision-Learning-Mining Lab (VLM).
+Faculty Highlight
+January 31, 2017
+Jia Rao, Ph.D., is an Assistant Professor at the CSE Department. His research interests lie in the broad area of operating systems, distributed and parallel computing, and machine learning. His research focuses on improving the quality-of-service (QoS) of multi-tenant systems, including cloud systems and BigData analytics.
+Find out more about Dr. Rao's story.
+January 30, 2017
+Jiang Ming, Ph.D., is an Assistant Professor of CSE Department. His research focuses on security, especially software security and malware defense, including secure information flow analysis, software plagiarism detection, malicious binary code analysis, and software analysis for security issues.Jiang Ming has extensive academic and industry experience in computer security.
+Find out more about Dr. Ming's story.
+September 30, 2017
+Dajiang Zhu, Ph.D., is an Assistant Professor at the CSE Department. His research focuses on Brain Imaging Computing, Computational Neuroscience and Big Data solutions for medical data analysis through computational modeling and machine learning methods. A major goal of his research is to understand the organizational architecture of human brain functions.
+Find out more about Dr. Zhu's story.
+March 31, 2018
+Won Hwa Kim, Ph.D., is an Assistant Professor at the CSE Department. His research is focused on developing novel methods in Machine Learning and Computer Vision in the context of their applications in neuroimaging, neuroscience and healthcare. Specifically, he is interested in multi-resolution analysis of data that live in non-Euclidean spaces.
+Find out more about Dr. Kim's story.
+<<Prev
+Next>>
+Facts and Statistics
+Overall
+1,270 Bachelor’s students, 634 Master's students, 110 Ph.D. students (Fall 2017)
+Over $4M per year in research expenditures for the last 3 years
+$7.6M research grants in FY17, growing from $3.1M in FY16
+CSE faculty’s full papers in top conferences (those listed in csrankings.org) since 2012 (as of November 2017):  9 SIGMOD, 14 VLDB, 9 KDD, 7 NIPS, 6 ICML, 23 AAAI, 15 IJCAI, 13 CVPR, 13 ICCV, 4 ECCV, 3 USENIX ATC, 2 EuroSys, 1 FSE, 2 RTSS, 4 RECOMB, 1 INFOCOM
+National Rankings
+Computer Engineering #64, Computer Science #90 [U.S. News & World Report]
+#57 overall, #4 AI, #10 OS, #19 Databases, #20 High-Performance Computing, #21 Bioinformatics, #33 Security, #46 Machine Learning and Data Mining [csrankings.org, by average 2016- 2017 publications, as of September 2017]
+UT-Arlington: R1 university (Carnegie Classification), Hispanic-Serving Institution, 5th in the nation for undergraduate diversity [U.S. News & World Report], No.1 four-year college in Texas for veterans [Military Times’ 2017 Best for Vets list]; 2nd lowest average student debt among U.S. universities [U.S. News & World Report]
+Faculty and Student Achievements
+3 IEEE Fellows
+4 current NSF CAREER awardees, 6 NSF CAREER, 1 AFOSR YIP, and 1 NSF CRII awardees since 2006
+5 authors with 10,000+ citations
+Author of one of the most popular database textbooks
+General/Program Chairs of SIGMOD, BIBM, ICPP, PerCom, DaWaK, DEBS, IPCCC
+ACM SIGKDD doctoral dissertation award, ACM TOSEM distinguished referee, HP innovation research awards, ICDE 10-year best paper, Microsoft Research faculty summit speaker, Outstanding Associate Award of NIST, paper awards at ASE, APSys, CIDR, ICDM, ECMLPKDD, IUI, ISSRE, ISSTA, PPREW, PSIVT, SIGMOD, VLDB
+Recent graduates work at Amazon, Apple, Facebook, Google, HP, IBM, Intel, LinkedIn, Lockheed-Martin, Microsoft, NASA, Pivotal, Raytheon, Sabre, Salesforce, Teradata, Texas Instruments, Uber, and many other great companies
+Recent Ph.D. graduates secured tenure-track faculty positions at Colorado School of Mines, Kennesaw State University, NJIT, Texas State University, Univ. of Colorado at Denver, Univ. of Mississippi, Univ. of Texas Rio Grande Valley, researcher positions at HP Labs, Huawei, IBM Research India, QCRI, Walmart Labs, Visa Research, and post-doctorate research positions at Microsoft Research, Michigan, and Stony Brook University
+Research Areas
+Big Data and Large-Scale Computing
+Biocomputing and Health Informatics
+Computer Networks
+Computer Vision and Multimedia
+Database and Information Systems
+Embedded Systems and Mobile Computing
+Machine Learning and Data Mining
+Robotics and AI
+Security and Privacy
+Software Engineering
+Sustainable Computing
+Degrees Offered
+B.S. in Computer Engineering
+B.S. in Computer Science
+B.S. in Software Engineering
+M.S. in Computer Engineering
+M.S. in Computer Science
+Master of Software Engineering
+Ph.D. in Computer Engineering
+Ph.D. in Computer Science
+Computer Science & Engineering News
+EE, CSE Professors Rated Among Best in the World
+Three UTA engineering professors are among the top 100 computer science and electronics researchers in the world, according to guide2research.com.
+College Honors Faculty, Staff Excellence
+Dean Peter Crouch and the College of Engineering honored faculty and staff excellence at an awards luncheon April 29.
+Student Team Competes in Lockheed-Martin Ethics Competition
+A team of engineering students at The University of Texas at Arlington recently took on the topic, competing in the 2018 National Ethics in Engineering Case Competition, sponsored by Lockheed Martin.
+249 Undergraduates Earn Fall Dean's List Honors
+Sixty-nine undergraduate engineering students earned perfect 4.0 grade-point averages and 249 were named to the dean's list for the recently completed fall semester.
+CSE's Athitsos Teams With Industry to Provide Facial Recognition Software
+Vassilis Athitsos is working with Macnica Americas to evaluate existing deep learning methods for face detection and facial recognition to determine how to make better technology available to the company’s customers.
+CSE's Huang Earns Grant to Combine Methods for Better Brain Data Analysis
+Junzhou Huang will use a National Science Foundation to develop a method to combine topology and machine learning to make analysis of brain image data faster and more complete.
+CSE's Das Earns Grant to Allow Third-Party Users to Use Location-Based Data
+Gautam Das will use a $199,346 Early-concept Grant for Exploratory Research, or EAGER, from the National Science Foundation to show that it is possible to perform data analytics with only local views of location-based services.
+UTA, DART Partner to Offer Transformational Learning Experience
+UTA and Dallas Area Rapid Transit today launched a first-of-its-kind partnership offering select undergraduate students valuable experiential learning opportunities in engineering and other fields.
+CSE's Li Works to Refine Automated Fact-checking System
+A team of UTA researchers and their collaborators at Duke University, led by CSE's Chengkai Li, recently earned a three-year, $500,000 NSF grant to expand ClaimBuster, a tool they developed to verify facts reported in the media.
+Researchers Designing Robot-Based Vocational Assessment, Training
+Fillia Makedon, a professor in the Department of Computer Science and Engineering, is leading a team of researchers who will use a $999,638 NSF grant to develop iWork, a smart, robot-based system that assesses workers’ skills.
+Jeff Smith, CSE Alumnus and Entrepreneur, Follows His Passion
+Jeff Smith has been on the leading edge of technology for his entire life. His passion lies in robotics and artificial intelligence and the experience gained in a wide-ranging career helps him pursue that passion.
+CSE Researchers Ensure Data Center Optimization, Quality of Experience
+Hao Che and Hong Jiang believe they can allow outstanding user experiences while balancing computing and network resource allocation and will use a National Science Foundation grant to prove that it works.
+Jones Named Associate Dean for Graduate Studies
+Erick Jones, a professor in the Industrial, Manufacturing and Systems Engineering Department, has been named the College’s new associate dean for graduate studies, effective September 1.
+UTA-led Team to Construct Computer Program to Identify Fake News
+A UTA-led team is building computer tools to detect social bots within the worldwide web that create and spread fake news.
+CSE's Li, Jimenez Win Awards at ACM SIGMOD
+CSE associate professor Chengkai Li and his undergraduate student, Damian Jimenez, won awards at the Association of Computing Machinery (ACM) SIGMOD conference held in Chicago May 14-19.
+CSE Team Wins Best Student Paper Award at IUI Conference
+A team of computer science students and their advisors won the Best Student Paper Award at the 22nd Intelligent User Interfaces Conference in Cyprus March 13-16.
+College Celebrates Faculty-Staff Awards
+Several College of Engineering faculty and staff were honored for achievements in the previous year at the College’s annual faculty/staff awards luncheon March 28.
+UTA Leading in Cancer Research
+UTA is harnessing expertise from across campus to discover new ways to find, treat, and prevent cancer. View the Cancer Crusaders video.
+222 Students Named to Dean's List
+Fifty-seven undergraduate engineering students earned perfect 4.0 grade-point averages and 222 were named to the dean’s list for the recently completed fall semester.
+More Department News
+Computer Science and Engineering, UT Arlington
+Faculty Resources Student Apps
+Department of Computer Science and Engineering [cse.uta.edu] Engineering Research Building, Room 640, Box 19015, Arlington, TX 76010 Phone: 817-272-3785 | Fax: 817-272-3784
+©
+2018
+The University of Texas at Arlington.
+Faculty Resources Student Apps

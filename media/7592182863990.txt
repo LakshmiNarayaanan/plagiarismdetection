@@ -1,0 +1,700 @@
+Java Programming Language - GeeksforGeeks
+Write an Article
+Skip to content
+Algo ▼
+Analysis of Algorithms
+Topicwise ►
+Searching Algorithms
+Sorting Algorithms
+Graph Algorithms
+Bit Algorithms
+Pattern Searching
+Geometric Algorithms
+Mathematical Algorithms
+Randomized Algorithms
+Game Theory
+Algorithm Paradigms ►
+Greedy Algorithms
+Dynamic Programming
+Divide and Conquer
+Backtracking
+Branch & Bound
+All Algorithms
+DS
+▼
+Array
+LinkedList
+Stack
+Queue
+Tree based DS ►
+Binary Tree
+Binary Search Tree
+Heap
+Hashing
+Graph
+Advanced Data Structure
+Matrix
+Strings
+All Data Structures
+Languages ▼
+C
+C++
+Java
+Python
+SQL
+PHP
+Javascript
+Program Output
+Interview
+▼
+Company Prep
+Top Topics
+Practice Company Questions
+Interview Experiences
+Experienced Interviews
+Internship Interviews
+Competitive Programming
+Design Patterns
+Multiple Choice Quizzes
+Students
+▼
+Campus Ambassador Program
+Geek of the Month
+Placement Course
+Project
+Competitive Programming
+Testimonials
+Geek on the Top
+Careers
+Internship
+School Programming
+GATE ▼
+GATE CS Corner
+GATE Notes
+Last Minute Notes
+Official Papers
+Gate 2018 Important Dates and Links
+CS Subjects ▼
+Operating Systems
+DBMS
+Computer Networks
+Compiler Design
+Web Technology
+Computer Organization & Architecture
+Digital Electronics
+Engg. Mathematics
+Theory of Computation
+Advanced Topics
+What’s Difference?
+Quizzes ▼
+Languages ►
+C
+C++
+Java
+Python
+CS Subjectwise ►
+Data Structures
+Algorithms
+Operating Systems
+DBMS
+Compiler Design
+Computer Networks
+Theory of Computation
+Computer Organization
+Software Engineering
+HTML & XML
+Engg. Mathematics
+Aptitude
+GBlog
+Puzzles
+What’s New?
+▲
+Internships @ GeeksforGeeks
+Coding Practice
+How to write an Interview Experience?
+Must Do Coding Questions Company-wise
+Must Do Coding Questions Topic-wise
+Difficulty Levels
+Basic
+Easy
+Medium
+Hard
+Expert
+Popular Tags
+Amazon,
+Microsoft, Dynamic Programming, SamsungClick here for more
+Interview Preparation
+Step by Step Preparation
+Company Preparation
+Top Topics
+Company Specific Practice
+Software Design Patterns
+Placements Preparation Course
+Interview Corner
+Recent Interview Experiences
+GQ Home Page
+Quiz Corner
+LMNs
+Practice Platform
+What's New ?
+Leaderboard !!
+Topic-wise Practice
+Subjective Problems
+Difficulty Level - School
+Difficulty Level - Basic
+Difficulty Level - Easy
+Difficulty Level - Medium
+Difficulty Level - Hard
+How to pick a difficulty level?
+Explore More...
+Programming Languages
+C
+C++
+Java
+Python
+SQL
+PHP
+JavaScript
+Important Quick Links
+School Programming
+Operating Systems
+DBMS
+Computer Networks
+Engineering Mathematics
+Design Patterns
+Common Interview Puzzles
+Web Technology
+G-Facts
+Computer Graphics
+Image Processing
+Project Ideas
+Java Programming Language
+Recent articles     Java Output Questions and MCQ
+Overview, Basics,   OOP concepts,   Operators,   Strings,   Input and Output, Arrays , Arrays Class,  Important Keywords in Java ,Java vs C++,   Methods in Java,   Constructors,   Exception Handling, Regular Expressions, Inheritance, Interfaces and Abstract Classes, Java Packages, Multithreading,   Garbage Collection, Wrapper Classes, Reflection in Java,   File Handling,   Collection in Java, Collection Interview FAQ’s  ,Collections Class (Contains utility functions on Collections),   Useful and/or Advanced Features,   Image Processing,  Networking in Java, Interview Questions, Misc, Multiple Choice Questions, Java 8 Stream Methods
+Overview
+Setting up the environment
+The Hello World Example(Practice)
+Java Naming Conventions
+JVM
+JVM Stack Area
+Java Class File
+Differences between JDK, JRE and JVM
+Does JVM create object of Main class?
+Is main method compulsory in Java?
+File names and class names
+How to run java class file which is in different directory?
+Using predefined class name as Class or Variable name in Java
+Basics
+Java Identifiers
+Data types
+How to define our own data type in java(enum)
+Variables
+Scope of Variables
+Loops in Java(Practice)
+For-each loop in Java
+For Loop in Java | Important points
+Decision Making(if, if-else, switch, break, continue, jump)(Practice)
+Switch Statement in Java(Practice)
+String in Switch Case in Java
+Forward declarations
+Widening Primitive Conversion
+Type conversion in Java
+Comments in Java
+Does Java support goto?
+Interesting facts about null in Java
+Using underscore in Numeric Literals
+OOP concepts
+Classes and Objects
+Java object storage
+Different ways to create objects in Java
+How to swap or exchange objects
+Inheritance in Java
+Encapsulation in Java
+Abstraction in Java
+Run-time Polymorphism in Java
+Association,Composition and Aggregation
+Access and Non Access Modifiers in Java
+Access Modifiers
+this reference
+Method Overloading
+Output of Java program | Set 22 (Overloading)
+Method Overriding
+Output of Java program | Set 18 (Overriding)
+Shadowing of static methods(Also called Method Hiding)
+Covariant return types
+Object class
+Flexible nature of java.lang.Object
+Overriding equals method of Object class
+Overriding toString() method of Object class
+Instance Variable Hiding
+initializer block in java(static block)
+instance initializer block in java(non-static block)
+Static vs Dynamic Binding
+Why Java is not a purely Object-Oriented Language?
+Operators
+All Operators(Practice)
+Bitwise right shift operators
+Java instanceof operator and its applications
+Autoboxed Integer objects
+Addition and Concatenation
+Numeric Promotion in Conditional Expression
+Strings in Java
+String Class(Practice)
+StringBuffer Class
+Initialize and Compare Strings
+StringTokenizer class
+String vs StringBuilder vs StringBuffer
+StringJoiner in Java8
+When to use StringJoiner over StringBuilder?
+Integer to String Conversions
+String to Integer– parseInt()
+Split() String method
+Swap two Strings without using third variable
+Searching characters and substring in a String
+Java String toLowerCase()
+Reverse a string in Java (5 Different Ways)
+Remove Trailing Zeros From String in Java
+Counting number of lines, words, characters and paragraphs in a text file using Java
+Input and Output
+Command Line arguments
+Scanner Class
+Ways to read input from console in Java
+Scanner and nextChar()
+Scanner vs BufferReader Class
+Formatted output
+Fast I/O for Competitive Programming
+Reading input from console
+Arrays in Java
+Arrays in Java(Practice)
+Default Array values
+Compare two arrays
+Final arrays
+Jagged Array
+Array IndexOutofbounds Exception
+Array vs ArrayList in Java
+ArrayList to Array Conversion
+Custom ArrayList in Java
+Arrays Class (Contains utility functions for Arrays)
+Array class
+Arrays.toString()
+List to array in Java
+Arrays.deepToString()
+Arrays.equals()
+Arrays.fill()
+Arrays.sort()
+Arrays.copyof()
+Arrays.binarySearch() –  Set 1  Set 2
+Important Keywords
+Important Keywords in Java
+this keyword
+super Keyword
+static keyword
+final keyword
+abstract Keyword
+transient keyword in Java
+volatile keyword in Java
+strictfp keyword
+C++ vs Java
+C++ vs Java
+Static keyword in C++ vs Java
+Exception Handling in C++ vs Java
+Inheritance in C++ vs Java
+Virtual behavior differ in C++ vs Java
+Foreach in C++ and Java
+C/C++ Pointers vs Java References
+Comparison of boolean data type in C++ and Java
+Methods in Java
+Parameters passing
+Returning Multiple values
+Method Overloading
+Different ways of Method Overloading in Java
+Overriding equals method
+Overriding toString() method
+Private and final methods
+Java is Strictly Pass by Value
+Overloading main()
+Valid variants of main()
+Variable Arguments (Varargs) method
+Clone() method
+Remote Method Invocation
+Default Methods
+Method overloading and null error
+Method Overloading with Autoboxing and Widening
+Passing and Returning Objects in Java
+System.exit() method
+Constructors
+Constructors in Java
+Default constructor
+Assigning values to static final variables
+Copy Constructor
+Constructor Chaining
+Private Constructors and Singleton Classes
+Java Interview Questions on Constructors
+Singleton Class
+Constructor Overloading
+Output of Java Programs | Set 14 (Constructors)
+Exception Handling
+Exceptions
+3 Different ways to print Exception messages in Java
+flow control in try-catch-finally
+Types of Exceptions
+Catching base and derived classes as exceptions
+Checked vs Unchecked Exceptions
+Throw and Throws
+User-defined Custom Exception
+Infinity or Exception?
+Multicatch
+Chained Exceptions
+Null Pointer Exception
+Output of Java program | Set 12(Exception Handling)
+Regular Expressions
+How to write Regular Expressions?
+Regular Expression(java.util.regex)
+Quantifiers
+Inheritance
+Inheritance in Java
+Multiple Inheritance
+Why Java does’nt support Multiple Inheritance – The Diamond Problem
+Java Object Creation of Inherited Class
+Inheritance and constructors
+Interfaces and Inheritance
+Using final with Inheritance
+Accessing Grandparent’s member
+Override private methods
+More restrictive access to a derived class method in Java
+Parent and Child classes having same data member
+Object Serialization with Inheritance
+Referencing Subclass objects with Subclass vs Superclass reference
+Does overloading work with inheritance
+Output of Java Program | Set 20 (Inheritance)
+Interfaces and Abstract Classes
+Interfaces
+Access specifier for methods in interfaces
+Access specifiers for classes or interfaces
+Abstract Classes
+Difference between Abstract Class and Interface in Java
+Comparator Interface
+Java Interface methods
+Nested Interface
+Nested Classes in Java
+Local Inner Class in Java
+Anonymous Inner Class in Java
+Functional Interfaces
+What is a Marker interface
+Questions on Abstract Classes and Interfaces
+Output of Java program | Set 15 (Inner Classes)
+Java Packages
+Packages Introduction
+java.io package
+java.lang package
+java.util package
+Multithreading
+Multithreading
+Lifecycle and states of a thread
+Main thread
+Methods to prevent thread execution
+inter thread communication
+Java.lang.Thread class
+Start() function in multithreading
+Java Thread Priority
+Joining Threads in Java
+Naming a thread and fetching name of current thread in Java
+Synchronization
+Method and Block Synchronization
+Producer-Consumer solution
+Thread Pools in Java
+Semaphore in Java
+Java.util.concurrent.Semaphore class in Java
+CountDownLatch
+Deadlock in java
+Daemon thread
+Cyclic Barrier in Java
+Callable and Future in Java
+Shutdown Hook in Java
+Runtime Class
+Output of Java program | Set 16 (Threads)
+Garbage Collection
+Garbage Collection
+How to make object eligible for garbage collection in Java?
+Mark-and-Sweep
+Island of Isolation
+Automatic Resource Management
+Output of Java programs | Set 10 (Garbage Collection)
+Wrapper Classes
+Wrapper Classes in Java
+Primitive Wrapper Classes are Immutable in Java
+Number Class
+Integer class
+Byte class
+Short class
+Long class
+Float class
+Double class
+Boolean Class
+Character Class
+Autoboxing and Unboxing in Java
+Reflection in Java
+Reflection in Java
+new operator vs newInstance()
+instanceof operator vs isInstance()
+File Handling
+File class
+Ways of Reading a text file in Java
+file permissions in java
+Moving a file from one directory to another using Java
+Copying file using FileStreams
+Delete a file using Java
+Java program to delete duplicate lines in text file
+Java program to merge two files alternatively into third file
+Java program to List all files in a directory and nested sub-directories | Recursive approach
+Java program to delete certain text from a file
+Check if a File is hidden in Java
+Redirecting System.out.println() output to a file
+Collection in Java
+Collection Overview
+Iterators
+Using Iterators
+Iterator vs Foreach
+Types of iterator
+List Interface
+List implemented classes :
+ArrayList(Practice)
+LinkedList class
+Vector class
+Stack Class
+Set Interface(Practice)
+Set implemented classes :
+HashSet
+LinkedHashSet class(Practice)
+TreeSet class
+EnumSet class
+Map interface
+Map implemented classes :
+HashMap Class(Practice)
+HashMap Methods-Set 1 Set 2
+LinkedHashMap class
+TreeMap
+EnumMap class
+IdentityHashMap class
+SortedSet Interface
+NavigableSet Interface
+Queue Interface
+Queue implemented classes :
+PriorityQueue
+Deque interface
+SortedMap Interface
+NavigableMap Interface
+Dictionary Class in Java
+Disjoint Set Data Structures (Java Implementation)
+Output of Java Program | Set 13(Collections)
+Collection Interview FAQ’s
+Vector vs ArrayList
+ArrayList vs LinkedList
+Comparable vs Comparator
+Differences between TreeMap, HashMap and LinkedHashMap
+HashMap vs HashTable
+Hashmap vs WeakHashMap in Java
+How to Synchronize ArrayList in Java
+ArrayList and LinkedList remove() methods
+How to Remove an element from ArrayList
+Collections Class (Contains utility functions on Collections)
+Collections.shuffle()
+Collections.swap()
+Collections.reverse()
+Collections.binarySearch()
+Collections.sort()
+Collections.rotate()
+Collections.frequency() –  Set 1  Set 2(Use with arrays)
+Collections.disjoint()
+Collections.reverseOrder()
+Double Brace Initialization
+Useful and/or Advanced Features
+Generics
+Wildcards in Java
+Assertions
+Annotations
+Serialization and Deserialization
+Lambda Expressions – Java 8
+Stream
+BigInteger Class
+Image Processing
+Set 1 (Read and Write)
+Set 2 (Get and Set Pixels)
+Set 3 (Colored image to greyscale image conversion)
+Set 4 (Colored image to Negative image conversion)
+Set 5 (Colored to Red Green Blue Image Conversion)
+Set 6 (Colored image to Sepia image conversion)
+Set 7 (Creating a random pixel image)
+Set 9 ( Face Detection )
+Set 10 ( Watermarking an image )
+Set 11 (Changing orientation of image)
+Set 12 ( Contrast Enhancement )
+Networking in Java
+Socket Programming
+Introducing Threads in Socket Programming in Java
+URL class in Java
+Reading from a URL using URLConnection Class
+Inet Address Class
+Java.net.DatagramSocket class in Java
+Java.net.InetSocketAddress class
+Java.net.URI class
+Java.net.Inet4Address class in Java
+Java.net.Inet6Address class in Java
+Java.net.InterfaceAddress class
+Java.net.MulticastSocket class in Java
+Java.net.DatagramPacket class in Java
+Java.net.URLEncoder class in Java
+Java.net.URLDecoder class in Java
+A group chat Application
+Java program to find IP address of your computer
+Multi-threaded chat Application | Set 1 (Server Side Programming)
+Multi-threaded Chat Application | Set 2 (Client Side Programming)
+Interview Questions
+Commonly Asked Programming Interview Questions – Set 1  Set 2
+10 Most asked Questions from Java Programmers
+Google Interview Experience | Set 5 (for Java Position)
+Misc
+Java tricks for competitive programming (for Java 8)
+Fast I/O in Java in Competitive Programming
+Performing Database Operations in Java | SQL CREATE, INSERT, UPDATE, DELETE and SELECT
+Establishing JDBC Connection
+Few Tricky Programs
+How to swap two variables in one line?
+Implementing our Own Hash Table with Separate Chaining
+Quick ways to check for Prime and find next Prime in Java
+How to create Immutable class
+Pair Class in Java
+Date class(With Examples)
+Generating random numbers
+Trigonometric Functions in Java with Examples
+BitSet class in Java – Set 1 Set 2
+Jar files in Java
+Working with JAR and Manifest files In Java
+NaN (Not a Number) in Java
+Generating Password and OTP
+Use char[] array over a string for store passwords
+Find free disk space using Java
+Programs for printing pyramid patterns in Java
+Creating Frames using Swings in Java
+Calling an External Program in Java using Process and Runtime
+Multiples of 3 and 5 without using % operator
+Serial vs Parallel Sort
+How to play an Audio file using Java
+Send email using Java Program
+All articles in Java Category
+Coding Practice Platform
+You can create a new Java topic and discuss it with other geeks using our portal PRACTICE. See recently added problems on Java on PRACTICE.
+Company Wise Coding Practice
+Topic Wise Coding Practice
+Writing code in comment? Please use ide.geeksforgeeks.org, generate link and share the link here.
+Load Comments
+Share this post !
+Trending Content
+Python List,
+Set, Tuple & Dictionary
+Number Theory
+Set to Array in Java
+BFS, 	DFS
+School Programming
+Longest Repeated Subsequence
+Longest Palindromic Subsequence
+Detect a negative cycle.
+GATE CS Notes
+Reverse a linked list
+Most Visited Posts
+Top 10 Algorithms and Data Structures for Competitive Programming
+Top 10 algorithms in Interview Questions
+How to begin with Competitive Programming?
+Step by Step Guide for Placement Preparation
+How to prepare for ACM-ICPC?
+Insertion Sort,
+Binary Search,
+QuickSort,
+MergeSort,
+HeapSort
+Popular Categories
+Interview Experiences
+Advanced Data Structures
+Dynamic Programming
+Greedy Algorithms
+Backtracking
+Pattern Searching
+Divide & Conquer
+Geometric Algorithms
+Searching
+Sorting
+Analysis of Algorithms
+Mathematical Algorithms
+Randomized Algorithms
+Recursion
+Game Theory
+Statistical Algorithms
+TagsAdvanced Data Structure
+Amazon
+Aptitude
+Aptitude
+Arrays
+Bit Magic
+C
+C
+C++
+Computer Networks
+CPP-Library
+C Quiz
+Dynamic Programming
+Experienced
+GBlog
+Geometric
+Graph
+Hash
+Internship
+Interview Experiences
+ISRO
+Java
+java-stream
+JavaScript
+Linked Lists
+Mathematical
+Matrix
+Microsoft
+number-digits
+PHP
+Program Output
+Puzzles
+Python
+QA - Placement Quizzes
+QA - Placement Quizzes
+School Programming
+Searching
+series
+Sorting
+STL
+Strings
+Technical Scripter
+Trees
+UGC-NET
+Web Technologies
+710-B, Advant Navis Business Park,
+Sector-142, Noida, Uttar Pradesh - 201305
+feedback@geeksforgeeks.org
+COMPANY
+About Us
+Careers
+Privacy Policy
+Contact Us
+LEARN
+Algorithms
+Data Structures
+Languages
+CS Subjects
+Video Tutorials
+PRACTICE
+Company-wise
+Topic-wise
+Contests
+Subjective Questions
+CONTRIBUTE
+Write an Article
+GBlog
+Videos
+@geeksforgeeks, Some rights reserved

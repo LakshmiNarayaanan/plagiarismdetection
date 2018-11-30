@@ -1,0 +1,91 @@
+How do I correctly submit my Proof of Identity? – Coinfloor Support
+Submit a request
+Coinfloor Support
+Follow
+How do I correctly submit my Proof of Identity?
+August 30, 2018 18:00
+Coinfloor Support
+Getting started
+Account Verification
+Coinfloor Exchange UK models regulatory best practice and is preemptively compliant with regulatory guidelines to ensure the security and limit counterparty risk for our clients and their funds. As part of the application process, all prospective Coinfloor Exchange UK customers must complete our Know Your Customer (KYC) and Anti-Money Laundering (AML) verification processes. This process requires you to provide proof of identity and pass verification checks.
+Proof of Identity Guidelines
+Please upload a copy of your valid identification in PNG, JPEG or PDF format, no larger than 3mb in size
+The image must be high quality, unobstructed and uncropped
+The image must show a full document page or in case of national ID photocards, both sides of the card
+Please find the detailed list of acceptable documents below:
+POI Document type
+Details
+Current valid passport
+Passport must be valid and display the full photo ID page with a clear facial picture of the applicant and the passport holder's signature
+All passport details must match the details as submitted in the application, including:
+First and last name of applicant
+Date of Birth
+Passport date of issue and expiry date
+Passport number
+The Machine Readable Zone (bottom barcode) must be legible and complete
+The passport must not be expired
+Current valid UK/EU Driving License
+Document must be valid and display a clear facial picture of the applicant
+All document details must match the details as submitted in the application, including:
+First and last name
+Date of Birth
+Document date of issue and expiry
+Document number
+The document can only be used as proof of identity
+The document must not be expired
+If the required information is not visible in one side of the document, a high quality scan or a picture of both sides must be provided
+Current valid government issued identity card
+Document must be valid and display a clear facial picture of the applicant
+​All document details must match the details as submitted in the application, including:
+First and last name
+Date of Birth
+Document date of issue and expiry
+Document number
+If the required information is not visible in one side of the document, a high quality scan or a picture of both sides must be provided
+​The document must not be expired
+We can not accept Electoral Identity Cards
+Proof of Address Guidelines
+We may request a proof of address to be provided
+​The document must be in PNG, JPEG or PDF format and be no larger than 4mb in size
+The image must be high quality, unobstructed and uncropped
+The image must show a full document page
+The document must be issued in the applicant’s name and show their current residential address
+Please find the detailed list of acceptable documents below:
+POA Document type
+Details
+Bank, credit card or mortgage statement (either hard copy or electronic statements are acceptable)
+Statement must be dated within the previous three calendar months
+Statement must contain the applicant’s current address and show activity (ie. customer transactions) within the last four months
+First and last name on the document must match exactly with the information provided in the application
+Address shown on the document must match exactly with the information provided in the application
+Statement may be in the joint name of the applicant and his/her partner, but not solely in the name of his/her partner or another person
+Utility (water, gas or electricity), telephone landline, broadband or TV license bill (either hard copy or electronic statements are acceptable)
+Bill must be dated within the last three calendar months, except for water bills, which must relate to the current charging period
+First and last name on the document must match exactly with the information provided in the application
+Address shown on the document must match exactly with the information provided in the application
+Bill may be in the joint name of the applicant and his/her partner, but not solely in the name of his/her partner or another person
+We cannot accept mobile phone bills, TV licences or utility bills addressed to a different address to where the utility is being provided
+Council Tax bill (either hard copy or electronic statements are acceptable)
+Bill must be dated within the last six calendar months or valid for the current financial year.
+First and last name on the document must match exactly with the information provided in the application
+Address shown on the document must match exactly with the information provided in the application
+Bill may be in the joint name of the applicant and his/her partner, but not solely in the name of his/her partner or another person
+HMRC Documentation (PAYE Coding Notice / Tax Notification / Self-Assessment / Statement of Accounts / NI contributions bill)
+Document must be dated within the last three calendar months or valid for the current financial year
+First and last name on the document must match exactly with the information provided in the application
+Address shown on the document must match exactly with the information provided in the application
+We cannot accept P45 or P60 forms
+** All documents provided must be easily legible and of high resolution.
+Was this article helpful?
+1 out of 1 found this helpful
+Facebook
+Twitter
+LinkedIn
+Google+
+Have more questions? Submit a request
+Related articles
+How can I have my Coinfloor Exchange UK account verified quickly?
+Why do you need a copy of my ID and proof of address?
+What do I need to complete an application on Coinfloor Exchange UK?
+If I have other questions how can I contact Coinfloor Exchange UK?
+Why can I not see the fiat deposit details immediately after approval?

@@ -1,0 +1,1101 @@
+Wikipedia:WikiProject England - WikiVividly
+WikiVividly
+Wiki as never seen before with video and photo galleries, discover something new today
+TOP LISTS
+/ VIDEOS
+·
+VIDEO PICKER
+·
+LANGUAGE
+LANG
+click links in text for more info
+Wikipedia:WikiProject England
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+WikiProject England
+General information (edit · changes)
+Project Page
+Participants
+Announcements
+Requests for Articles
+Articles up for deletion
+Related Pages
+Assessment
+Templates
+Project Templates
+Regional and local projects
+Article Statistics
+England-related articles by quality and importance
+Quality
+Importance
+Top
+High
+Mid
+Low
+NA
+???
+Total
+FA
+14
+52
+64
+82
+2
+214
+FL
+1
+9
+62
+1
+73
+A
+1
+1
+GA
+14
+36
+134
+266
+201
+651
+B
+17
+128
+221
+385
+74
+825
+C
+34
+124
+450
+1,894
+1
+265
+2,768
+Start
+35
+163
+1,324
+11,861
+2
+1,895
+15,280
+Stub
+3
+39
+437
+13,374
+2
+2,038
+15,893
+List
+1
+18
+62
+1,152
+4
+175
+1,412
+Category
+12,979
+12,979
+Disambig
+1
+61
+62
+File
+1
+97
+98
+Portal
+2
+169
+171
+Project
+15
+15
+Template
+2
+3
+1,118
+1,123
+NA
+13
+608
+3
+624
+Other
+1
+34
+1
+36
+Assessed
+118
+562
+2,706
+29,094
+15,090
+4,655
+52,225
+Unassessed
+2
+25
+1,472
+1,499
+Total
+118
+562
+2,708
+29,119
+15,090
+6,127
+53,724
+WikiWork factors (?)
+ω = 7005186632000000000♠186,632
+Ω = 5.24
+Shortcuts
+WP:WPENG
+WP:England
+Welcome to WikiProject England! Some Wikipedians have formed a Project to improve and organise articles which relate to England. We are dedicated to improving these articles and if you would like to help, please add your name to the participants!
+Contents
+1 Goals
+2 Announcements and open tasks
+2.1 Special request
+2.2 Importance
+3 Featured content
+3.1 Articles
+3.2 Lists
+3.3 Pictures
+4 Templates
+4.1 Portals
+4.2 Candidates
+4.3 New articles
+5 Categories
+6 Resources
+7 Associated projects
+8 Article alerts
+Goals[edit]
+Improve the coverage of English parishes to more than just one line by adding photos and infoboxes where appropriate
+To better organise and link together England related articles throughout wikipedia (festivals, customs etc.) so that they can be more easily explored by interested laymen
+Increase the detail of articles about English including illustrations and photos where appropriate
+Set a common style for English related articles
+Improve the article England to featured status.
+Ensure that sub articles like Education in England and Geography of England are to a high standard, whilst not using too much from the similar articles at History of the United Kingdom.
+English city and town articles such as London to a high standard.
+Fulfill requests for photos in Category:Wikipedia requested photographs in England
+Announcements and open tasks[edit]
+Cleanup listing for this project is available. See also the tool's wiki page and the index of WikiProjects.
+<feel free to add tasks here>
+Sherborne_School: One of the classic British public schools. Much of the article is a copyvio from an old brochure. (See Talk:Sherborne_School#Copyvio) There are some conflict of interest problems. (See Wikipedia:Conflict_of_interest/Noticeboard#User:SherborneArchives_reported). And, amusingly, there seems to be a slow-motion edit war between the school management, which wants to join the 21st century, and the old boys' association (their website: [1]), which wants to focus on the Good Old Days (of cold showers and hazing, perhaps[2]). This needs some good edits by an interested but neutral party. --John Nagle (talk) 17:48, 18 April 2014 (UTC)
+Anglophobia: needs input on whether what I have added ([[3]]) should remain in this article, or needs to be changed in some way. I'd also appreciate it if someone could add material about Anglophobia outside the United Kingdom.
+The Robert Baden-Powell, 1st Baron Baden-Powell article was promoted to Featured article. Read the argumentation in the comments. Wim van Dorst (Talk) 20:13, 21 April 2007 (UTC).
+United Kingdom - Split off parts in sub articles.
+Downing Street memo - need some tidying up, fleshing out of lead and trim of ext links but has 60 references
+Victorian architecture - article extremely biased towards architecture in the USA. See Talk:Victorian architecture for details. --Kudpung (talk) 12:15, 12 August 2009 (UTC)
+Joan Pujol Garcia - The Spanish WWII double-agent better known as GARBO. Awarded both an MBE from George VI and the Iron Cross by Hitler. Convinced Germans that Normandy was a diversion. Submitted for Good Article status, trying to get featured in time for D-Day anniversary. K8 fan (talk) 00:44, 20 March 2012 (UTC)
+Re-rated to B Class. Thanks! How can we get it to GA class in the opinion of those more knowledgeable about the subject's importance to the history of England? K8 fan (talk) 02:17, 1 April 2012 (UTC)
+Scunthorpe could be nominated for GA if the long-tagged refs problems were sorted.--Robert EA Harvey (talk) 07:48, 18 March 2013 (UTC)
+House of Commons of England needs to be expanded. I was surprised that it is such a short article. Much more history needs to be added, and things like when did the election of its members started, what were the requirements to be a voter, and how these changed through time. Thinker78 (talk) 07:35, 5 December 2017 (UTC)
+Special request[edit]
+Thousands and thousands of articles are located in Category:England and all of its sub-categories and they all need tagging using {{WPE}} and rating for class and importance, for example to rate an article as top importance and class A, you would type {{WPE|class=A|importance=Top}}, for the class there is a range of different types, the following is a list of them:
+A - An excellent article - above Good article status (The article does not have to have been given GA status to be classed as A)
+GA - The article has been officially reviewed by a non-editor to the article and has been given the official good article status
+B - A well written article but lacking certain information, however still of a high standard, with references.
+C - The article is better than a start, gives a reasonable coverage of subject but is incomplete, is wikified, has some refs, but lacking in style & layout.
+Start - The article is more than just a stub but needs a lot of work doing to it, possible work includes wikifying etc.
+Stub - The article is very short yet explains the title and gives enough information but more information could be added.
+Importance[edit]
+Top - This is for very high importance articles (e.g. London) which are widely recognised.
+High - High importance articles which are recognised but not as well known as - for example the capital of a country.
+Mid - Articles and people/places etc. in which are recognised nationally but not internationally.
+Low - Articles about places just within the local community and not internationally known, (e.g. A local school).
+Featured content[edit]
+Articles[edit]
+Albert Bridge, London
+Altrincham
+Anna Laetitia Barbauld
+Arsenal F.C.
+Ashton-under-Lyne
+Baden-Powell House
+Bath, Somerset
+Battersea Bridge
+Battle of Barnet
+Battle of Bosworth Field
+Belton House
+Birchington-on-Sea
+Blyth, Northumberland
+Matthew Brettingham
+Brownhills
+Brownsea Island Scout camp
+Bruce Castle
+Buckingham Palace
+Buildings and architecture of Bristol
+Charing Cross, Euston and Hampstead Railway
+Charles II of England
+Chat Moss
+Cheadle Hulme
+Chelsea Bridge
+Chew Stoke
+Chew Valley
+Chew Valley Lake
+City and South London Railway
+Doctor Who missing episodes
+Dorset
+East End of London
+Edward III of England
+Edward VIII
+Edward VI of England
+Elizabeth I of England
+Exmoor
+George Fox
+George I of Great Britain
+George III of the United Kingdom
+George IV of the United Kingdom
+George VI
+Gilwell Park
+Great Fire of London
+Great Northern, Piccadilly and Brompton Railway
+Greater Manchester
+Gropecunt Lane
+Hellingly Hospital Railway
+Damon Hill
+Isle of Portland
+James VI and I
+Lilias Armstrong
+Local Government Commission for England (1992)
+London congestion charge
+M62 motorway
+Maiden Castle, Dorset
+Manchester
+Manchester Bolton & Bury Canal
+Mary II of England
+Mendip Hills
+Modernist poetry in English
+Herne Bay, Kent
+Henry Moore
+Benjamin Mountfort
+Navenby
+Oldham
+Only Fools and Horses
+Order of the Bath
+Peterborough
+Radcliffe, Greater Manchester
+Restoration spectacular
+Richmond Bridge, London
+Sale, Greater Manchester
+Scout Moor Wind Farm
+Shaw and Crompton
+Sheerness
+Sheffield
+Sheffield Wednesday F.C.
+Somerset
+Stretford
+Theatre Royal, Drury Lane
+J. R. R. Tolkien
+Trafford
+Tunnel Railway
+John Vanbrugh
+Vauxhall Bridge
+Warwick Castle
+West Wycombe Park
+Westgate-on-Sea
+Weymouth
+Jonathan Wild
+William III of England
+William IV of the United Kingdom
+Mary Wollstonecraft
+Wormshill
+Lists[edit]
+Chief Justice of the Common Pleas
+Grade I listed buildings in Bristol
+Grade I listed buildings in Greater Manchester
+Grade I listed buildings in Lincolnshire
+Grade I listed buildings in Mendip
+Grade I listed buildings in North Somerset
+Grade I listed buildings in Sedgemoor
+Grade I listed buildings in South Somerset
+Grade I listed buildings in Taunton Deane
+Grade I listed buildings in West Somerset
+List of castles in Cheshire
+List of castles in Greater Manchester
+List of churches in Lincolnshire
+List of London Underground stations
+List of places of worship in Brighton and Hove
+List of places of worship in Crawley
+List of public art in the City of Westminster
+List of railway stations in Greater Manchester
+List of railway stations in the West Midlands
+List of Scheduled Monuments in Greater Manchester
+List of Sites of Special Scientific Interest in Avon
+List of Sites of Special Scientific Interest in Cleveland
+List of Sites of Special Scientific Interest in East Sussex
+List of Sites of Special Scientific Interest in Greater London
+List of Sites of Special Scientific Interest in Greater Manchester
+List of Sites of Special Scientific Interest in Hertfordshire
+List of Sites of Special Scientific Interest on the Isle of Wight
+List of Sites of Special Scientific Interest in Lincolnshire
+List of Sites of Special Scientific Interest in Merseyside
+List of Sites of Special Scientific Interest in Somerset
+List of Sites of Special Scientific Interest in the West Midlands
+List of Sites of Special Scientific Interest in Wiltshire
+List of tallest buildings and structures in Manchester
+List of tallest buildings and structures in Salford
+Listed buildings in the rural area of Runcorn
+Listed buildings in the urban area of Runcorn
+List of monastic houses in England
+List of museums in Lincolnshire
+New churches by John Douglas
+List of locks on the Kennet and Avon Canal
+List of windmills in Lincolnshire
+Timeline of the London Underground
+Pictures[edit]
+See also: Featured Pictures List
+Templates[edit]
+What to type
+What it produces
+Uses
+{{WPE}}
+WikiProject England
+(Rated Project-class)
+EnglandWikipedia:WikiProject EnglandTemplate:WikiProject EnglandEngland-related articles
+England portal
+v
+t
+e
+This page is within the scope of WikiProject England, a collaborative effort to improve the coverage of England on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.
+Project
+This page does not require a rating on the project's quality scale.
+To be placed on article talk pages, designates that an article is within the scope of the Project, articles can also be rated to find their overall quality and importance.
+{{WPE-Member}}
+This user is a member of WikiProject England, a WikiProject which aims to create, edit and expand articles relating to England. Please feel free to join us.
+Optional large banner in which users can display on their Userpage telling viewers that they are a member of the Project, can replace the Userbox or be an addition to it,
+{{WPE-Invite}}
+Hello! I thought you may be interested in joining WikiProject England. We work on creating, expanding and making general changes to England related articles. If you would be interested in joining feel free to visit the Project Page!. Thank You.
+To be placed on User talk pages of users who you have noticed contribute regularly to England related articles, if they decide to join they will list themselves on the list of participants
+{{User WPEngland}}
+This user is a member of
+WikiProject England
+Designates that a User is a member of this Wikiproject. This can be used instead or as well as the above banner.
+{{English Barnstar}}
+The English Barnstar of National Merit
+{{{1}}}
+this WikiAward was given to {{subst:PAGENAME}} by ~~~ on ~~~~~
+To be awarded to users who are greatly involved in the project
+Portals[edit]
+Portal:London
+Portal:South East England
+Portal:North East England
+Candidates[edit]
+Anything applicable to the project that's already listed at Featured article candidates, Featured picture candidates, or Featured list candidates
+River Parrett
+List of civil parishes in Somerset
+New articles[edit]
+Please feel free to list your new England-related articles here (newer articles at the top, please). Any new articles that have an interesting or unusual fact in them should be suggested for the Did you know? box the Main Page.
+Belsar's Hill User:Wasechun tashunka As per request
+Crowfield, Suffolk User:JonS1950 Improving a stub-article. 21:03 15 October 2012 (UTC)
+Industrial novel Rwood128 (talk) 13:10, 14 October 2012 (UTC)
+British regional literature Rwood128 (talk) 13:10, 14 October 2012 (UTC)
+List of English Electoral Wards by Constituency - just thought it might fit in. 07bargem (talk) 14:34, 5 June 2010 (UTC)
+Belmont Castle, England – current DYK nomination. Voceditenore (talk) 14:59, 24 March 2010 (UTC)
+Jack Barnes - Current DYK nom (my first). WFCforLife (talk) 00:53, 1 February 2010 (UTC)
+Categories[edit]
+Category:England
+Category:Listed buildings in England
+Resources[edit]
+List of United Kingdom locations contains many coordinates for UK locations, in lat/long or OSGB format.
+Geograph British Isles project contains many Creative Commons Share-alike v2.0 images which are usable by wikipedia.
+Commons:Category:England Wikimedia Commons England category.
+Images of England details of listed buildings from English Heritage
+Associated projects[edit]
+Parent
+Neighbouring areas
+Overlapping
+Similar
+Daughter
+WikiProject European Union
+WikiProject United Kingdom
+WikiProject UK geography
+WikiProject Scotland
+WikiProject Wales
+WikiProject Northern Ireland
+WikiProject Cities
+WikiProject UK Parliament constituencies
+WikiProject UK Railways
+WikiProject UK subdivisions
+WikiProject France
+WikiProject Spain
+WikiProject Italy
+WikiProject Germany
+Regional and local projects
+WikiProject English Royalty
+WikiProject Anglo-Saxon Kingdoms
+WikiProject Channel Islands
+Related Taskforces
+WP:British Isles Terminology task force
+Wikimedia Commons has media related to England.
+Wikimedia Commons has media related to Category:England.
+Article alerts[edit]
+Article alerts
+Today's featured articles
+14 Apr 2018 – Urse d'Abetot (talk · edit · hist) will be Today's Featured Article; see blurb
+Articles for deletion
+07 Apr 2018 – Teminite (talk · edit · hist) was AfDed by KingAndGod (t · c); see discussion (2 participants)
+05 Apr 2018 – Cruise1st (talk · edit · hist) was AfDed by Calton (t · c); see discussion (2 participants)
+02 Apr 2018 – Loreen Hall (talk · edit · hist) AfDed by My name is not dave (t · c) was closed as keep by My name is not dave (t · c) on 05 Apr 2018; see discussion (14 participants)
+29 Mar 2018 – Cycloc (talk · edit · hist) AfDed by TonyBallioni (t · c) was closed as delete by RoySmith (t · c) on 06 Apr 2018; see discussion (4 participants)
+29 Mar 2018 – Yieldify (talk · edit · hist) AfDed by K.e.coffman (t · c) was closed as delete by 78.26 (t · c) on 05 Apr 2018; see discussion (4 participants)
+27 Mar 2018 – Tutorfair (talk · edit · hist) AfDed by Rayman60 (t · c) was closed as delete by 78.26 (t · c) on 03 Apr 2018; see discussion (5 participants)
+27 Mar 2018 – Thomas Malroi (talk · edit · hist) AfDed by SamHolt6 (t · c) was closed as delete by Amorymeltzer (t · c) on 03 Apr 2018; see discussion (11 participants)
+26 Mar 2018 – Margret of Warwick (talk · edit · hist) AfDed by Boleyn (t · c) was closed as delete by Spartaz (t · c) on 03 Apr 2018; see discussion (7 participants)
+Proposed deletions
+04 Apr 2018 – Tregunter Road (talk · edit · hist) PRODed by JamesBWatson (t · c) was deproded by Andrew Davidson (t · c) on 08 Apr 2018
+Categories for discussion
+08 Apr 2018 – Category:Schools of medicine in England (talk · edit · hist) was CfDed by Paul 012 (t · c); see discussion
+30 Mar 2018 – Category:Fictional English people of Irish descent (talk · edit · hist) was CfDed by Marcocapelle (t · c); see discussion
+29 Mar 2018 – Category:Peers by year (talk · edit · hist) was CfDed by BrownHairedGirl (t · c); see discussion
+27 Mar 2018 – Category:Railway accidents in England (talk · edit · hist) was CfDed by Carlossuarez46 (t · c); see discussion
+27 Mar 2018 – Category:Lists of railway accidents in England (talk · edit · hist) was CfDed by Carlossuarez46 (t · c); see discussion
+22 Mar 2018 – Category:Serjeants-at-law (talk · edit · hist) was CfDed by BrownHairedGirl (t · c); see discussion
+24 Feb 2018 – Category:English basketball coaches (talk · edit · hist) was CfDed by Namiba (t · c); see discussion
+09 Feb 2018 – Category:Twin sportspeople from England (talk · edit · hist) was CfDed by Namiba (t · c); see discussion
+Featured article candidates
+10 Mar 2018 – Buckton Castle (talk · edit · hist) was FA nominated by Richard Nevell (t · c); see discussion
+Good article nominees
+26 Mar 2018 – Tottenham Hotspur F.C. (talk · edit · hist) was GA nominated by Govvy (t · c); start discussion
+24 Mar 2018 – Charlotte of Mecklenburg-Strelitz (talk · edit · hist) was GA nominated by Conservatrix (t · c); start discussion
+25 Dec 2017 – The High Llamas (talk · edit · hist) was GA nominated by Ilovetopaint (t · c); start discussion
+Good topic candidates
+09 Nov 2017 – 2005 FA Cup Final (talk · edit · hist) was GT nominated by Lemonade51 (t · c); see discussion
+09 Nov 2017 – Battle of the Buffet (talk · edit · hist) was GT nominated by Lemonade51 (t · c); see discussion
+Requests for comments
+17 Mar 2018 – Andrew Wakefield (talk · edit · hist) has an RfC by NewYorkActuary (t · c); see discussion
+Peer reviews
+19 Mar 2018 – Arthur Frederick Bettinson (talk · edit · hist) has been put up for PR by Okeeffemarc (t · c); see discussion
+28 Jan 2018 – Tottenham Hotspur F.C. (talk · edit · hist) has been put up for PR by Govvy (t · c); see discussion
+Updated daily by AAlertBot — Discuss? / Report bug? / Request feature?
+Click to watch (Subscribe via  RSS  Atom)
+See also: Article alerts for WikiProject United Kingdom
+v
+t
+e
+Wikipedia help pages
+Visit the Teahouse if you are a new editor looking for interactive help, or the Help desk for an interactive Q & A forum.
+FAQs (?)
+Reference desks (?)
+Noticeboards (?)
+Missing Manual (?)
+Cheatsheet (?)
+Directories (?)
+About Wikipedia
+Administration
+Purpose
+Principles
+Wikipedia in brief
+Policies and guidelines
+What Wikipedia is not
+Disclaimer (parental advice)
+Making requests
+where to ask questions
+contact Wikipedia directly
+Who writes Wikipedia?
+Why create an account?
+Help for readers
+FAQ
+Books
+Copyright
+Glossary
+Mobile access
+Navigation
+Other languages
+Searching
+Students
+Viewing media
+Contributing
+to Wikipedia
+A plain and simple overview
+A primer for newcomers
+Advice for young editors
+Avoiding common mistakes
+Etiquette (community expectations)
+Learning the ropes
+Instructional material
+Simplified Manual of Style
+Simplified rule-set
+"Ignore all rules"
+"The rules are principles"
+Style-tips
+Tip of the day
+Task Center
+Your first article (article wizard)
+Vandalism
+Getting started
+Wikipedia intro
+Wikipedia tutorial
+The Wikipedia Adventure
+Manual of Style intro
+Graphics tutorials
+Picture tutorial (Uploading intro)
+IRC (live chat) tutorial
+Navigating intro
+Policies intro
+Referencing intro
+Tables intro
+Talk pages intro
+VisualEditor user guide
+Dos and don'ts
+Accessibility
+Bio's
+Categorization
+Disambiguation
+Images
+Links
+Lists
+References
+Tables
+Talks
+How-to pages and
+information pages
+Appealing blocks
+Article deletion
+Categories
+Citations / references
+Referencing for beginners
+Citation Style 1
+Cite errors
+References and page numbers
+Convert
+Diff
+Editing
+toolbar
+edit conflict
+Email confirmation
+Find sources
+Files
+Footnotes
+Image deletion
+Infoboxes
+Linking (link color)
+Logging in
+Merging
+Namespaces
+Page name
+Redirect
+Renaming pages
+Passwords
+Reverting
+Talk pages (archiving)
+URL
+User contributions
+User page design center
+Coding wiki markup
+Wiki markup
+Barcharts
+Calculations
+Characters
+Citation templates
+Columns
+Hidden text
+HTML
+Lists
+Magic words (introduction)
+Music symbols
+Sections
+Sounds
+Tables (introduction)
+Templates
+documentation
+messages
+cleanup messages
+Transclusion
+Visual files
+Wiki tools
+Directories
+Abbreviations
+Departments
+Editor's index
+Essays
+FAQs
+Glossary
+Guidelines
+Help menu
+Manual of Style
+Policies
+Shortcuts
+Tasks
+Tips
+Ask for help on your talk page
+v
+t
+e
+Wikipedia key policies and guidelines
+Five pillars
+What Wikipedia is not
+Ignore all rules
+Content
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Image use
+Wikipedia is not a dictionary
+Article titles
+Notability
+Autobiography
+Citing sources
+Identifying reliable sources
+medicine
+Do not include copies of primary sources
+Plagiarism
+Don't create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Conduct
+Civility
+Consensus
+Editing policy
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sock puppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Deletion
+Deletion policy
+Proposed deletion
+Criteria for speedy deletion
+Attack page
+Oversight
+Proposed deletion of BLP
+Proposed deletion (books)
+Revision deletion
+Enforcement
+Administrators
+Banning
+Blocking
+Page protection
+Editing
+Article size
+Be bold
+Disambiguation
+Hatnotes
+Set index articles
+Subpages
+User pages
+Talk page guidelines
+Signatures
+Broad-concept article
+Project namespace
+WikiProjects
+Style
+Manual of Style
+Contents
+Accessibility
+Understandability
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+WMF
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+Values
+FAQ
+List of all policies and guidelines
+List of policies
+List of guidelines
+Lists of attempts in creating fundamental principles
+v
+t
+e
+WikiProject Council
+WikiProject guides
+WikiProject Council
+Talk
+Guidelines/Intro
+WikiProjects
+Task forces
+Technical notes
+Assessment FAQ
+Work via WikiProjects
+Directories and summaries
+Directory
+Proposals
+Signpost
+Shortcuts
+Popular pages
+Database reports
+New WikiProjects
+Changes
+Watchers
+Culture and the arts
+Arts
+Music
+Performing
+Plastic
+Visual
+Broadcasting
+Crafts and hobbies
+Entertainment
+Games and toys
+Food and drink
+Internet culture
+Language and literature
+Biography
+Linguistics
+Media
+Philosophy and religion
+Sports
+Geographical
+Bodies of water
+Cities
+Countries
+Africa
+Americas
+Asia
+Europe
+Oceania
+Landforms
+Maps
+Parks, conservation areas and historical sites
+History and society
+History and society
+Business and economics
+Education
+Military and warfare
+Politics and government
+Transportation
+Science, technology
+and engineering
+Science
+Biology
+Chemistry
+Economics
+Geosciences
+Information science
+Mathematics
+Medicine
+Meteorology
+Physics
+Space
+Technology
+Time
+Wikipedia assistance
+and tasks
+Contents systems
+Maintenance
+Files
+Article improvement and grading
+Classroom projects
+WikiProjects
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_England&oldid=813794354"
+Categories: WikiProject EnglandWikiProject United Kingdom
+RELATED RESEARCH TOPICS
+1.
+England
+–
+England is a country that is part of the United Kingdom. It shares land borders with Scotland to the north and Wales to the west, the Irish Sea lies northwest of England and the Celtic Sea lies to the southwest. England is separated from continental Europe by the North Sea to the east, the country covers five-eighths of the island of Great Britain in its centre and south, and includes over 100 smaller islands such as the Isles of Scilly, and the Isle of Wight. England became a state in the 10th century, and since the Age of Discovery. The Industrial Revolution began in 18th-century England, transforming its society into the worlds first industrialised nation, Englands terrain mostly comprises low hills and plains, especially in central and southern England. However, there are uplands in the north and in the southwest, the capital is London, which is the largest metropolitan area in both the United Kingdom and the European Union. In 1801, Great Britain was united with the Kingdom of Ireland through another Act of Union to become the United Kingdom of Great Britain and Ireland. In 1922 the Irish Free State seceded from the United Kingdom, leading to the latter being renamed the United Kingdom of Great Britain, the name England is derived from the Old English name Englaland, which means land of the Angles. The Angles were one of the Germanic tribes that settled in Great Britain during the Early Middle Ages, the Angles came from the Angeln peninsula in the Bay of Kiel area of the Baltic Sea. The earliest recorded use of the term, as Engla londe, is in the ninth century translation into Old English of Bedes Ecclesiastical History of the English People. According to the Oxford English Dictionary, its spelling was first used in 1538. The earliest attested reference to the Angles occurs in the 1st-century work by Tacitus, Germania, the etymology of the tribal name itself is disputed by scholars, it has been suggested that it derives from the shape of the Angeln peninsula, an angular shape. An alternative name for England is Albion, the name Albion originally referred to the entire island of Great Britain. The nominally earliest record of the name appears in the Aristotelian Corpus, specifically the 4th century BC De Mundo, in it are two very large islands called Britannia, these are Albion and Ierne. But modern scholarly consensus ascribes De Mundo not to Aristotle but to Pseudo-Aristotle, the word Albion or insula Albionum has two possible origins. Albion is now applied to England in a poetic capacity. Another romantic name for England is Loegria, related to the Welsh word for England, Lloegr, the earliest known evidence of human presence in the area now known as England was that of Homo antecessor, dating to approximately 780,000 years ago. The oldest proto-human bones discovered in England date from 500,000 years ago, Modern humans are known to have inhabited the area during the Upper Paleolithic period, though permanent settlements were only established within the last 6,000 years
+2.
+Education in England
+–
+Education in England is overseen by the United Kingdoms Department for Education. Local government authorities are responsible for implementing policy for public education, England also has a tradition of independent schools and Home schooling, legally, parents may choose to educate their children by any suitable means. At age 16 the students take exams for the General Certificate of Secondary Education or other Level 1/2 qualifications. While education is compulsory until 18, schooling is compulsory to 16, thus post-16 education can take a number of forms. It can also include work-based apprenticeships or traineeships, or volunteering, Higher education often begins with a three-year bachelors degree. Postgraduate degrees include masters degrees, either taught or by research, tuition fees for first degrees are up to £9,000 per academic year for English, Welsh and European Union students, although these are set to rise to £9,250 for students starting from 2017. The Regulated Qualifications Framework covers national school examinations and vocational education qualifications and it is referenced to the European Qualifications Framework, and thus to other qualifications frameworks across the European Union. The Framework for Higher Education Qualifications, which is tied to the RQF, covers degrees and this is referenced to the Qualifications Framework of the European Higher Education Area developed under the Bologna process. The Education Act 1902 allowed local authorities to create secondary schools, the Education Act 1918 abolished fees for elementary schools. Full-time education is compulsory for all children aged 5 to 18, either at school or otherwise, children between the ages of 3 and 5 are entitled to 600 hours per year of optional, state-funded, pre-school education. This can be provided in playgroups, nurseries, community centres or nursery classes in schools. The age at which a student may choose to stop education is known as the leaving age for compulsory education. This age was raised to 18 by the Education and Skills Act 2008, from this time, the school leaving age and the education leaving age have been separated. State-provided schooling and sixth-form education are paid for by taxes, the education leaving age was raised in 2013 to the year in which they turn 17 and in 2015 to their 18th birthday for those born on or after 1 September 1997. The prescribed days are 31 August,31 December and 31 March, the school year begins on 1 September. Below is a table summarizing the most common names of the various schools, Grammar schools are normally state-funded but selective schools, admitting children from 11 years old onward, but there are exceptions such as Manchester Grammar School. Some 93% of children between the ages of 3 and 18 are in education in state-funded schools without charge and they are monitored directly by the Department for Education. Community schools, in which the local authority employs the staff, owns the schools lands and buildings
+3.
+Geography of England
+–
+England comprises most of the central and southern two-thirds of the island of Great Britain, in addition to a number of small islands of which the largest is the Isle of Wight. England is bordered to the north by Scotland and to the west by Wales and it is closer to continental Europe than any other part of mainland Britain, divided from France only by a 33 km sea gap, the English Channel. The 50 km Channel Tunnel, near Folkestone, directly links England to mainland Europe, the English/French border is halfway along the tunnel. Much of England consists of rolling hills and plains, the north is generally more mountainous with a chain of mountains, the Pennines, dividing east and west, and the Lake District in the north west, containing the highest mountains in the country. Other upland and hilly areas in the north and Midlands are the Cheviot Hills, the North York Moors, while most of the mountains and uplands are in the north, Dartmoor and Exmoor are two upland areas lying in the south west of the country. The approximate dividing line between terrain types is often indicated by the Tees-Exe line. To the south of line, there are larger areas of flatter land, including East Anglia and the Fens, although hilly areas include the Cotswolds, the Chilterns. The largest natural harbour in England is at Poole, on the south-central coast, some regard it as the second largest harbour in the world, after Sydney, Australia, although this fact is disputed. England has a climate, with plentiful rainfall all year round. The seasons are variable in temperature, however temperatures rarely fall below −5 °C or rise above 30 °C. The prevailing wind is from the south-west, bringing mild and wet weather to England regularly from the Atlantic Ocean and it is driest in the east and warmest in the south, which is closest to the European mainland. Snowfall can occur in winter and early spring, although it is not very common away from high ground, England is also sunnier throughout the year, but unlike Wales, Northern Ireland and Scotland, the sunniest month is July, totalling around 192.8 hours. The highest temperature recorded in England is 38.5 °C on 10 August 2003 at Brogdale, near Faversham, the lowest temperature recorded in England is −26.1 °C on 10 January 1982 at Edgmond, near Shropshire. The climate of south-west England is rather distinct and somewhat milder than the rest of England, crops, flowers and plants can be grown much earlier in the south-west than in the rest of England and the UK. A very small area, the Isles of Scilly lie in the warmest zone in the British Isles, the Geology of England is mainly sedimentary. The youngest rocks are in the south east, progressing in age in a north-westerly direction, the Tees-Exe line marks the division between younger, softer and low-lying rocks in the south east and older, harder, and generally a higher relief in the north-west. The geology of England is recognisable in the landscape of its counties, for instance Cumbria, Kent and Norfolk all have very distinct, other cities, mainly in central and northern England, are of substantial size and influence. For the official definition of a UK city, see City status in the United Kingdom. 87′N 1°45. 87′N 1°45, East Anglia is the lowest area of England, having no high hills or mountains and hosting an area of the Fens, the lowest area of England
+4.
+History of the United Kingdom
+–
+The history of the United Kingdom as a unified sovereign state began in 1707 with the political union of the kingdoms of England and Scotland, into a united kingdom called Great Britain. Of this new state the historian Simon Schama said What began as a merger would end in a full partnership in the most powerful going concern in the world. It was one of the most astonishing transformations in European history, a further Act of Union in 1800 added the Kingdom of Ireland to create the United Kingdom of Great Britain and Ireland. The first decades were marked by Jacobite risings which ended with defeat for the Stuart cause at Culloden in 1746. In 1763, victory in the Seven Years War led to the dominance of the British Empire, as a result, the culture of the United Kingdom, and its industrial, political, constitutional, educational and linguistic influence, became worldwide. In 1922, following the Anglo-Irish Treaty, most of Ireland seceded to become the Irish Free State, a day later, Northern Ireland seceded from the Free State and returned to the United Kingdom. As a result, in 1927 the United Kingdom changed its title to the United Kingdom of Great Britain and Northern Ireland, usually shortened to Britain. In the Second World War, in which the Soviet Union, Nationalist China, the cost was high and Britain no longer had the wealth to maintain an empire, so it granted independence to most of the Empire. The new states joined the Commonwealth of Nations. The United Kingdom has sought to be a member of the United Nations. Since the 1990s, however, large-scale devolution movements in Northern Ireland, Scotland, the Kingdom of Great Britain came into being on 1 May 1707, as a result of the political union of the Kingdom of England and the Kingdom of Scotland. The terms of the union had been negotiated the previous year, the parliaments of Scotland and of England then each ratified the treaty via respective Acts of Union. Slightly more than one-hundred years later, the Treaty of Union enabled the two kingdoms to be combined into a kingdom, merging the two parliaments into a single parliament of Great Britain. Queen Anne, who was reigning at the time of the union, had favoured deeper political integration between the two kingdoms and became the first monarch of Great Britain. Although now a single kingdom, certain aspects of the independent kingdoms remained separate. Scottish and English law remained separate, as did the Presbyterian Church of Scotland, England and Scotland also continued to each have its own system of education. The creation of Great Britain happened during the War of the Spanish Succession and his successor, Anne, continued the war. The Duke of Marlborough won a series of brilliant victories over the French, France was nearly brought to its knees by 1709, when King Louis XIV made a desperate appeal to the French people
+5.
+London
+–
+London /ˈlʌndən/ is the capital and most populous city of England and the United Kingdom. Standing on the River Thames in the south east of the island of Great Britain and it was founded by the Romans, who named it Londinium. Londons ancient core, the City of London, largely retains its 1. 12-square-mile medieval boundaries. London is a global city in the arts, commerce, education, entertainment, fashion, finance, healthcare, media, professional services, research and development, tourism. It is crowned as the worlds largest financial centre and has the fifth- or sixth-largest metropolitan area GDP in the world, London is a world cultural capital. It is the worlds most-visited city as measured by international arrivals and has the worlds largest city airport system measured by passenger traffic, London is the worlds leading investment destination, hosting more international retailers and ultra high-net-worth individuals than any other city. Londons universities form the largest concentration of education institutes in Europe. In 2012, London became the first city to have hosted the modern Summer Olympic Games three times, London has a diverse range of people and cultures, and more than 300 languages are spoken in the region. Its estimated mid-2015 municipal population was 8,673,713, the largest of any city in the European Union, Londons urban area is the second most populous in the EU, after Paris, with 9,787,426 inhabitants at the 2011 census. The citys metropolitan area is the most populous in the EU with 13,879,757 inhabitants, the city-region therefore has a similar land area and population to that of the New York metropolitan area. London was the worlds most populous city from around 1831 to 1925, Other famous landmarks include Buckingham Palace, the London Eye, Piccadilly Circus, St Pauls Cathedral, Tower Bridge, Trafalgar Square, and The Shard. The London Underground is the oldest underground railway network in the world, the etymology of London is uncertain. It is an ancient name, found in sources from the 2nd century and it is recorded c.121 as Londinium, which points to Romano-British origin, and hand-written Roman tablets recovered in the city originating from AD 65/70-80 include the word Londinio. The earliest attempted explanation, now disregarded, is attributed to Geoffrey of Monmouth in Historia Regum Britanniae and this had it that the name originated from a supposed King Lud, who had allegedly taken over the city and named it Kaerlud. From 1898, it was accepted that the name was of Celtic origin and meant place belonging to a man called *Londinos. The ultimate difficulty lies in reconciling the Latin form Londinium with the modern Welsh Llundain, which should demand a form *lōndinion, from earlier *loundiniom. The possibility cannot be ruled out that the Welsh name was borrowed back in from English at a later date, and thus cannot be used as a basis from which to reconstruct the original name. Until 1889, the name London officially applied only to the City of London, two recent discoveries indicate probable very early settlements near the Thames in the London area
+6.
+Sherborne School
+–
+Sherborne School is a British independent boys school, located in the town of Sherborne in north-west Dorset, England. It is one of the member schools of the Headmasters. It has close partnerships with the girls school Sherborne Girls and shares some activities. The schools origins date back to the century, when a tradition of education in Sherborne was begun by St Aldhelm. According to legend, Alfred the Great was one of the early pupils. The school was linked with Sherborne Abbey, formerly a Benedictine house. The earliest known Master was Thomas Copeland in 1437, after the Dissolution of the Monasteries, Edward VI re-founded the school in 1550 as King Edwards School, a free grammar school for local boys. The present-day school stands on land once belonged to the abbeys monastery. The Library, Chapel, and Headmasters rooms, which adjoin the Abbey Church, are modifications of its monastic buildings. In the Beckett Room below the library there survives Anglo-Saxon masonry, each school was required to pay a nominal penalty of £10,000. All schools involved in the agreed to make ex-gratia payments, totalling £3 million. The trust was designed to benefit pupils who attended the schools during the period in respect of which fee information was shared. She wrote to John Vickers, the OFT director-general, saying and they are schools that have quite openly continued to follow a long-established practice because they were unaware that the law had changed. Sheikh Tamim bin Hamad Al Thani, the current emir of Qatar received his education at the school obtaining his A Levels in 1997. In March 2009, it was announced that a replica of the school would be built in Doha, Qatar, with the first academic year starting in September 2009, as Sherborne is predominantly a boarding school, the house system is based on the boarding programme. Each house has around 70 boys with a mix of boarders and day pupils. Day boys are fully integrated into after-school and weekend programmes, there are eight houses, The schools cricket ground – the Upper – is usually used by the 1st XI cricket team. The ground was first used in 1870, when Sherborne School played Clifton College, the ground is also one of the venues used by Dorset for their home fixtures
+7.
+Anglophobia
+–
+Anti-English sentiment or Anglophobia means opposition to, dislike of, fear of, or hatred towards England or the English people. The term is used more loosely for general anti-British sentiment. In a 2003 survey of 500 English people living in Scotland, a 2005 study by Hussain and Millar of the Department of Politics at the University of Glasgow examined the prevalence of Anglophobia in relation to Islamophobia in Scotland. One finding of the report suggested that national phobias have common roots independent of the nations they are directed toward, the study states that, Scottish identity comes close to rivalling low levels of education as an influence towards Anglophobia. Beyond that, having an English friend reduces Anglophobia by about as much as having a Muslim friend reduces Islamophobia, and lack of knowledge about Islam probably indicates a broader rejection of the ‘other’, for it has as much impact on Anglophobia as on Islamophobia. The study goes on to say, Few of the English see conflict between Scots and English as even fairly serious, Hussain and Millars study found that Anglophobia was slightly less prevalent than Islamophobia, but that unlike Islamophobia, Anglophobia correlated with a strong sense of Scottish identity. However, Hussain and Millars research suggested that Anglophobia had fallen slightly since the introduction of devolution, in 2009 a woman originally from England was assaulted in an allegedly anti-English racially motivated attack. Similar cases have been connected with football matches and tournaments. A spate of attacks occurred in 2006 during the football World Cup. In one incident a 7-year-old boy wearing an England shirt was punched in the head in an Edinburgh park. In particular, Section 20 of the 1535 Act made English the only language of the law courts, the Welsh language was supplanted in many public spheres, with, for example, the use of the Welsh Not in some schools. This would later be adopted as a symbol of English oppression, since the Glyndŵr Rising of the early 15th century, Welsh nationalism has been primarily nonviolent. However, the Welsh militant group Meibion Glyndŵr were responsible for attacks on English-owned second homes in Wales from 1979–1994. Meibion Glyndŵr also attempted arson against several estate agents in Wales and England, author Simon Brooks recommended that English-owned homes in Wales be peacefully occupied. In 2001 Dafydd Elis-Thomas, a leader of Plaid Cymru. However, the ancestry of many in the Loyalist and Unionist communities is Scottish rather than English, in the Protestant community, the English are identified with British politicians, and are sometimes resented for their perceived abandonment of loyalist communities. There is a tradition of Anglophobia within Irish nationalism. Much of this was grounded in the hostility felt by the largely Catholic poor for the Anglo-Irish gentry, in Ireland before the Great Famine, anti-English hostility was deep seated and was manifested in increased anti-English hostility organised by United Irishmen
+8.
+Robert Baden-Powell, 1st Baron Baden-Powell
+–
+After having been educated at Charterhouse School in Surrey, Baden-Powell served in the British Army from 1876 until 1910 in India and Africa. In 1899, during the Second Boer War in South Africa, several of his military books, written for military reconnaissance and scout training in his African years, were also read by boys. In 1907, he held a camp, the Brownsea Island Scout camp. Based on his books, he wrote Scouting for Boys, published in 1908 by Sir Arthur Pearson. In 1910 Baden-Powell retired from the army and formed The Boy Scouts Association, in 1912 he married Olave St Clair Soames. He gave guidance to the Scouting and Girl Guiding Movements until retiring in 1937, Baden-Powell lived his last years in Nyeri, Kenya, where he died and was buried in 1941. Baden-Powell was born as Robert Stephenson Smyth Powell at 6 Stanhope Street and he was called Stephe by his family, He was named after his godfather, Robert Stephenson, the railway and civil engineer, his third name was his mothers maiden name. Baden-Powells father died when Baden-Powell was three, subsequently, Baden-Powell was raised by his mother, a strong woman who was determined that her children would succeed. Baden-Powell would say of her in 1933 The whole secret of my getting on, Baden-Powell attended Rose Hill School, Tunbridge Wells. He was given a scholarship to Charterhouse, a public school. He played the piano and violin, was an ambidextrous artist, holidays were spent on yachting or canoeing expeditions with his brothers. His first introduction to Scouting skills was through stalking and cooking game while avoiding teachers in the nearby woods, in 1876 Baden-Powell joined the 13th Hussars in India with the rank of lieutenant. During one of his travels, he came across a string of wooden beads. The beads were later incorporated into the Wood Badge training programme he started after he founded the Scouting Movement and he was posted in Malta for three years, also working as intelligence officer for the Mediterranean for the Director of Military Intelligence. He frequently travelled disguised as a collector, incorporating plans of military installations into his drawings of butterfly wings. In 1884 he published Reconnaissance and Scouting, Baden-Powell returned to Africa in 1896, and served in the Second Matabele War, in the expedition to relieve British South Africa Company personnel under siege in Bulawayo. This was an experience for him not only because he commanded reconnaissance missions into enemy territory in the Matopos Hills. Baden-Powell was accused of executing a prisoner of war in 1896, the Matabele chief Uwini
+9.
+United Kingdom
+–
+The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom or Britain, is a sovereign country in western Europe. Lying off the north-western coast of the European mainland, the United Kingdom includes the island of Great Britain, Northern Ireland is the only part of the United Kingdom that shares a land border with another sovereign state‍—‌the Republic of Ireland. The Irish Sea lies between Great Britain and Ireland, with an area of 242,500 square kilometres, the United Kingdom is the 78th-largest sovereign state in the world and the 11th-largest in Europe. It is also the 21st-most populous country, with an estimated 65.1 million inhabitants, together, this makes it the fourth-most densely populated country in the European Union. The United Kingdom is a monarchy with a parliamentary system of governance. The monarch is Queen Elizabeth II, who has reigned since 6 February 1952, other major urban areas in the United Kingdom include the regions of Birmingham, Leeds, Glasgow, Liverpool and Manchester. The United Kingdom consists of four countries—England, Scotland, Wales, the last three have devolved administrations, each with varying powers, based in their capitals, Edinburgh, Cardiff and Belfast, respectively. The relationships among the countries of the UK have changed over time, Wales was annexed by the Kingdom of England under the Laws in Wales Acts 1535 and 1542. A treaty between England and Scotland resulted in 1707 in a unified Kingdom of Great Britain, which merged in 1801 with the Kingdom of Ireland to form the United Kingdom of Great Britain and Ireland. Five-sixths of Ireland seceded from the UK in 1922, leaving the present formulation of the United Kingdom of Great Britain, there are fourteen British Overseas Territories. These are the remnants of the British Empire which, at its height in the 1920s, British influence can be observed in the language, culture and legal systems of many of its former colonies. The United Kingdom is a country and has the worlds fifth-largest economy by nominal GDP. The UK is considered to have an economy and is categorised as very high in the Human Development Index. It was the worlds first industrialised country and the worlds foremost power during the 19th, the UK remains a great power with considerable economic, cultural, military, scientific and political influence internationally. It is a nuclear weapons state and its military expenditure ranks fourth or fifth in the world. The UK has been a permanent member of the United Nations Security Council since its first session in 1946 and it has been a leading member state of the EU and its predecessor, the European Economic Community, since 1973. However, on 23 June 2016, a referendum on the UKs membership of the EU resulted in a decision to leave. The Acts of Union 1800 united the Kingdom of Great Britain, Scotland, Wales and Northern Ireland have devolved self-government
+10.
+Victorian architecture
+–
+Victorian architecture is a series of architectural revival styles in the mid-to-late 19th century. Victorian refers to the reign of Queen Victoria, called the Victorian era, however, many elements of what is typically termed Victorian architecture did not become popular until later in Victorias reign. The styles often included interpretations and eclectic revivals of historic styles mixed with the introduction of middle east, the name represents the British and French custom of naming architectural styles for a reigning monarch. Within this naming and classification scheme, it follows Georgian architecture and later Regency architecture, during the early 19th century, the romantic medieval Gothic revival style was developed as a reaction to the symmetry of Palladianism, and such buildings as Fonthill Abbey were built. Paxton also continued to build houses as Mentmore Towers, in the still popular English Renaissance styles. In this era of prosperity new methods of construction were developed, other notable Scottish architects of this period are Archibald Simpson and Alexander Marshall Mackenzie whose stylistically varied work can be seen in the architecture of Aberdeen. Victorian architecture usually has many intricate window frames inspired by the famous architect Elliot Rae, some chose the United States, and others went to Canada, Australia, and New Zealand. Normally, they applied architectural styles that were fashionable when they left England, thus, the influence of English architecture spread across the world. Several prominent architects produced English-derived designs around the world, including William Butterfield, the Victorian period flourished in Australia and is generally recognised as being from 1840 to 1890, which saw a gold rush and population boom during the 1880s in the state of Victoria. There were fifteen styles that predominated, The Arts and Crafts style and Queen Anne style are considered to be part of the Federation Period, during the British colonial period of British Ceylon, Sri Lanka Law College, Sri Lanka College of Technology and the Galle Face Hotel. In the United States, Victorian architecture generally describes styles that were most popular between 1860 and 1900, a list of these styles most commonly includes Second Empire, Stick-Eastlake, Folk Victorian, Queen Anne, Richardsonian Romanesque, and Shingle. As in the United Kingdom, examples of Gothic Revival and Italianate continued to be constructed during this period, some historians classify the later years of Gothic Revival as a distinctive Victorian style named High Victorian Gothic. Stick-Eastlake, a manner of geometric, machine-cut decorating derived from Stick, on the other hand, terms such as Painted Ladies or gingerbread may be used to describe certain Victorian buildings, but do not constitute a specific style. The names of architectural styles varied between countries, many homes combined the elements of several different styles and are not easily distinguishable as one particular style or another. San Francisco is well known for its extensive Victorian architecture, particularly in the Haight-Ashbury, Lower Haight, Alamo Square, Noe Valley, Castro, Nob Hill, the extent to which any one is the largest surviving example is debated, with numerous qualifications. The Distillery District in Toronto, Ontario contains the largest and best preserved collection of Victorian-era industrial architecture in North America, cabbagetown is the largest and most continuous Victorian residential area in North America. Other Toronto Victorian neighbourhoods include The Annex, Parkdale, and Rosedale, in the USA, the South End of Boston is recognized by the National Register of Historic Places as the oldest and largest Victorian neighborhood in the country. Old Louisville in Louisville, Kentucky also claims to be the nations largest Victorian neighborhood, richmond, Virginia is home to several large Victorian neighborhoods, the most prominent being The Fan
+11.
+Scunthorpe
+–
+Scunthorpe is a town in Lincolnshire, England. It is the centre of the North Lincolnshire unitary authority. A predominantly industrial town, Scunthorpe, the United Kingdoms largest steel processing centre, is known as the Industrial Garden Town. It is the third largest settlement in Lincolnshire, after Lincoln, the Member of Parliament for Scunthorpe is Nic Dakin. Scunthorpe as a town came into existence due to the exploitation of the local ironstone resources, the regional population grew from 1,245 in 1851 to 11,167 in 1901 and 45,840 in 1941. During the expansion Scunthorpe expanded to include the villages of Scunthorpe, Frodingham. Scunthorpe became an district in 1891, merged as Scunthorpe, Brumby and Frodingham Urban District in 1919. Scunthorpe is located close to an outcrop of high-lime-content ironstone from a seam of the Lias Group strata which dates from the Early Jurassic period, ironstone was mined by open cast methods from the 1850s onwards, and by underground mining from the late 1930s. In the 1970s the steel industry in Scunthorpe transitioned to use of imported from outside the UK with higher iron content. Underground mining in the area ceased in 1981, Scunthorpe was close to the epicentre of one of the largest earthquakes experienced in the British Isles on 27 February 2008, with a magnitude of 5.2. Significant shocks were felt in Scunthorpe and the surrounding North Lincolnshire area, the main 10-second quake, which struck at 00,56 GMT at a depth of 9.6 mi, was the second largest recorded in the British Isles. In 1984 a quake with a magnitude of 5.4 struck north Wales, Scunthorpe forms an unparished area in the borough and unitary authority of North Lincolnshire. The town forms six of the seventeen wards, namely Ashby, Brumby, Crosby & Park, Frodingham, Kingsway with Lincoln Gardens. The Scunthorpe wards elect 16 of the boroughs 43 councillors, as of 2008, all are members of the Labour party. The councillors form the trustees of the Town of Scunthorpe. North Lincolnshire Council is based in Pittwood House off Ashby Road next to Festival Gardens and it opened in 1963 as the Civic Centre, and was the home of Scunthorpe Borough Council until 1996. It was named after Edwin Pittwood, a local Labour politician, there are also offices at Church Square House near the Scunthorpe Market. Pittwood House has since renamed as Civic Centre due to the relocation of the Register Office from its old premises in Oswald road
+12.
+House of Commons of England
+–
+In 1801, with the union of Great Britain and Ireland, that house was in turn replaced by the House of Commons of the United Kingdom. The Parliament of England developed from the Magnum Concilium that advised the English monarch in medieval times and this royal council, meeting for short periods, included ecclesiastics, noblemen, as well as representatives of the counties. The chief duty of the council was to approve taxes proposed by the Crown, in many cases, however, the council demanded the redress of the peoples grievances before proceeding to vote on taxation. The first parliament to invite representatives of the towns was Montforts Parliament in 1265. At the Model Parliament of 1295, representatives of the boroughs were admitted, thus, it became settled practice that each county send two knights of the shire, and that each borough send two burgesses. Any show of independence by burgesses would thus be likely to lead to the exclusion of their towns from Parliament, the knights of the shire were in a better position, although less powerful than their noble and clerical counterparts in what was still a unicameral Parliament. They formed what became known as the House of Commons, while the clergy, although they remained subordinate to both the Crown and the Lords, the Commons did act with increasing boldness. The Commons even proceeded to some of the Kings ministers. Mare was soon released after the death of King Edward III, during the reign of the next monarch, Richard II, the Commons once again began to impeach errant ministers of the Crown. They began to insist that they could control both taxation and public expenditures, despite such gains in authority, however, the Commons still remained much less powerful than the Lords and the Crown. The influence of the Crown was increased by the wars of the late fifteenth century. Both houses of Parliament held little power during the years. The domination of the monarch grew further under the House of Tudor in the sixteenth century and this trend, however, was somewhat reversed when the House of Stuart came to the English throne in 1603. The first two Stuart monarchs, James I and Charles I, provoked conflicts with the Commons over issues such as taxation, religion, and royal powers. The differences between Charles I and Parliament were great, and resulted in the English Civil War, in which the forces of Parliament were victorious. In December 1648 the House of Commons was purged by the New Model Army, prides Purge was the only military coup in English history. Subsequently, King Charles I was beheaded and the Upper House was abolished, in 1653, when leading figures in this Parliament began to disagree with the army, it was dissolved by Oliver Cromwell. However, the monarchy and the House of Lords were both restored with the Commons in 1660, the influence of the Crown had been decreased, and was further diminished after James II was deposed in the Glorious Revolution of 1688 and the Bill of Rights 1689 was enacted
+13.
+Albert Bridge, London
+–
+The Albert Bridge is a road bridge over the River Thames in West London, connecting Chelsea on the north bank to Battersea on the south bank. In 1973 the Greater London Council added two concrete piers, which transformed the central span into a beam bridge. As a result, today the bridge is a hybrid of three different design styles. It is an English Heritage Grade II* listed building, built as a toll bridge, it was commercially unsuccessful. Six years after its opening it was taken into public ownership, the tollbooths remained in place and are the only surviving examples of bridge tollbooths in London. Incorporating a roadway only 27 feet wide, and with serious structural weaknesses, the strengthening work carried out by Bazalgette and the Greater London Council did not prevent further deterioration of the bridges structure. In 1992, the Albert Bridge was rewired and painted in a colour scheme designed to make it more conspicuous in poor visibility. At night it is illuminated by 4,000 bulbs, making it one of west Londons most striking landmarks, in 2010–2011, these were replaced with LEDs. Work on the Victoria Bridge, a distance downstream of Battersea Bridge, began in 1851 and was completed in 1858. Meanwhile, the proposal to demolish Battersea Bridge was abandoned, the wooden Battersea Bridge had become dilapidated by the mid-19th century. It had grown unpopular and was considered unsafe, the newer Victoria Bridge, meanwhile, suffered severe congestion. A compromise was reached, and in 1864 a new Act of Parliament was passed, the Act compelled the Albert Bridge Company to purchase Battersea Bridge once the new bridge opened, and to compensate its owners by paying them £3,000 per annum in the interim. Rowland Mason Ordish was appointed to design the new bridge, Ordish was a leading architectural engineer who had worked on the Royal Albert Hall, St Pancras railway station, the Crystal Palace and Holborn Viaduct. The bridge was built using the Ordish–Lefeuvre system, a form of cable-stayed bridge design which Ordish had patented in 1858. While plans for the Chelsea Embankment were debated, Ordish built the Franz Joseph Bridge over the Vltava in Prague to the design as that intended for the Albert Bridge. In 1869, the time allowed by the 1864 Act to build the bridge expired, delays caused by the Chelsea Embankment project meant that work on the bridge had not even begun, and a new Act of Parliament was required to extend the time limit. Construction finally got underway in 1870, and it was anticipated that the bridge would be completed in about a year, in the event, the project ran for over three years, and the final bill came to £200,000. As the law demanded, the Albert Bridge Company then bought Battersea Bridge, ordishs bridge was 41 feet wide and 710 feet long, with a 384-foot-9-inch central span
+14.
+Altrincham
+–
+At the 2001 UK census, it had a population of 41,000 increasing to 52,419 at the 2011 census. Further socioeconomic development came with the extension of the Bridgewater Canal to Altrincham in 1765, Altrincham today is an affluent commuter town, partly because of its transport links. The town has a middle class presence, there has been a steady increase in Altrinchams middle classes since the 19th century. It is also home to Altrincham F. C. and three ice hockey clubs, Manchester Storm, Altrincham Aces and Trafford Tornados, Altrinchams population increased to 45,809 in 2011. Local evidence of human activity exists in the form of two Neolithic arrowheads found in Altrincham, and further afield, a concentration of artefacts around Dunham. The remains of a Roman road, part of one of the major Roman roads in North West England connecting the fortresses of Chester and York. As it shows signs of having been repaired, the road was in use for a period of time. The name Altrincham first appears as Aldringeham, probably meaning homestead of Aldheres people, as recently as the 19th century it was spelt both Altrincham and Altringham. The earliest documented reference to the town is from 1290, when it was granted its charter as a Free Borough by Baron Hamon de Massey V. The charter allowed a market to be held, and it is possible that de Massey established the town to generate income through taxes on trade. This suggests that Altrincham may have been a market town, unusual during the Middle Ages. Altrincham was probably chosen as the site of the town rather than Dunham – which would have been protected by Dunham Castle – because its good access to roads was important for trade. Altrincham Fair became St Jamess Fair or Samjam in 1319 and continued until 1895, Fair days had their own court of Pye Powder, presided over by the mayor and held to settle disputes arising from the days dealings. The earliest known residence in Altrincham was the Knoll, on Stamford Street near the centre of the medieval town, during the English Civil War, men from Altrincham fought for the Parliamentarian Sir George Booth. During the war, armies camped on nearby Bowdon Downs on several occasions, in 1754, a stretch of road south of Altrincham, along the Manchester to Chester route, was turnpiked. Turnpikes were toll roads which taxed passengers for the maintenance of the road, further sections were turnpiked in 1765 from Timperley to Sale, and 1821 from Altrincham to Stockport. The maintenance of roads passed to local authorities in 1888, although by then most turnpike trusts had already declined, the connection of the Bridgewater Canal to Altrincham in 1765 stimulated the development of market gardening, and for many years Altrincham was noted for its vegetables. By 1767, warehouses had been alongside the canal at Broadheath, the first step in the development of Broadheath as an industrial area
+15.
+Anna Laetitia Barbauld
+–
+Anna Laetitia Barbauld was a prominent English poet, essayist, literary critic, editor, and childrens author. A woman of letters who published in multiple genres, Barbauld had a writing career at a time when female professional writers were rare. She was a teacher at the Palgrave Academy and an innovative childrens writer, her primers provided a model for pedagogy for more than a century. Her essays demonstrated that it was possible for a woman to be engaged in politics. Barbauld was also a critic, and her anthology of 18th-century British novels helped establish the canon as known today. Barbaulds career as a poet ended abruptly in 1812 with the publication of Eighteen Hundred and Eleven, vicious reviews shocked Barbauld, and she published nothing else during her lifetime. Her reputation was damaged when many of the Romantic poets she had inspired in the heyday of the French Revolution turned against her in their later, more conservative. Some letters from Barbauld to others also exist, however, a great many Barbauld family documents were lost in a fire that was the result of the London blitz in 1940. Barbauld was born on 20 June 1743 at Kibworth Harcourt in Leicestershire to Jane and she was named after her maternal grandmother and referred to as Nancy. She was baptised by her mothers brother, John Jennings, in Huntingdonshire two weeks after her birth, Barbaulds father was headmaster of the Dissenting academy in Kibworth Harcourt and minister at a nearby Presbyterian church. The family had a standard of living. McCarthy suggests they may have ranked with large freeholders, well-to-do tradesmen, at his death in 1780, Barbaulds fathers estate was valued at more than £2,500. Barbauld commented to her husband in 1773 that For the early part of my life I conversed little with my own Sex, in the Village where I was, there was none to converse with. Barbauld was surrounded by boys as a child and adopted their high spirits, Barbauld demanded that her father teach her the classics and after much pestering, he did. Thus she had the opportunity to learn Latin, Greek, French, Italian, Barbaulds penchant for study worried her mother, who expected her to end up a spinster because of her intellectualism, the two were never as close as Barbauld and her father. Barbaulds brother, John Aikin, described their father as the best parent, the wisest counsellor, Barbaulds father prompted many such tributes, although Lucy Aikin described him as excessively modest and reserved. Barbauld developed a bond with her brother during childhood, standing in as a mother figure to him. In 1817, Joanna Baillie commented of their relationship How few brothers and sisters have been to one another what they have been through so long a course of years
+16.
+Arsenal F.C.
+–
+Arsenal Football Club is a professional football club based in Highbury, London, that plays in the Premier League, the top flight of English football. The club has won 13 League titles,12 FA Cups, Arsenal was the first club from the South of England to join The Football League, in 1893. They entered the First Division in 1904, and have accumulated the second most points. Relegated only once, in 1913, they continue the longest streak in the top division, in the 1930s, Arsenal won five League Championships and two FA Cups, and another FA Cup and two Championships after the war. In 1970–71, they won their first League and FA Cup Double, between 1989 and 2005, they won five League titles and five FA Cups, including two more Doubles. They completed the 20th century with the highest average league position, Herbert Chapman won Arsenals first national trophies, but died prematurely. He helped introduce the WM formation, floodlights, and shirt numbers, Arsène Wenger has been the longest-serving manager and has won the most trophies. His teams set several English records, the longest win streak, the longest unbeaten run, in 1886, Woolwich munitions workers founded the club as Dial Square. In 1913, the crossed the city to Arsenal Stadium in Highbury. They became Tottenham Hotspurs nearest club, commencing the North London derby, in 2006, they moved down the road to the Emirates Stadium. Arsenal earned €435. 5m in 2014–15, with the Emirates Stadium generating the highest revenue in world football, based on social media activity from 2014–15, Arsenals fanbase is the fifth largest in the world. In 2016, Forbes estimated the club was the second most valuable in England, on 1 December 1886, munitions workers in Woolwich, now South East London, formed Arsenal as Dial Square, with David Danskin as their first captain. Named after the heart of the Royal Arsenal complex, they took the name of the complex a month later. Royal Arsenal F. C. s first home was Plumstead Common, though spent most of their time in South East London playing on the other side of Plumstead. Royal Arsenal won Arsenals first trophies in 1890 and 1891, Royal Arsenal renamed themselves for a second time upon becoming a limited liability company in 1893. They registered their new name, Woolwich Arsenal, with The Football League when the club ascended later that year, Woolwich Arsenal was the first southern member of The Football League, starting out in the Second Division and winning promotion to the First Division in 1904. Falling attendances, due to financial difficulties among the munitions workers, businessmen Henry Norris and William Hall took the club over, and sought to move them elsewhere. In 1913, soon after relegation back to the Second Division, Woolwich Arsenal moved to the new Arsenal Stadium in Highbury and this saw their third change of name, the following year, they reduced Woolwich Arsenal to simply The Arsenal
+17.
+Ashton-under-Lyne
+–
+Ashton-under-Lyne is a market town in Tameside, Greater Manchester, England. The population had increased to 45,198 at the 2011 census, historically in Lancashire, it is on the north bank of the River Tame, in the foothills of the Pennines,6.2 miles east of Manchester. Evidence of Stone Age, Bronze Age, and Viking activity has been discovered in Ashton-under-Lyne, the Ashton part of the towns name probably dates from the Anglo-Saxon period, and derives from Old English meaning settlement by ash trees. The origin of the suffix is less clear, it possibly derives from the British lemo meaning elm or from Ashtons proximity to the Pennines. In the Middle Ages, Ashton-under-Lyne was a parish and township and Ashton Old Hall was held by the de Asshetons, granted a Royal Charter in 1414, the manor spanned a rural area consisting of marshland, moorland, and a number of villages and hamlets. Until the introduction of the trade in 1769, Ashton was considered bare, wet. Ashton-under-Lynes transport network allowed for a boom in cotton spinning, weaving, and coal mining. The 140, 000-square-foot, two-floored Ashton Arcades shopping centre opened in 1995, a single Mesolithic flint tool has been discovered in the bog, along with a collection of nine Neolithic flints. There was further activity in or around the bog in the Bronze Age, the eastern terminus of the early medieval linear earthwork Nico Ditch is in Ashton Moss, it was probably used as an administrative boundary and dates from the 8th or 9th century. Legend claims it was built in a night in 869 or 870 as a defence against Viking invaders. Further evidence of Dark Age activity in the area comes from the towns name and this means that Ashton probably became a settlement some time after the Romans left Britain in the 5th century. An early form of the name, which included a burh element, indicates that in the 11th century Ashton. The under Lyne suffix was not widely used until the mid-19th century when it became useful for distinguishing the town from other places called Ashton, the Domesday Survey of 1086 does not directly mention Ashton, perhaps because only a partial survey of the area had been taken. However, it is thought that St Michaels Church, mentioned in the Domesday entry for the ancient parish of Manchester, was in Ashton, the town itself was first mentioned in the 12th century when the manor was part of the barony of Manchester. By the late 12th century, a family who adopted the name Assheton held the manor on behalf of the Gresleys, Ashton Old Hall was a manor house, the administrative centre of the manor, and the seat of the Assheton family. With three wings, the hall was one of the finest great houses in the North West of the 14th century. It has been recognised as important for being one of the few houses in south-east Lancashire. The town was granted a Royal Charter in 1414, which allowed it to hold a twice a year
+18.
+Baden-Powell House
+–
+Baden-Powell House, colloquially known as B-P House, is a Scouting hostel and conference centre in South Kensington, London, which was built as a tribute to Lord Baden-Powell, the founder of Scouting. The house, owned by The Scout Association, hosts an exhibition relating to Scouting in its current form. The building committee, chaired by Sir Harold Gillett, Lord Mayor of London, purchased the site in 1956, the foundation stone was laid in 1959 by World Chief Guide Olave, Lady Baden-Powell, and it was opened in 1961 by Queen Elizabeth II. The largest part of the £400,000 cost was provided by the Scout Movement itself. Over the years, the house has been refurbished several times, so that it now provides modern and affordable lodging for Scouts, Guides, their families, the building also hosts conference and event space for hire. The committees directive was to build a hostel to provide Scouts a place to stay at reasonable cost while visiting London, for this purpose, in 1956 the committee purchased a bombed-out property at the intersection of Cromwell Road and Queens Gate at a cost of £39,000. The Scout Movement raised the major part of the funding of £400,000 for building and furnishing the building between 1957 and 1959, Scouts throughout the Country collected ship halfpennies, and this raised the bulk of the money for the building. Scouts representing every county were present at the opening, a casket was buried under the foundation stone which held 1959 Scout mementoes, stamps, coins, photographs, etc. and a programme of the ceremony. With 142 Queens Scouts as Guard of Honour, and live broadcast by the BBC, afterwards, she toured the house with the Chief Scout and the president of The Scout Association, her uncle Prince Henry, Duke of Gloucester. A black marble panel with gold lettering was put on the balcony in the hall to commemorate the event, the house was designed by the architect Ralph Tubbs in 1956, whose works included the Dome of Discovery, the highlight of the 1951 Festival of Britain. Tubbs floor plans and a model of his design were displayed during a fundraising campaign, the six storied Baden-Powell House is designed in the modern architectural style, as pioneered by the Swiss architect Le Corbusier from the late 1920s onwards, and predominating in the 1950s. While Tubbs created Baden-Powell House in the architectural style of Le Corbusier. For example, he made the visible building component brick rather than concrete. This heavier evolution of Le Corbusiers style was popular in England throughout the years until replaced by the Brutalist style in the later 1960s. Baden-Powell House was built to Tubbs design by Harry Neal Ltd, at the opening, the house received the building design award for The building of most merit in London. Upon completion of the programme, the house was opened by the president of The Scout Association, Prince Edward, in 2002 a Starbucks coffee and sandwich bar was opened, as well as an outdoor roof garden adjacent to the meeting conference rooms on the second floor. This included many drawings and letters by Baden-Powell himself, such as the original of his Last Message to Scouts, Laws for me when I am old and several first editions of his books. The former exhibition also displayed the painting by David Jagger
+19.
+Bath, Somerset
+–
+Bath is a city in the ceremonial county of Somerset, England, known for its Roman-built baths. In 2011, the population was 88,859, Bath is in the valley of the River Avon,97 miles west of London and 11 miles south-east of Bristol. The city became a World Heritage Site in 1987, the city became a spa with the Latin name Aquæ Sulis c. AD60 when the Romans built baths and a temple in the valley of the River Avon, Bath Abbey was founded in the 7th century and became a religious centre, the building was rebuilt in the 12th and 16th centuries. In the 17th century, claims were made for the properties of water from the springs. Many of the streets and squares were laid out by John Wood, the Elder, and in the 18th century the city became fashionable, Jane Austen lived in Bath in the early 19th century. Further building was undertaken in the 19th century and following the Bath Blitz in World War II, the city has software, publishing and service-oriented industries. Theatres, museums, and other cultural and sporting venues have helped make it a centre for tourism with more than one million staying visitors and 3.8 million day visitors to the city each year. There are several museums including the Museum of Bath Architecture, Victoria Art Gallery, Museum of East Asian Art, the city has two universities, the University of Bath and Bath Spa University, with Bath College providing further education. Sporting clubs include Bath Rugby and Bath City F. C. while TeamBath is the name for all of the University of Bath sports teams. Bath became part of the county of Avon in 1974, and, the hills in the locality such as Bathampton Down saw human activity from the Mesolithic period. Several Bronze Age round barrows were opened by John Skinner in the 18th century, solsbury Hill overlooking the current city was an Iron Age hill fort, and the adjacent Bathampton Camp may also have been one. A long barrow site believed to be from the Beaker people was flattened to make way for RAF Charmy Down, messages to her scratched onto metal, known as curse tablets, have been recovered from the sacred spring by archaeologists. The tablets were written in Latin, and cursed people whom the writers felt had wronged them, for example, if a citizen had his clothes stolen at the baths, he might write a curse, naming the suspects, on a tablet to be read by the goddess. A temple was constructed in AD 60–70, and a complex was built up over the next 300 years. Engineers drove oak piles into the mud to provide a stable foundation, in the 2nd century, the spring was enclosed within a wooden barrel-vaulted structure that housed the caldarium, tepidarium, and frigidarium. The town was given defensive walls, probably in the 3rd century. After the failure of Roman authority in the first decade of the 5th century, in March 2012 a hoard of 30,000 silver Roman coins, one of the largest discovered in Britain, was unearthed in an archaeological dig
+20.
+Battersea Bridge
+–
+Battersea Bridge is a five-span arch bridge with cast-iron girders and granite piers crossing the River Thames in London, England. It is situated on a bend in the river. The bridge replaced a ferry service that had operated near the site since at least the middle of the 16th century, the first Battersea Bridge was a toll bridge commissioned by John, Earl Spencer, who had recently acquired the rights to operate the ferry. Although a stone bridge was planned, difficulties in raising investment meant that a wooden bridge was built instead. Designed by Henry Holland, it was opened to pedestrians in November 1771. The bridge was designed and dangerous both to its users and to passing shipping, and boats often collided with it. To reduce the dangers to shipping, two piers were removed and the sections of the bridge above them were strengthened with iron girders. In 1879 the bridge was taken into ownership, and in 1885 demolished and replaced with the existing bridge, designed by Sir Joseph Bazalgette. The narrowest surviving road bridge over the Thames in London, it is one of Londons least busy Thames bridges, the location on a bend in the river makes the bridge a hazard to shipping, and it has been closed many times due to collisions. Chelsea, about 3 miles west of Westminster on the bank of the River Thames, has existed as a settlement since at least Anglo-Saxon times. Chelsea enjoyed good road and river connections to the seat of government at Westminster and it was a centre of the British porcelain industry, and a major producer of baked goods – at peak periods almost 250,000 chelsea buns per day were sold. By the 18th century it had large numbers of very prosperous residents. Battersea, listed as Patricesy in the Domesday Book and first mentioned in records of 693 AD, on the bank of the river opposite Chelsea, was by contrast low and marshy land. Conditions were ideal for farming asparagus and lavender, and a market town grew in the area based on the asparagus. In 1763 John, Earl Spencer, purchased the manor of Battersea, the ferry was old and somewhat dangerous, and in 1766 Spencer formed the Battersea Bridge Company and sought and obtained Parliamentary consent to build a fine stone bridge across the Thames. The bridge was to be built between Cheyne Walk and Battersea, at the point where the course turns sharply east towards Westminster. The Earl had anticipated that many residents would invest in the project. Only 15 investors, including the Earl himself, were willing to invest, Spencer calculated that the money raised would be sufficient to finance a modest timber bridge, and a design was commissioned from rising architect Henry Holland
+21.
+Battle of Barnet
+–
+The Battle of Barnet was a decisive engagement in the Wars of the Roses, a dynastic conflict of 15th-century England. The military action, along with the subsequent Battle of Tewkesbury, on 14 April 1471 near Barnet, then a small Hertfordshire town north of London, Edward led the House of York in a fight against the House of Lancaster, which backed Henry VI for the throne. Leading the Lancastrian army was Richard Neville, 16th Earl of Warwick, historians regard the battle as one of the most important clashes in the Wars of the Roses, since it brought about a decisive turn in the fortunes of the two houses. Edwards victory was followed by 14 years of Yorkist rule over England, formerly a key figure in the Yorkist cause, Warwick defected to the Lancastrians over disagreements about Edwards nepotism, secret marriage and foreign policy. Leading a Lancastrian army, the earl defeated his former allies, the Yorkist king persuaded his host, Charles the Bold, to help him regain the English throne. Leading an army raised with Burgundian money, Edward launched his invasion of England, under cover of darkness, the Yorkists moved close to the Lancastrians and clashed in a thick fog at dawn. As both armies fought, the Earl of Oxford on the Lancastrian right routed the Yorkists opposite under Lord Hastings, on their return to the battlefield, Oxfords men were erroneously shot at by the Lancastrian centre commanded by Lord Montague. As cries of treason spread through their line, Lancastrian morale was disrupted, while retreating, Warwick was killed by Yorkist soldiers. Warwick had been such a figure in 15th-century English politics that, on his death, no one matched him in terms of power. Three centuries after the Battle of Barnet, an obelisk was raised on the spot where Warwick purportedly died. The Wars of the Roses were a series of conflicts between various English lords and nobles in support of two different royal families. In 1461 the conflict reached a milestone when the House of York supplanted its rival, Edward IV, leader of the Yorkists, seized the throne from the Lancastrian king, Henry VI, who was captured in 1465 and imprisoned in the Tower of London. The Lancastrian queen, Margaret of Anjou, and her son, Edward of Lancaster, fled to Scotland, Edward IV crushed the uprisings and pressured the Scottish government to force Margaret out, the House of Lancaster went into exile in France. The Earl grew to disapprove of the Kings rule, however, Warwick had planned for Edward to marry a French princess—Bona of Savoy—to create an alliance between the two countries. At her request, Edward bestowed gifts of land and titles on her relations and arranged marriages to rich, eligible bachelors were paired with the Woodville females, narrowing the marriage prospects for Warwicks daughters. Furthermore, the Earl was offended by two matches involving his kin, the first was the marriage of his aunt, Lady Katherine Neville, over 60 years old, to Elizabeths 20-year-old brother, John Woodville, a pairing considered outside of normal wedlock by many people. The other was his nephews fiancée, the daughter of Henry Holland, 3rd Duke of Exeter, exasperated by these acts, Warwick decided the Woodvilles were a malignant influence on his liege. He felt marginalized, his influence over the king was failing
+22.
+Battle of Bosworth Field
+–
+Fought on 22 August 1485, the battle was won by the Lancastrians. Their leader Henry Tudor, Earl of Richmond, by his victory became the first English monarch of the Tudor dynasty and his opponent, Richard III, the last king of the House of York, was killed in the battle. Historians consider Bosworth Field to mark the end of the Plantagenet dynasty, at the request of his brother Edward IV, Richard was acting as Lord Protector for his son Edward V. Richard had Parliament declare Edward V illegitimate and ineligible for the throne, across the English Channel in Brittany, Henry Tudor, a descendant of the greatly diminished House of Lancaster, seized on Richards difficulties so that he could challenge his claim to the throne. Henrys first attempt to invade England was frustrated by a storm in 1483, marching inland, Henry gathered support as he made for London. Richard mustered his troops and intercepted Henrys army south of Market Bosworth in Leicestershire, Thomas, Lord Stanley, and Sir William Stanley brought a force to the battlefield, but held back while they decided which side it would be more advantageous to support. Richard divided his army, which outnumbered Henrys, into three groups, one was assigned to the Duke of Norfolk and another to the Earl of Northumberland. Henry kept most of his force together and placed it under the command of the experienced Earl of Oxford, Richards vanguard, commanded by Norfolk, attacked but struggled against Oxfords men, and some of Norfolks troops fled the field. Northumberland took no action when signalled to assist his king, so Richard gambled everything on a charge across the battlefield to kill Henry, seeing the kings knights separated from his army, the Stanleys intervened, Sir William led his men to Henrys aid, surrounding and killing Richard. After the battle Henry was crowned king below an oak tree in nearby Stoke Golding, Henry hired chroniclers to portray his reign favourably, the Battle of Bosworth was popularised to represent the Tudor dynasty as the start of a new age. From the 15th to the 18th centuries the battle was glamorised as a victory of good over evil, the climax of William Shakespeares play Richard III provides a focal point for critics in later film adaptations. The exact site of the battle is disputed because of the lack of conclusive data, in 1974 the Bosworth Battlefield Heritage Centre was built on a site that has since been challenged by several scholars and historians. In October 2009 a team of researchers, who had performed geological surveys and archaeological digs in the area from 2003, during the 15th century civil war raged across England as the Houses of York and Lancaster fought each other for the English throne. In 1471 the Yorkists defeated their rivals in the battles of Barnet, the Lancastrian King Henry VI and his only son, Edward of Lancaster, died in the aftermath of the Battle of Tewkesbury. Their deaths left the House of Lancaster with no direct claimants to the throne, the Yorkist king, Edward IV, was in complete control of England. He attainted those who refused to submit to his rule, such as Jasper Tudor and his nephew Henry, naming them traitors and confiscating their lands. The Tudors tried to flee to France but strong winds forced them to land in Brittany, then a semi-independent duchy, Henrys mother, Lady Margaret Beaufort, was a great-granddaughter of John of Gaunt, uncle of King Richard II and father of King Henry IV. The Beauforts were originally bastards, but Henry IV legitimised them on the condition that their descendants were not eligible to inherit the throne
+23.
+Belton House
+–
+Belton House is a Grade I listed country house in Belton near Grantham, Lincolnshire, England. The mansion is surrounded by gardens and a series of avenues leading to follies within a larger wooded park. Belton has been described as a compilation of all that is finest of Carolean architecture, only Brympton dEvercy has been similarly lauded as the perfect English country house. For three hundred years, Belton House was the seat of the Brownlow and Cust family, who had first acquired land in the area in the late 16th century, between 1685 and 1688 Sir John Brownlow and his wife had the present mansion built. Despite great wealth they chose to build a modest country house rather than a grand contemporary Baroque palace, the contemporary, if provincial, Carolean style was the selected choice of design. However, the new house was fitted with the latest innovations such as windows for the principal rooms. Following World War I, the Brownlows, like many of their peers, were faced with mounting financial problems, in 1984 they gave the house away—complete with most of its contents. The recipients of their gift, the National Trust, today fully open Belton to the public and it is in a good state of repair and visited by many thousands of tourists each year. The Brownlow family, a dynasty of lawyers, began accumulating land in the Belton area from approximately 1598, in 1609 they acquired the reversion of the manor of Belton itself from the Pakenham family, who finally sold the manor house to Sir John Brownlow I in 1619. The old house was situated near the church in the garden of the present house and remained largely unoccupied, John Brownlow had married an heiress but was childless. He became attached to two of his more distant blood relations, a great-nephew, also called John Brownlow, and they immediately bought a town house in the newly fashionable Southampton Square in Bloomsbury, and decided to build a new country house at Belton. Work on the new house began in 1685, the assumption popular today, that Winde was the architect, is based on the stylistic similarity between Belton and Coombe Abbey, which was remodelled by Winde between 1682 and 1685. Further evidence is a letter dated 1690, in which Winde recommends a plasterer who worked at Belton to another of his patrons, whoever the architect, Belton follows closely the design of Clarendon House, completed in 1667. This great London town house has one of the most admired buildings of its era due to its elegant symmetry and confident. Sir John Summerson described Clarendon House as the most influential house of its time among those who aimed at the grand manner, John and Alice Brownlow assembled one of the finest teams of craftsmen available at the time to work on the project. This dream team was headed by the master mason William Stanton who oversaw the project, the wrought-ironworker John Warren worked under Stanton at Denham Place, Buckinghamshire, and the fine wrought iron gates and overthrow at Belton may be his. Thus so competent were the builders of Belton that Winde may have little more than provide the original plans and drawings. This theory is demonstrated by the external appearance of the adjoining stable block
+24.
+Birchington-on-Sea
+–
+Birchington-on-Sea is a village in north east Kent, England, with a population of around 10,000. It is part of the Thanet district and forms part of the parish of Birchington. It lies on the coast facing the North Sea, east of the Thames Estuary, as a seaside resort, the village is a tourist and retirement destination. The villages Minnis Bay is a beach with attractions such as sailing, windsurfing. Its three smaller beaches are surrounded by cliffs, cliff stacks and caves. The village was first recorded in 1240 and its parish church, All Saints, dates to the 13th century and its churchyard is the burial place of the 19th century Pre-Raphaelite artist Dante Gabriel Rossetti. Quex Park, a local 19th century manor house, is home to the Powell-Cotton Museum, Birchington was first recorded in 1240 as Birchenton, a name derived from the Old English words bircen tun, meaning a farm where birch trees grow. Archives show the villages All Saints Church dates to around 1350, in the early 15th century, Quex Park manor house—named after the parks second owner, John Quek—was built just south of the village. The ownership of the passed to various families until 1770 when it was acquired by the present owners. In the late 17th century, the house was visited by King William III, in 1565, a report on the coast of Thanet by the commissioners of Queen Elizabeth I stated that Birchington had 42 houses and did not have an active port. Before the 19th century, the coastline was frequented by smugglers. Several of the houses in the village contain cellars and bricked up tunnels. The 1801 census recorded the population as 537. In the early 19th century, the Tudor Quex House had to be demolished, in 1818, the Waterloo Tower was built on the grounds of Quex Park. It is a tower built by the owner of Quex Park, John Powell Powell. Waterloo Tower was the first twelve-bell tower in Kent, the village was a farming community until the late 19th century, when it began to develop into a coastal resort. Birchington railway station was opened in 1863 and the Railway Hotel, station Road was subsequently built to serve as Birchingtons main shopping street. Coast Guard cottages were built at Minnis Bay in the 1870s, Birchington-on-Sea is located at 51°22′37″N 1°18′18″E in northeast Kent, on the coast of the Thames Estuary
+25.
+Blyth, Northumberland
+–
+Blyth is a town and civil parish in southeast Northumberland, England. It lies on the coast, to the south of the River Blyth and is approximately 13 miles northeast of Newcastle upon Tyne and it has a population of about 37,339. The port of Blyth dates from the 12th century, but the development of the town only began in the first quarter of the 18th century. The main industries which helped the town prosper were coal mining and shipbuilding, with the trade, fishing. These industries have vanished, but the port still thrives, shipping paper. The town was affected when its principal industries went into decline. The Keel Row Shopping Centre, opened in 1991, brought major high street retailers to Blyth, the market place has recently been re-developed, with the aim of attracting further investment to the town. The Quayside has also seen much redevelopment and has transformed into a peaceful open space. There were, on the side of the river are the nine wind turbines of the Blyth Harbour Wind Farm. They were joined in 2000 by Blyth Offshore Wind Farm, which is composed of two turbines situated 1 kilometre out to sea. Although the original 9 turbines have now been demolished, there is one bigger turbine on the North Blyth side with building work taking place on a second turbine. Blyth is also home to the football club Blyth Spartans. The place-name Blyth is first attested in 1130 as Blida, the river-name comes from the Old English adjective blithe meaning gentle or merry, and still used today. Interestingly, the town of Blyth is referred to as Blithmuth in 1236, had this name persisted, the town would today be referred to as Blythmouth, on the analogy of Tynemouth to the south. Little is known of the development of the Blyth area. The oldest archaeological find is an antler hammer dating from the late Neolithic or early Bronze Age period, which was found at Newsham in 1979. Human skulls, a spearhead and a sword dating from the Bronze Age were found in the river in 1890, as well as an axe which was found at South Beach in 1993. Debate also surrounds a mosaic which was found near Bath Terrace, the strongest evidence so far has been a single coin, dating from the reign of the Emperor Constans, which was found during excavations for a dry dock
+26.
+Matthew Brettingham
+–
+Much of his principal work has since been demolished, particularly his work in London, where he revolutionised the design of the grand townhouse. As a result, he is often overlooked today, remembered principally for his Palladian remodelling of numerous country houses, as Brettingham neared the pinnacle of his career, Palladianism began to fall out of fashion and neoclassicism was introduced, championed by the young Robert Adam. Brettingham was born in 1699, the son of Launcelot Brettingham, a bricklayer or stonemason from Norwich. He married Martha Bunn at St. Augustines Church, Norwich, on 17 May 1721 and they had nine children together. His early life is documented, and one of the earliest recorded references to him is in 1719. A critic of Brettinghams at this time claimed that his work was so poor that it was not worth the nine shillings a week he was paid as a craftsman bricklayer, whatever the quality of his bricklaying, he soon advanced himself and became a building contractor. During the early century, a building contractor had far more responsibilities than the title suggests today. A contractor often designed, built, and oversaw all details of construction to completion, Architects, often called surveyors, were employed only for the grandest and largest of buildings. By 1730, Brettingham is referred to as a surveyor, working on more important structures than cottages, in 1731, it is recorded that he was paid £112 for his work on Norwich Gaol. From then, he appears to have worked regularly as the surveyor to the Justices on public buildings, margarets Church, Kings Lynn, which had been severely damaged by the collapse of its spire in 1742. Brettinghams brief flirtation with the Gothic style, in the words of Robin Lucas, the Shirehouse was demolished in 1822. Brettingham was appointed Clerk of Works, at a salary of £50. He retained the position until the Earls death in 1759 and it was at Holkham that Brettingham first worked with the fashionable Palladian style, which was to be his trademark. Brettingham was commissioned in 1742 to redesign Langley Hall, a standing in its own parkland in South Norfolk. His design was much in the Palladian style of Holkham, though much smaller. The corner towers, while similar to those designed by Brettingham at Euston Hall, were the work of a later owner. The neoclassical entrance lodges were an addition, by Sir John Soane. In 1743, Brettingham began work on the construction of Hanworth Hall, Norfolk, also in the Palladian style, in 1745, Brettingham designed Gunton Hall in Norfolk for Sir William Harbord, three years after the former house on the site was gutted by fire
+27.
+Brownhills
+–
+Brownhills is a town in the West Midlands, England. Located on the edge of Cannock Chase near the artificial lake Chasewater, it is 6 miles north-east of Walsall. It is part of the Metropolitan Borough of Walsall and the Aldridge-Brownhills parliamentary constituency, before boundary changes in 1974, it was in the county of Staffordshire. Mining remained the principal industry until the 1950s, but the subsequent closure of the areas pits led to a severe economic decline which has continued until the present day. The local authority has instituted a programme which it is hoped will revive the towns fortunes, providing better transport. The name Brownhills, however, is not recorded before the 17th century, the most popular suggestion for the origin of the name is that it refers to the early mining spoil heaps which dotted the area. The settlement is first recorded on Robert Plots 1680 map of Staffordshire, at time it was a hamlet within the manor of Ogley Hay. Ogley Hay itself had existed since at least the 11th century and is mentioned in the Domesday Book, beyond Ogley Hay lay Catshill, another hamlet which pre-dated Brownhills and which lay within the parish of Shenstone. During the 17th century, shallow mine workings began to develop in the area, in 1799 Norton Pool, later to be renamed Chasewater, was created to serve as a reservoir for the canals. Early in the 19th century, a tram system connected the mines to the wharves on the canal. The remaining land of the manor was progressively sold off through a series of indentures of questionable legality until 1846 when Cotterill sold the last 135 acres. Eventually a new town developed, complete with library and theatre. This led to the amalgamation of Brownhills, Ogley Hay. Mining was to remain the principal industry of Brownhills until the last pit closed in the 1950s, as in other mining areas, several men lost their lives in the Brownhills pits. Seven miners, including a boy aged 11, died in an accident in 1861, in 1877 the town of Brownhills was officially recognised for the first time after a new Act authorised the amalgamation of rural districts into larger local government areas. An order was issued on 29 September stating, After the First World War, the Urban District Council, the final farmland within the boundaries of Brownhills was sold for redevelopment in 1952. Following the demise of the coalfield the town experienced an economic slump. Despite the developers grandiose claims, the project was not a success and ultimately consisted solely of shopping units, there was little further development in the 1980s and 1990s, and the feeling of the local council is that the town centre is in need of improvement
+28.
+Brownsea Island Scout camp
+–
+Boys from different social backgrounds participated from 1 to 8 August 1907 in activities around camping, observation, woodcraft, chivalry, lifesaving and patriotism. Recognised as the worlds first Scout camp, the event is regarded as the origin of the worldwide Scout movement. Up to the early 1930s, camping by Boy Scouts continued on Brownsea Island, in 1963, a formal 50-acre Scout campsite was opened by Olave Baden-Powell, when the island became a nature conservation area owned by the National Trust. In 1973, a Scout Jamboree was held on the island with 600 Scouts, the worldwide centenary of Scouting took place at the Brownsea Island Scout camp, celebrated on 1 August 2007, the 100th anniversary of the start of the first encampment. Activities by The Scout Association at the campsite included four Scout camps, robert Baden-Powell had become a national hero during the Boer War as a result of his successful defence of the town of Mafeking, which was under siege from October 1899 to May 1900. The Mafeking Cadets, made up of boys aged 12 to 15, acted as messengers throughout the siege. Baden-Powell had also published a number of books on military scouting, including Aids to Scouting for NCOs and Men. Though written for non-commissioned officers, it became a best-seller and was used by teachers, to test his ideas while writing Scouting for Boys, Baden-Powell conceived of an experimental camp, creating a program to take place on Brownsea Island during the summer of 1907. He invited his friend, Major Kenneth McLaren, to attend the camp as an assistant. Baden-Powell had visited Brownsea Island as a boy with his brothers and it covers 560 acres of woodland and open areas, and features two lakes. The island perfectly suited his needs for the camp as it was isolated from the mainland and hence from the press, yet was only a ferry trip from the town of Poole. Baden-Powell invited boys from different social backgrounds to the camp, an idea during the class-conscious Edwardian era. Eleven came from the private boarding schools of Eton and Harrow. Seven came from the Boys Brigade at Bournemouth, and three came from the Brigade at Poole & Hamworthy, Baden-Powells nine-year-old nephew Donald Baden-Powell also attended. The camp fee was dependent on means, one pound for the school boys. The boys were arranged into four patrols, designated as the Wolves, Ravens, Bulls and it is uncertain if 20 or 21 boys attended the camp. At least four authors list attendance at 20 boys, and that they were organised into five patrols with Baden-Powells nephew Donald as camp orderly. These sources included an article in The Scout, Sir Percy Everett in The First Ten Years and Rover Word, in 1964, William Hillcourt added the fourth Rodney brother, Simon, in Two Lives of a Hero, bringing the total to 21
+29.
+Bruce Castle
+–
+Bruce Castle is a Grade I listed 16th-century manor house in Lordship Lane, Tottenham, London. It is named after the House of Bruce who formerly owned the land on which it is built, believed to stand on the site of an earlier building, about which little is known, the current house is one of the oldest surviving English brick houses. It was remodelled in the 17th, 18th and 19th centuries, the house has been home to Sir William Compton, the Barons Coleraine and Sir Rowland Hill, among others. The building also houses the archives of the London Borough of Haringey, since 1892 the grounds have been a public park, Tottenhams oldest. The name Bruce Castle is derived from the House of Bruce, however, there was no castle in the area, and it is unlikely that the family lived nearby. The former Bruce land in Tottenham was granted to Richard Spigurnell, the three parts of the manor of Tottenham were united in the early 15th century under the Gedeney family and have remained united since. In all early records, the building is referred to as the Lordship House, the name Bruce Castle first appears to have been adopted by Henry Hare, 2nd Baron Coleraine, although Daniel Lysons speculates in The Environs of London the names use dates to the late 13th century. The tower is built of red brick, and is 21 feet tall. In 2006, excavations revealed that it continues for some distance below the current ground level and it was described in 1829 as being over a deep well, and being used as a dairy. Sources disagree on the initial construction date, and no records survive of its construction. Nikolaus Pevsner speculates the front may have formed part of a house of which the remainder has disappeared. The Grade I mansions principal facade has been substantially remodelled, the house is made of red brick with ashlar quoining and the principal facade, terminated by symmetrical matching bays, has tall paned windows. The house and detached tower are among the earliest uses of brick as the building material for an English house. Henry Hare, 2nd Baron Coleraine oversaw a substantial remodelling of the house in 1684, the end bays were heightened, and the central porch was rebuilt with stone quoins and pilasters, a balustraded top and a small tower and cupola. A plan from 1684 shows the hall in the centre, with service rooms to the west. On the first floor, the room was over the hall, the main bedchamber over the kitchen. In the late 18th century, under the ownership of James Townsend, the narrow east facade of the house was remodelled into an entrance front, at the same time, the south fronts gabled attics were removed, giving the houses southern elevation its current appearance. In the early 19th century, the houses west wing was demolished, the house was converted into a school, and in 1870 a three-story extension was built in the Gothic Revival style to the northwest of the house
+30.
+Buckingham Palace
+–
+Buckingham Palace is the London residence and administrative headquarters of the reigning monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and it has been a focal point for the British people at times of national rejoicing and mourning. It was acquired by King George III in 1761 as a residence for Queen Charlotte. During the 19th century it was enlarged, principally by architects John Nash and Edward Blore, Buckingham Palace became the London residence of the British monarch on the accession of Queen Victoria in 1837. The palace chapel was destroyed by a German bomb during World War II, the original early 19th-century interior designs, many of which survive, include widespread use of brightly coloured scagliola and blue and pink lapis, on the advice of Sir Charles Long. King Edward VII oversaw a partial redecoration in a Belle Époque cream, many smaller reception rooms are furnished in the Chinese regency style with furniture and fittings brought from the Royal Pavilion at Brighton and from Carlton House. The palace has 775 rooms, and the garden is the largest private garden in London, the state rooms, used for official and state entertaining, are open to the public each year for most of August and September and on some days in winter and spring. In the Middle Ages, the site of the palace formed part of the Manor of Ebury. The marshy ground was watered by the river Tyburn, which flows below the courtyard. Where the river was fordable, the village of Eye Cross grew, ownership of the site changed hands many times, owners included Edward the Confessor and his queen consort Edith of Wessex in late Saxon times, and, after the Norman Conquest, William the Conqueror. William gave the site to Geoffrey de Mandeville, who bequeathed it to the monks of Westminster Abbey, in 1531, King Henry VIII acquired the Hospital of St James from Eton College, and in 1536 he took the Manor of Ebury from Westminster Abbey. These transfers brought the site of Buckingham Palace back into royal hands for the first time since William the Conqueror had given it away almost 500 years earlier, various owners leased it from royal landlords and the freehold was the subject of frenzied speculation during the 17th century. By then, the old village of Eye Cross had long fallen into decay. Needing money, James I sold off part of the Crown freehold, clement Walker in Anarchia Anglicana refers to new-erected sodoms and spintries at the Mulberry Garden at S. Jamess, this suggests it may have been a place of debauchery. Eventually, in the late 17th century, the freehold was inherited from the property tycoon Sir Hugh Audley by the great heiress Mary Davies, possibly the first house erected within the site was that of a Sir William Blake, around 1624. The next owner was Lord Goring, who from 1633 extended Blakes house and he did not, however, obtain the freehold interest in the mulberry garden. Unbeknown to Goring, in 1640 the document failed to pass the Great Seal before King Charles I fled London and it was this critical omission that helped the British royal family regain the freehold under King George III. The improvident Goring defaulted on his rents, Henry Bennet, 1st Earl of Arlington obtained the mansion and was occupying it, now known as Goring House, Arlington House rose on the site—the location of the southern wing of todays palace—the next year
+31.
+Buildings and architecture of Bristol
+–
+Bristol, the largest city in South West England, has an eclectic combination of architectural styles, ranging from the medieval to 20th century brutalism and beyond. During the mid-19th century, Bristol Byzantine, a style unique to the city, was developed. Buildings from most of the periods of the United Kingdom can be seen throughout Bristol. Parts of the city and castle date back to the medieval era. Outside the historical city centre there are several large Tudor mansions built for wealthy merchants, Almshouses and public houses of the same period survive, intermingled with areas of more recent development. Several Georgian-era squares were laid out for the enjoyment of the middle class, as the city grew, it merged with its surrounding villages, each with its own character and centre, often clustered around a parish church. The construction of the citys Floating Harbour, taking in the wharves on the River Avon and Frome, provided a focus for industrial development, the 20th century saw further expansion of the city, the growth of the University of Bristol and the arrival of the aircraft industry. During World War II, the city centre was bombed in the Bristol Blitz. The redevelopment of shopping centres, office buildings, and the continues to this day. The city was defended in medieval times by Bristol Castle, a Norman fortification built on the site of a wooden predecessor, the castle played a key role in the civil wars that followed the death of Henry I. Stephen of Blois reconnoitred Bristol in 1138 and claimed that the town was impregnable, after Stephens capture, in 1141, he was imprisoned in the castle. The castle was taken into royal hands, and Henry III spent lavishly on it, adding a barbican before the main west gate, a gate tower. By the 16th century, the castle had fallen into disuse, but the city authorities had no control over royal property, in 1630, the city purchased the castle, Oliver Cromwell ordered its destruction in 1656. An area outside the castle, known as Old Market, was used as a point for troops. It later became a market for the people to set up stalls. Old Market was also the site of an autumn fair, the market may have existed as early as the 12th century, and was the site of the first suburb outside the city walls. It had side roads which could accommodate the traffic on market days, the city had extensive walls built by Geoffrey de Montbray, Bishop of Coutances. These have now disappeared, although parts remain on properties in King Street
+32.
+Charing Cross, Euston and Hampstead Railway
+–
+The Charing Cross, Euston and Hampstead Railway, also known as the Hampstead tube, was a railway company established in 1891 that constructed a deep-level underground tube railway in London. Construction of the CCE&HR was delayed for more than a decade while funding was sought, in 1900 it became a subsidiary of the Underground Electric Railways Company of London, controlled by American financier Charles Yerkes. The UERL quickly raised the funds, mainly from foreign investors, various routes were planned, but a number of these were rejected by Parliament. Plans for tunnels under Hampstead Heath were authorised, despite opposition by local residents who believed they would damage the ecology of the Heath. Extensions in 1914 and the mid-1920s took the railway to Edgware and under the River Thames to Kennington, within the first year of opening, it became apparent to the management and investors that the estimated passenger numbers for the CCE&HR and the other UERL lines had been over-optimistic. Despite improved integration and cooperation with the tube railways, and the later extensions. In 1933 the CCE&HR and the rest of the UERL were taken into public ownership, in November 1891, notice was given of a private bill that would be presented to Parliament for the construction of the Hampstead, St Pancras & Charing Cross Railway. The railway was planned to run entirely underground from Heath Street in Hampstead to Strand in Charing Cross. The route was to run beneath Hampstead High Street, Rosslyn Hill, Haverstock Hill and Chalk Farm Road to Camden Town and then under Camden High Street and Hampstead Road to Euston Road. The route then continued south, following Tottenham Court Road, Charing Cross Road, North of Euston Road, a branch was to run eastwards from the main alignment under Drummond Street to serve the main line stations at Euston, St Pancras and Kings Cross. Stations were planned at Hampstead, Belsize Park, Chalk Farm, Camden Town, Seymour Street, Euston Road, Tottenham Court Road, Oxford Street, Agar Street, Euston and Kings Cross. The promoters of the HStP&CCR were inspired by the recent success of the City and South London Railway and this had opened in November 1890 and had seen large passenger numbers in its first year of operation. After preventing the construction of the branch beyond Euston, the Committee allowed the HStP&CCR bill to proceed for normal parliamentary consideration. The rest of the route was approved and, following a change of the name, the bill received royal assent on 24 August 1893 as the Charing Cross, Euston. Although the company had permission to construct the railway, it still had to raise the capital for the construction works. Only the W&CR, which was the shortest line and was backed by the London, for the CCE&HR and the rest, much of the remainder of the decade saw a struggle to find investors in an uninterested market. A share offer in April 1894 had been unsuccessful and in December 1899 only 451 out of the companys 177,600 £10 shares had been sold to eight investors. Like most legislation of its kind, the act of 1893 imposed a limit for the compulsory purchase of land
+YouTube Videos – Wikipedia:WikiProject England and Related Articles
+England
+[videos]
+England is a country that is part of the United Kingdom. It shares land borders with Scotland to the north and Wales to …
+Stonehenge, a Neolithic monument
+Boudica led an uprising against the Roman Empire
+Replica of the 7th-century ceremonial Sutton Hoo helmet from the Kingdom of East Anglia
+King Henry VIII became Supreme Head of the Church of England
+Education in England
+[videos]
+Education in England is overseen by the United Kingdom's Department for Education. Local government authorities are …
+St Barnabas Church of England Primary School, Oxford
+Allerton High School, a typical former secondary modern school in Leeds, West Yorkshire.
+An example of a Grammar School - in Sutton, London
+The chapel of King's College, Cambridge University.
+Geography of England
+[videos]
+England comprises most of the central and southern two-thirds of the island of Great Britain, in addition to a number …
+Satellite image of England
+The White Cliffs of Dover
+Jurassic Coast.
+Durdle Door on the Jurassic Coast
+History of the United Kingdom
+[videos]
+The history of the United Kingdom as a unified sovereign state began in 1707 with the political union of the kingdoms …
+A published version of the Articles of Union, agreement that led to the creation of the Kingdom of Great Britain in 1707
+"Articles of Union with Scotland", 1707
+George I in 1714, by Godfrey Kneller
+Lord Clive meeting with Mir Jafar after the Battle of Plassey, by Francis Hayman (c. 1762).
+London
+[videos]
+London
+(listen) is the capital and most populous city of England and the United Kingdom. Standing on the River Thames …
+The name London may derive from the River Thames
+The Lancastrian siege of London in 1471 is attacked by a Yorkist sally
+Westminster Abbey, as seen in this painting (by Canaletto, 1749), is a World Heritage Site and one of London's oldest and most important buildings
+United Kingdom
+[videos]
+The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a …
+Stonehenge, in Wiltshire, was erected around 2500 BC
+The Bayeux Tapestry depicts the Battle of Hastings, 1066, and the events leading to it
+The State House in St. George's, Bermuda.
+Settled in 1612, the town is the oldest continuously-inhabited English town in the New World.
+The Treaty of Union led to a single united kingdom encompassing all Great Britain
+Victorian architecture
+[videos]
+Victorian architecture is a series of architectural revival styles in the mid-to-late 19th century. Victorian refers to …
+St. Pancras railway station and Midland Hotel in London, opened in 1868, is an example of the Gothic Revival style of architecture with Ruskinian influences. The station eclectically combined elements of Gothic architecture and other styles with materials and scale made possible by the Industrial Revolution.
+Central Hall of the Natural History Museum, London. Note the cast-iron arches supporting the roof.
+The China Merchants Bank Building is an example of Victorian architecture found in Shanghai, China
+Modern skyscrapers on Collins Street, Melbourne have been deliberately set back from the street in order to retain Victorian-era buildings.
+Juan Pujol García
+[videos]
+Juan Pujol García MBE (14 February 1912 – 10 October 1988) was a Spanish citizen who deliberately became a double agent …
+Juan Pujol García
+Pujol in the uniform of 7th Light Artillery, 1931
+Pujol's MI5 case officer Tomás ("Tommy") Harris
+An inflatable dummy M4 Sherman tank.
+Scunthorpe
+[videos]
+Scunthorpe
+is a town in Lincolnshire, England. It is the administrative centre of the North Lincolnshire unitary …
+The skyline of Scunthorpe, August 2016
+Scunthorpe central park fountain
+Central Park.
+Albert Bridge, London
+[videos]
+The Albert Bridge is a road bridge over the River Thames in West London, connecting Chelsea on the north bank to …
+The 1868 Franz Joseph Bridge in Prague was built to the proposed design of the future Albert Bridge.
+Chelsea Embankment and the Albert Bridge under construction, 1873
+Warning to troops
+Altrincham
+[videos]
+Altrincham ((listen) OL-tring-əm) is a market town in Trafford, Greater Manchester, England, south of the River …
+A milestone along the Barton Bridge and Moses Gate turnpike road near Eccles, showing the spelling of "Altringham"
+Altrincham Town Hall
+Arms of the former Altrincham Municipal Borough Council
+Anna Laetitia Barbauld
+[videos]
+Anna Laetitia Barbauld (by herself possibly , as in French, née Aikin; 20 June 1743 – 9 March 1825) was a prominent …
+Barbauld and her brother, John Aikin (shown here in later years), became literary partners
+Warrington Academy in 1757
+Design for the medallion of the Committee for the Abolition of the Slave Trade, struck by Josiah Wedgwood
+Original title page from Eighteen Hundred and Eleven
+Arsenal F.C.
+[videos]
+Arsenal Football Club is a professional football club based in Highbury, London, England, that plays in the Premier …
+Dial Square: the workplace of Arsenal's founding fathers, and the club's original eponym
+Royal Arsenal squad in 1888. Original captain, David Danskin, sits on the right of the bench.
+A bronze bust of Herbert Chapman stands inside Emirates Stadium as a tribute to his achievements at the club.
+Highbury's Art Deco east facade
+Ashton-under-Lyne
+[videos]
+Ashton-under-Lyne is a market town in Tameside, Greater Manchester, England. The population was 45,198 at the 2011 …
+Ashton Old Hall, demolished in 1890
+Following the Industrial Revolution, Ashton became a mill town at the centre of a network of canals and railways.
+Ashton Town Library was built in the second half of the 19th century.
+Baden-Powell House
+[videos]
+Baden-Powell House, colloquially known as B-P House, is a Scouting hostel and conference centre in South Kensington, …
+Baden-Powell House, side view
+Baden-Powell House, front view
+Statue of Baden-Powell by Don Potter (1960)
+Bath, Somerset
+[videos]
+Bath
+is the largest city in the ceremonial county of Somerset, England, known for its Roman-built baths. In 2011, …
+19th century Photochrom of the Great Bath at the Roman Baths. The entire structure above the level of the pillar bases is a later construction and was not a feature of the building in Roman days.
+Bath Abbey
+Map of Bath by John Speed published in 1610
+Battersea Bridge
+[videos]
+Battersea Bridge is a five-span arch bridge with cast-iron girders and granite piers crossing the River Thames in …
+Old Battersea Bridge, Walter Greaves (1874)
+John, Earl Spencer, commissioned the first Battersea Bridge
+Nocturne: Blue and Gold&nbsp;– Old Battersea Bridge, James McNeill Whistler (c.1872–75)
+Battle of Barnet
+[videos]
+The Battle of Barnet was a decisive engagement in the Wars of the Roses, a dynastic conflict of 15th-century England. …
+The Earl of Warwick prepares for the battle in this diorama at Warwick Castle.
+1885 lithograph portraying the rout of Warwick's forces in the manner of Paolo Uccello
+Henry VI, Part 3: Warwick, dying at the Battle of Barnet, speaks his last words.
+Battle of Bosworth Field
+[videos]
+The Battle of Bosworth Field (or Battle of Bosworth) was the last significant battle of the Wars of the Roses, the …
+Battle of Bosworth, as depicted by Philip James de Loutherbourg (1740–1812)
+Elizabeth of York: rumours of her marriage launched Henry's invasion.
+A stained-glass window in St. James Church, Sutton Cheney, commemorates the Battle of Bosworth and the leaders of the combatants, Richard III (left) and Henry VII (right).
+Finding Richard's circlet after the battle, Lord Stanley hands it to Henry.
+Belton House
+[videos]
+Belton House is a Grade I listed country house in Belton near Grantham, Lincolnshire, England. The mansion is …
+South (front) facade of Belton House
+Alice Brownlow, née Sherard (1659–1721) by John Riley
+Clarendon House, London, designed by Roger Pratt, was the inspiration for Belton House. Clarendon House is in the same vogue, though less Baroque in ornament, as Vaux-le-Vicomte built in France just a few years earlier.
+North facade of Belton House. The 17th-century double room design enabled greater symmetry between facades, while allowing the house to be compact and under the one roof.
+Birchington-on-Sea
+[videos]
+Birchington-on-Sea is a village in north east Kent, England, with a population of around 10,000. — It is part of the …
+All Saints' Church dates to around 1350
+A dyke in the Wantsum channel marshland, between Birchington-on-Sea and Herne Bay
+An antiques shop in Birchington. 16.1% of the village is employed in retail
+Blyth, Northumberland
+[videos]
+Blyth
+is a town and civil parish in southeast Northumberland, England. It lies on the coast, to the south of the …
+The "High Light" lighthouse, 1788
+A map of Blyth, circa 1860: the old part of the town is to the right; the houses of Waterloo and Cowpen Quay are to the bottom-left and top-left respectively. Also depicted are "the Gut" (or "Slake") and the first Blyth railway station.
+Replica of HMS ''Bounty'', as used in the film Mutiny on the Bounty entering Blyth Harbour, 4 September 2007
+Matthew Brettingham
+[videos]
+Matthew Brettingham (1699 – 19 August 1769), sometimes called Matthew Brettingham the Elder, was an 18th-century …
+Kedleston Hall was Brettingham's opportunity to prove himself capable of designing a house to rival great houses like Holkham Hall and Chatsworth House. The chance was snatched from him by Robert Adam, who completed the North front (above) much as Brettingham designed it but with a more dramatic portico.
+Brettingham repaired Norwich Castle.
+Holkham Hall. Matthew Brettingham's first notable employment was here as Clerk of the Works and executive architect in 1734.
+Gunton Hall, designed by Matthew Brettingham.

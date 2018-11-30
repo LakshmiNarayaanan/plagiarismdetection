@@ -1,0 +1,65 @@
+{% extends "footer.html" %}
+{% load staticfiles %}
+
+{% block body %}
+
+{% if user %}
+{% endif %}
+
+<body style="background-image:url({% static 'images/6.png' %});background-size:100%;background-repeat:no-repeat"/>
+
+    {% if form.errors %}
+        <p>Your username and password didn't match. Please try again.</p>
+    {% endif %}
+
+<br><br>
+
+<div style="padding-left:420px">
+<div class="row">
+    <div class="col s6 z-depth-6 card-panel">
+      <form method="post" action=".">{% csrf_token %}
+        <div class="row">
+          <div class="input-field col s12 center">
+            <a href="/" alt="" class="responsive-img valign profile-image-login" style="font-family: 'Amaranth', sans-serif;font-size:300%;color: black "><i class="material-icons">code</i>&nbspChronicleScan</a>
+          </div>
+        </div>
+        <div class="row margin">
+          <div class="input-field col s12">
+            <i class="mdi-social-person-outline prefix"></i>
+            <input type="text" name="username" placeholder="username" required>
+            <label for="username" class="center-align"></label>
+          </div>
+        </div>
+        <div class="row margin">
+          <div class="input-field col s12">
+            <i class="mdi-action-lock-outline prefix"></i>
+            <input name="password" type="password" placeholder="password">
+            <label for="password"></label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="input-field col s12">
+            <button class="btn waves-effect waves-light col s12" type="submit">Login</button>
+          </div>
+        </div>
+        <center><div class="row">
+          <div >
+
+            <p><a  style="color:black;" href="/register"><center>Dont have an account ? Register Here!</center></a></p>
+          </div>
+        </div></center>
+      </form>
+    </div>
+  </div>
+</div>
+
+{% if msg %}
+<script type="text/javascript">
+  alert("{{ msg }}");
+</script>
+{% endif %}
+<br><br>
+
+</body>
+
+{% endblock %}

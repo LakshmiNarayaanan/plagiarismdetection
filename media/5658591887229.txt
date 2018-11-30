@@ -1,0 +1,343 @@
+GeeksforGeeks | A computer science portal for geeks
+Write an Article
+Skip to content
+Algo ▼
+Analysis of Algorithms
+Topicwise ►
+Searching Algorithms
+Sorting Algorithms
+Graph Algorithms
+Bit Algorithms
+Pattern Searching
+Geometric Algorithms
+Mathematical Algorithms
+Randomized Algorithms
+Game Theory
+Algorithm Paradigms ►
+Greedy Algorithms
+Dynamic Programming
+Divide and Conquer
+Backtracking
+Branch & Bound
+All Algorithms
+DS
+▼
+Array
+LinkedList
+Stack
+Queue
+Tree based DS ►
+Binary Tree
+Binary Search Tree
+Heap
+Hashing
+Graph
+Advanced Data Structure
+Matrix
+Strings
+All Data Structures
+Languages ▼
+C
+C++
+Java
+Python
+SQL
+PHP
+Javascript
+Program Output
+Interview
+▼
+Company Prep
+Top Topics
+Practice Company Questions
+Interview Experiences
+Experienced Interviews
+Internship Interviews
+Competitive Programming
+Design Patterns
+Multiple Choice Quizzes
+Students
+▼
+Campus Ambassador Program
+Geek of the Month
+Placement Course
+Project
+Competitive Programming
+Testimonials
+Geek on the Top
+Careers
+Internship
+School Programming
+GATE ▼
+GATE CS Corner
+GATE Notes
+Last Minute Notes
+Official Papers
+Gate 2018 Important Dates and Links
+CS Subjects ▼
+Operating Systems
+DBMS
+Computer Networks
+Compiler Design
+Web Technology
+Computer Organization & Architecture
+Digital Electronics
+Engg. Mathematics
+Theory of Computation
+Advanced Topics
+What’s Difference?
+Quizzes ▼
+Languages ►
+C
+C++
+Java
+Python
+CS Subjectwise ►
+Data Structures
+Algorithms
+Operating Systems
+DBMS
+Compiler Design
+Computer Networks
+Theory of Computation
+Computer Organization
+Software Engineering
+HTML & XML
+Engg. Mathematics
+Aptitude
+GBlog
+Puzzles
+What’s New?
+▲
+Internships @ GeeksforGeeks
+Coding Practice
+How to write an Interview Experience?
+Must Do Coding Questions Company-wise
+Must Do Coding Questions Topic-wise
+Difficulty Levels
+Basic
+Easy
+Medium
+Hard
+Expert
+Popular Tags
+Amazon,
+Microsoft, Dynamic Programming, SamsungClick here for more
+Interview Preparation
+Step by Step Preparation
+Company Preparation
+Top Topics
+Company Specific Practice
+Software Design Patterns
+Placements Preparation Course
+Interview Corner
+Recent Interview Experiences
+GQ Home Page
+Quiz Corner
+LMNs
+Practice Platform
+What's New ?
+Leaderboard !!
+Topic-wise Practice
+Subjective Problems
+Difficulty Level - School
+Difficulty Level - Basic
+Difficulty Level - Easy
+Difficulty Level - Medium
+Difficulty Level - Hard
+How to pick a difficulty level?
+Explore More...
+Programming Languages
+C
+C++
+Java
+Python
+SQL
+PHP
+JavaScript
+Important Quick Links
+School Programming
+Operating Systems
+DBMS
+Computer Networks
+Engineering Mathematics
+Design Patterns
+Common Interview Puzzles
+Web Technology
+G-Facts
+Computer Graphics
+Image Processing
+Project Ideas
+Featured Article
+AA Trees | Set 1 (Introduction)
+3.3
+AA trees are the variation of the red-black trees, a form of binary search tree. AA trees use the concept of levels to aid in… Read More »
+Advanced Data StructureTechnical ScripterTrees
+Featured Article
+Bertrand’s Postulate
+1.5
+In mathematics, Bertrand’s Postulate states that there is a prime number in the range to where n is a natural number and n >= 4.… Read More »
+Mathematical number-theoryprime-number
+Featured Article
+Smallest greater elements in whole array
+2.5
+An array is given of n length, and we need to calculate the next greater element for each element in given array. If next greater… Read More »
+ArraysSearchingSorting cpp-setZoho
+Microsoft Office India Interview experience | Set 170 (2 Years Exp)
+Round 1: Validate an infix arithmetic expression string (braces and brackets are similar to parentheses): (1+2)*{[90*3]-[67+8-9]} Proposed Ans: Djikstra’s Shunting yard Interviewer’s Ans: Parser Tree… Read More »
+ExperiencedInterview Experiences Microsoft
+Python Number | cmp(list) method
+cmp(list) is a method specified in Number in Python 2. The comparison of integral numbers have been discussed using cmp(). But many a times, there… Read More »
+Python
+Delete all the nodes from the list that are greater than x
+3
+Given a linked list, the problem is to delete all the nodes from the list that are greater than the specified value x. Examples: Input… Read More »
+Linked Lists Microsoft
+Java | Date format validation using Regex
+We use java.util.regex.Pattern.compile(String regex) method which compiles the given regular expression into a pattern. Here regex is the expression to be compiled. Output: true false… Read More »
+JavaJava Programs date-time-program
+Java floor() method with Examples
+The java.lang.Math.floor() returns the double value that is less than or equal to the argument and is equal to the nearest mathematical integer. Note: If… Read More »
+Java Java-Libraryjava-math
+Java ceil() method with Examples
+The java.lang.Math.ceil() returns the double value that is greater than or equal to the argument and is equal to the nearest mathematical integer. Note: If… Read More »
+Java Java-Libraryjava-math
+Java cbrt() method with Examples
+The java.lang.Math.cbrt() method returns the cube root of a double value. Note: Cube root of a negative value is the negative of the cube root… Read More »
+Java Java-Libraryjava-math
+Java atan() method with Examples
+The java.lang.Math.atan() returns the arc tangent of an angle in between -pi/2 through pi/2. If the argument is NaN, then the result is NaN. Note:If… Read More »
+Java Java-Libraryjava-math
+Bloomberg Interview Experience | Set 7 (For SDE)
+I applied through the careers page. There were 2 interviewers. The interview was scheduled for 90 minutes, to be held on Nexi(Bloomberg ‘s video conference… Read More »
+Interview Experiences Bloomberg
+Check if linked list is sorted (Iterative and Recursive)
+2
+Given a Linked List, task is to check whether the Linked List is sorted in Descending order or not? Examples : Input : 8 ->… Read More »
+C++Linked ListsRecursionSortingTechnical Scripter
+HSBC Interview Experience | Set 7
+I applied to HSBC through CoCubes. They were hiring for Striker (7 lacs + variable) and Acer (12 lac + variable) profiles. We had to… Read More »
+Interview Experiences HSBC
+Microsoft Interview Experience | Set 169
+3.5
+1st round(online coding): Given an array that contains both positive and negative integers, find the product of the maximum product subarray. Sort an almost sorted… Read More »
+Interview Experiences Microsoft
+Java Math sinh() method with Examples
+The java.lang.Math.sinh() returns the hyperbolic sine of a double value passed to it as argument. The hyperbolic sine of any value a is defined as,… Read More »
+JavaTechnical Scripter Java-lang packageJava-Libraryjava-math
+Java Math cosh() method with Examples
+The java.lang.Math.cosh() returns the hyperbolic cosine of a double value passed to it as argument. The hyperbolic cosine of any value a is defined as,… Read More »
+JavaTechnical Scripter Java-lang packageJava-Libraryjava-math
+Java Math tanh() method with Examples
+The java.lang.Math.tanh() returns the hyperbolic tangent of a double value passed to it as argument. The hyperbolic tangent of any value a is defined as,… Read More »
+JavaTechnical Scripter Java-lang packageJava-Libraryjava-math
+Page 1 of 1,10912345...102030...»Last »
+Trending Content
+Python List,
+Set, Tuple & Dictionary
+Number Theory
+Set to Array in Java
+BFS, 	DFS
+School Programming
+Longest Repeated Subsequence
+Longest Palindromic Subsequence
+Detect a negative cycle.
+GATE CS Notes
+Reverse a linked list
+Most Visited Posts
+Top 10 Algorithms and Data Structures for Competitive Programming
+Top 10 algorithms in Interview Questions
+How to begin with Competitive Programming?
+Step by Step Guide for Placement Preparation
+How to prepare for ACM-ICPC?
+Insertion Sort,
+Binary Search,
+QuickSort,
+MergeSort,
+HeapSort
+Popular Categories
+Interview Experiences
+Advanced Data Structures
+Dynamic Programming
+Greedy Algorithms
+Backtracking
+Pattern Searching
+Divide & Conquer
+Geometric Algorithms
+Searching
+Sorting
+Analysis of Algorithms
+Mathematical Algorithms
+Randomized Algorithms
+Recursion
+Game Theory
+Statistical Algorithms
+TagsAdvanced Data Structure
+Amazon
+Aptitude
+Aptitude
+Arrays
+Bit Magic
+C
+C
+C++
+Computer Networks
+CPP-Library
+C Quiz
+Dynamic Programming
+Experienced
+GBlog
+Geometric
+Graph
+Hash
+Internship
+Interview Experiences
+ISRO
+Java
+java-stream
+JavaScript
+Linked Lists
+Mathematical
+Matrix
+Microsoft
+number-digits
+PHP
+Program Output
+Puzzles
+Python
+QA - Placement Quizzes
+QA - Placement Quizzes
+School Programming
+Searching
+series
+Sorting
+STL
+Strings
+Technical Scripter
+Trees
+UGC-NET
+Web Technologies
+710-B, Advant Navis Business Park,
+Sector-142, Noida, Uttar Pradesh - 201305
+feedback@geeksforgeeks.org
+COMPANY
+About Us
+Careers
+Privacy Policy
+Contact Us
+LEARN
+Algorithms
+Data Structures
+Languages
+CS Subjects
+Video Tutorials
+PRACTICE
+Company-wise
+Topic-wise
+Contests
+Subjective Questions
+CONTRIBUTE
+Write an Article
+GBlog
+Videos
+@geeksforgeeks, Some rights reserved

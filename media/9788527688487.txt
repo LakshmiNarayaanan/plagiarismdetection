@@ -1,0 +1,696 @@
+Department of Computer Science and Engineering
+< Mississippi State University
+Skip to Content
+AZ Index
+Catalog Home
+Institution Home
+Mississippi State University
+myState
+Calendars
+Contact
+Search Catalog
+A-Z Index
+Directories
+Maps
+News
+Undergraduate Catalog
+Graduate Catalog
+Catalog A-​Z Index
+Archived Catalogs
+Catalog Home > Undergraduate Catalog > Colleges and Degree Programs > Engineering > Department of Computer Science and Engineering
+2017-18 Academic Catalog
+Print Options
+Toggle Navigation
+Toggle Navigation
+Undergraduate Catalog
+Admission Information
+Colleges and Degree Programs
+Agriculture &​ Life Sciences
+Architecture, Art, &​ Design
+Arts &​ Sciences
+Business
+Education
+Engineering
+Dave C. Swalm School of Chemical Engineering
+Department of Aerospace Engineering
+Department of Agricultural and Biological Engineering
+Department of Civil and Environmental Engineering
+Department of Computer Science and Engineering
+Department of Electrical and Computer Engineering
+Department of Industrial and Systems Engineering
+Department of Mechanical Engineering
+Forest Resources
+Honors College
+Veterinary Medicine
+Office of Academic Affairs
+Office of Graduate School
+Center for Distance Education
+MSU-​Meridian
+Reserve Officers’ Training Corps
+Academic Opportunities
+Academic Policies
+Student Life
+Faculty, Emeriti, and Staff
+Other Information
+Graduate Catalog
+Catalog A-​Z Index
+Archived Catalogs
+Department of Computer Science and Engineering
+Overview
+Programs of Study
+Minors
+Courses
+Department Head: Professor Edward Swan
+Office: 300 Butler Hall
+The Department of Computer Science and Engineering is dedicated to maintaining quality programs in undergraduate teaching, graduate teaching, and research, and to the fruitful interaction between teaching and research. In research, we wish to maintain our present emphasis on applications (often pursued with colleagues from other disciplines), and upon the synergistic relationships between theory and applications in which the most meaningful advances often result. The department has identified six core competency areas in which we shall seek national prominence: artificial intelligence, computational science, human centered computing, graphics, systems, and software engineering. These core competencies support research applications in areas such as bio-informatics, high performance computing, computer security, computer forensics, computer science education, human-robotic interaction, and visualization. The Department of Computer Science and Engineering offers degree programs leading to the Bachelor of Science degree in Computer Science, Software Engineering, and (jointly with the Department of Electrical and Computer Engineering) Computer Engineering. The department also offers study leading to the Master of Science and the Doctor of Philosophy degrees in Computer Science. An accelerated BS/MS program is also available.
+Computer Science Major (CS)
+Major Advisor: Dr. Sarah Lee
+300 Butler Hall
+Computer Science is the study of the principles, applications, and technologies of computing and computers. It involves the study of data and data structures and the algorithms to process these structures; principles of computer architecture-both hardware and software; problem solving and design methodologies; and language design, structure and translation techniques. Computer Science provides a foundation of knowledge for students with career objectives in a wide range of computing and computer-related professions.
+The objectives for the department with respect to the Bachelor of Science Degree in Computer Science are as follows:
+The graduate will demonstrate an understanding of computer science principles and an ability to solve unstructured computer science problems through the successful entrance into and advancement in the computer science profession.
+The graduate will demonstrate an appreciation for lifelong learning and for the value of continuing professional development through participation in graduate education, professional education or continuing education opportunities, attainment of professional licensure, or membership in professional societies.
+The graduate will demonstrate an understanding of professional and ethical responsibilities to the profession, society and the environment incumbent on a computer science professional.
+The graduate will successfully interact with others of different backgrounds, educations, and cultures.
+The graduate will demonstrate effective communication skills in their profession.
+Computer Science graduates begin careers as computer programmers, system analysts, programmer/analysts, software engineers, systems programmers, computer system engineers and in a number of other computer-related jobs. A minor in computer science is available to students with major programs of study in other fields at the University.
+The Bachelor of Science degree requires the completion of a total of 128 credit hours of general studies, computer science, mathematics and science, and supporting technical courses. To graduate, a student must have a “C” average in all MSU computer science and engineering courses attempted.
+The computer science program is accredited by the Computing Accreditation Commission of ABET, http://www.abet.org.
+Software Engineering Major (SE)
+Major Advisor: Dr. Sarah Lee
+300 Butler Hall
+Software Engineering is the application of engineering practices to the design and maintenance of software. The Software Engineering degree program prepares students for careers in the engineering of large complex software systems and products. These systems often involve millions of lines of code and frequently operate in safety-critical environments. The Software Engineering major contains courses related to the study of software engineering in practice necessary to manage these development processes. The faculty for the Software Engineering program is drawn from the Department of Computer Science and Engineering and the Department of Industrial Engineering.
+The objectives for the department with respect to the Bachelor of Science Degree in Software Engineering are as follows:
+The graduate will demonstrate an understanding of engineering principles and an ability to solve unstructured engineering problems through the successful entrance into and advancement in the engineering profession.
+The graduate will demonstrate an appreciation for lifelong learning and for the value of continuing professional development through participation in graduate education, professional education or continuing education opportunities, attainment of professional licensure, or membership in professional societies.
+The graduate will demonstrate an understanding of professional and ethical responsibilities to the profession, society and the environment incumbent on an engineering professional.
+The graduate will successfully interact with others of different backgrounds, educations, and cultures.
+The graduate will demonstrate effective communication skills in their profession.
+A minor in software engineering is available to students with major programs of study in other fields at the University.
+The Bachelor of Science degree in Software Engineering requires the completion of a total of 128 credit hours of general studies, computer science, industrial engineering, mathematics and science, supporting technical courses, and free electives. To graduate, a student must have a “C” average in all MSU computer science and engineering courses attempted.
+The software engineering program is accredited by the Engineering Accreditation Commission of ABET, http://www.abet.org.
+Computer Science Major (CS)
+English Composition
+EN 1103English Composition I3
+or EN 1163 Accelerated Composition I
+EN 1113English Composition II3
+or EN 1173 Accelerated Composition II
+Mathematics
+See Major Core
+Science
+See Major Core
+Humanities
+See General Education courses6
+Fine Arts
+See General Education courses3
+Social/Behavioral Sciences
+See General Education courses6
+Major Core
+Math and Basic Science
+MA 1713Calculus I3
+MA 1723Calculus II3
+MA 2733Calculus III3
+MA 3113Introduction to Linear Algebra3
+CH 1213Chemistry I3
+CH 1211Investigations in Chemistry I1
+PH 2213Physics I3
+PH 2223Physics II3
+BIO 1134Biology I4
+Engineering and Computer Science Topics
+CSE 1002Introduction to CSE2
+CSE 1284Introduction to Computer Programming4
+CSE 1384Intermediate Computer Programming4
+CSE 2383Data Structures and Analysis of Algorithms3
+CSE 2813Discrete Structures3
+CSE 3324Distributed Client/Server Programming4
+CSE 3813Introduction to Formal Languages and Automata3
+CSE 3981Social and Ethical Issues in Computing1
+CSE 4503Database Management Systems3
+CSE 4733Operating Systems I3
+CSE 4833Introduction to Analysis of Algorithms3
+CSE 4713Programming Languages3
+ECE 3714Digital Devices and Logic Design4
+ECE 3724Microprocessors4
+ECE 4713Computer Architecture3
+IE 4613Engineering Statistics I3
+Computer Science Electives: select two of the following: 6-7
+CSE 4153Data Communications and Computer Networks
+CSE 4163Designing Parallel Algorithms
+CSE 4214Introduction to Software Engineering
+CSE 4413Principles of Computer Graphics
+CSE 4453Game Design
+CSE 4633Artificial Intelligence
+CSE 4743Operating Systems II
+Computer Science electives (upper level) - see advisor6
+Technical Electives - see advisor3
+International/Intercultural Studies - see advisor3
+Free elective7
+Oral Communication Requirement
+CO 1003Fundamentals of Public Speaking3
+or CO 1013 Introduction to Communication
+Writing Requirement
+GE 3513Technical Writing3
+Computer Literacy
+Fulfilled in Engineering & Computer Science Topics courses
+Total Hours128
+Software Engineering Major (SE)
+English Composition
+EN 1103English Composition I3
+or EN 1163 Accelerated Composition I
+EN 1113English Composition II3
+or EN 1173 Accelerated Composition II
+Mathematics
+See Major Core
+Science
+See Major Core
+Humanities
+See General Education courses6
+Fine Arts
+See General Education courses3
+Social/Behavioral Sciences
+See General Education courses6
+Major Core
+Math and Basic Science
+MA 1713Calculus I3
+MA 1723Calculus II3
+MA 2733Calculus III3
+MA 2743Calculus IV3
+MA 3053Foundations of Mathematics3
+or MA 3253 Differential Equations I
+or MA 3113 Introduction to Linear Algebra
+CH 1213Chemistry I3
+CH 1211Investigations in Chemistry I1
+PH 2213Physics I3
+PH 2223Physics II3
+BIO 1134Biology I4
+Engineering Topics
+CSE 1002Introduction to CSE2
+CSE 1284Introduction to Computer Programming4
+CSE 1384Intermediate Computer Programming4
+CSE 2383Data Structures and Analysis of Algorithms3
+CSE 2813Discrete Structures3
+CSE 3324Distributed Client/Server Programming4
+CSE 4214Introduction to Software Engineering4
+CSE 3981Social and Ethical Issues in Computing1
+CSE 4733Operating Systems I3
+CSE 4503Database Management Systems3
+CSE 4833Introduction to Analysis of Algorithms3
+CSE 4233Software Architecture and Design Paradigms3
+CSE 4153Data Communications and Computer Networks3
+CSE 3213Software Engineering Senior Project I3
+CSE 4283Software Testing and Quality Assurance3
+CSE 3223Software Engineering Senior Project II3
+ECE 3714Digital Devices and Logic Design4
+ECE 3724Microprocessors4
+IE 4533Project Management3
+IE 4613Engineering Statistics I3
+CSE Security Elective3
+Technical elective - see advisor6
+Free electives - see advisor3
+Oral Communication Requirement
+CO 1003Fundamentals of Public Speaking3
+or CO 1013 Introduction to Communication
+Writing Requirement
+GE 3513Technical Writing3
+Computer Literacy
+Fulfilled in Engineering Topics courses
+Total Hours128
+Computer Science Minor
+Computer science has application in a broad range of disciplines, and students with majors in other fields of study may wish to complement their studies with a minor in computer science. Completion of the minor requirements should prepare the student to pursue a career as a computer applications specialist within his/her field of study or as an entry-level computer programmer in the general computing environment. The minor in computer science is not available to students majoring in computer engineering or software engineering since significant parts of these majors consist of computer science courses.
+A minor in computer science consists of:
+CSE 1284Introduction to Computer Programming4
+CSE 1384Intermediate Computer Programming4
+CSE 2383Data Structures and Analysis of Algorithms3
+CSE 2813Discrete Structures3
+Nine hours of approved upper-division courses9
+A list of approved courses is available from the Department of Computer Science and Engineering.
+Software Engineering Minor
+Software Engineering practices and skills are valuable in a wide range of disciplines, and students with majors in other fields of study may wish to complement their studies with a minor in software engineering. Completion of the minor requirements should prepare the student to pursue careers that involve the application and development of software systems in their field of study.
+A minor in software engineering consists of
+CSE 1284Introduction to Computer Programming4
+CSE 1384Intermediate Computer Programming4
+CSE 2383Data Structures and Analysis of Algorithms3
+CSE 4214Introduction to Software Engineering4
+Approved upper-division software engineering courses9
+A list of approved courses is available from the Department of Computer Science and Engineering.
+Courses
+CSE 1001
+First Year Seminar:
+1 hour.
+One hour lecture. First-year seminars explore a diverse array of topics that provide students with an opportunity to learn about a specific discipline from skilled faculty members
+CSE 1002
+Introduction to CSE:
+2 hours.
+Two hours lecture. Introduction to the computer science and software engineering curricula, profession, and career opportunities. Historical perspective; support role of the department. Ethics, team building, problem solving
+CSE 1233
+Computer Programming with C:
+3 hours.
+(Prerequisite: MA 1313 or equivalent). Three hours lecture. Problem-solving methods, algorithm development, debugging and documentation in the C Programming language; applications. ( Not recommended to students with credit in CSE 1213 or
+CSE 1233 or equivalent)
+CSE 1273
+Computer Programming with Java:
+3 hours.
+(Prerequisite:MA 1313 or equivalent). Three hours lecture Problem-solving methods, algorithm development, debugging and documentation in the Java programming language; applications.(Not recommended to students with credit in CSE 1213 or CSE 1233 or equivalent)
+CSE 1284
+Introduction to Computer Programming:
+4 hours.
+(Prerequisiste:MA 1313 or equivalent).Three hours lecture Three hours laboratory. Introductory problem solving and computer programming using object-oriented techniques. Theoretical and practical aspects of programming and problem solving. Designed for CSE,CPE and SE majors
+CSE 1384
+Intermediate Computer Programming:
+4 hours.
+(Prerequisite: CSE 1284 with grade of C or better). Three hours lecture.Three hour laboratory. Object-oriented problem solving, design,and programming. Introduction to data structures, algorithm design and complexity. Second course in sequence designed for CSE,CPE and SE majors
+CSE 2383
+Data Structures and Analysis of Algorithms:
+3 hours.
+(Prerequisite :Grade C or better in CSE 1384 and MA 1713). Three hours lecture. Non-linear data structures and their associated algorithms. Trees, graphs, hash tables, relational data model, file organization. Advanced software design and development
+CSE 2813
+Discrete Structures:
+3 hours.
+(Prerequisites:Grade of C or better in CSE 1284 and MA 1313 or equivalent). Three hours lecture. Concepts of algorithms, induction, recursion,proofs, topics from logic,set theory, combinatorics, graph theory fundamental to study of computer science
+CSE 2990
+Special Topics in Computer Science and Engineering:
+1-9 hours.
+Credit and title to be arranged. This course is to be used on a limited basis to offer developing subject matter areas not covered in exisiting courses.(Courses limited to two offerings under one title with two academic years)
+CSE 3213
+Software Engineering Senior Project I:
+3 hours.
+(Prerequisite: CSE 4214 with grade of C or better). Six hour laboratory. Software requirements elicitation and specification, cost estimation, scheduling, development of project management and quality assurance plans, reviews
+CSE 3223
+Software Engineering Senior Project II:
+3 hours.
+(Prerequisite: CSE 4214 with grade of C or better). Six hour laboratory. Teamwork, software design, construction, implementation of project management and quality assurance plans, and configuration management
+CSE 3324
+Distributed Client/Server Programming:
+4 hours.
+(Prerequisite:
+All majors:
+Grade of C or better in CSE 2383.
+CS/SE majors:
+CSE 4503 with a grade of C or better).
+Three hours lecture.
+Three hours laboratory.
+Design of software systems for distributed environments.
+Multithreaded and server-side programming, client/server
+CSE 3813
+Introduction to Formal Languages and Automata:
+3 hours.
+(Prerequisites:Grade of C or better in CSE 2383 and CSE 2813). Three hour lecture. Theoretical foundations of computer science; formal languages and automata, parsing of context-free languages; Turing machines; introduction to computability and complexity
+CSE 3981
+Social and Ethical Issues in Computing:
+1 hour.
+(Prerequisite: Senior standing) One hour lecture. Study of major social and ethical issues in computing, impact of computers on society, and the computer professional's code of ethics
+CSE 4000
+Directed Individual Study in Computer Science and Engineering:
+1-6 hours.
+Hours and credits to be arranged
+CSE 4153
+Data Communications and Computer Networks:
+3 hours.
+(Prerequisites: Grade of C or better in CSE 1384 or ECE 3732, and ECE 3724 . Three hours lecture.The concepts and practices of data communications and networking to provide the student with an understanding of the hardware and software used for data communications. (Same as ECE 4833/6833 )
+CSE 4163
+Designing Parallel Algorithms:
+3 hours.
+(Prerequisites: Grade of C or better in CSE 3324 or CSE 4733/6733). Three hours lecture. Techniques for designing algorithms to take advantage efficiently of different parallel architectures. Includes techniques for parallelizing sequential algorithms and techniques for matching algorithms to architectures
+CSE 4214
+Introduction to Software Engineering:
+4 hours.
+(Prerequisite: CSE 2383 with a grade of C or better). Three hours lecture. Two hours laboratory. Introduction to software engineering; planning, requirements,
+analysis and specification, design; testing; debugging; maintenance;
+documentation. Alternative design methods, software metrics, software projecet management, reuse, and reengineering
+CSE 4223
+Managing Software Projects:
+3 hours.
+(Prerequisite:CSE 4214/6214 with grade of C or better). Three hours lecture. Concepts in software project management functions such as planning, organizing, staffing, directing and control, estimating, scheduling, monitoring, risk management, and use of tools
+CSE 4233
+Software Architecture and Design Paradigms:
+3 hours.
+(Prerequisite: Grade of C or better in CSE 4214/6214). Three hours lecture. Topics include software architectures, methodologies, model representations, component-based design ,patterns,frameworks, CASE-based designs, and case studies
+CSE 4243
+Information and Computer Security:
+3 hours.
+(Prerequisite:
+Credit or registration in CS 4733/6733).
+Three hours lecture.
+Topics include encryption systems, network security, electronic commerce, systems threats, and risk avoidance procedures
+CSE 4253
+Secure Software Engineering:
+3 hours.
+(Prerequisite: CSE 3324 with a grade of C or better).
+Three hours lecture.
+Principles, techniques, and practices involved in building security into software systems including security requirements analysis, secure design, secure coding and security testing, verification and risk management. Topics include analysis and security assessment of legacy software
+CSE 4273
+Introduction to Computer Forensics:
+3 hours.
+(Prerequisite:Senior standing in CSE/SE/CPE/MIS/CJ) Three hours lecture. Introduction to computer crime and the study of evidence for solving computer-based crimes. Topics: computer crime, computer forensics and methods for handling evidence
+CSE 4283
+Software Testing and Quality Assurance:
+3 hours.
+(Prerequisite:Grade of C or better in CSE 4214/6214). Three hour lecture. Topics include methods of testing, verification and validation, quality assurance processes and techniques, methods and types of testing, and ISO 9000/SEI CMM process evaluation
+CSE 4363
+Software Reverse Engineering:
+3 hours.
+(Prerequisite:
+CSE 4733/6733).
+Three hours lecture.
+Software specification recovery and malicious software analysis.
+Tools and techniques for analyzing compiled programs and communications in the absence of documentation
+CSE 4383
+Cryptography and Network Security:
+3 hours.
+(Prerequisite:
+Credit or registration in CSE 4153/6153).
+Three hours lecture.
+Basic and advanced concepts in cryptography and network security:
+symmetric and asymmetric cryptography, key management, wired and wireless network security protocols, network systems security
+CSE 4413
+Principles of Computer Graphics:
+3 hours.
+(Prerequisities:MA 3113 and grade of C or better in CSE 2383). Three hours lecture. Graphics hardware; algorithms,graphics primitives, windowing and clipping , transformations,3D graphics, shading,hidden surfaces; standards
+CSE 4453
+Game Design:
+3 hours.
+(Prerequisites: All majors: junior standing, Design-oriented
+majors: courses in digital art and/or sound design. CS/SE/CPE majors: CSE 3324 or equivalent with a grade of C or better). Three hours lecture. Principles of computer game design: Game mechanics, structure, narrative, character/environment/level design
+CSE 4503
+Database Management Systems:
+3 hours.
+(Prerequisites: CSE 2383 and CSE 2813, both with a grade of C or better). Three hours lecture. Modern database models; basic database management concepts; query languages; database design through normalization; advanced database models; extensive development experience in a team environment
+CSE 4613
+Bio-computing:
+3 hours.
+Three hours lecture. Essential programming skills for computational biology. Problem-solving and use of specialized bio-computing libraries. (Credit will not be given to students matriculating in Computer Science, Computer Engineering , or Software Engineering degree programs)
+CSE 4623
+Computational Biology:
+3 hours.
+(Prerequisite:BCH 4113/6113 or equivalent and CSE 1384 or CSE 4613/6613 ). Three hours lecture. Computational analysis of gene sequences and protein structures on a large scale. Algorithms for sequence alignment, structural and functional genomics, comparative genomics, and current topics
+CSE 4633
+Artificial Intelligence:
+3 hours.
+(Prerequisite:Grade of C or better in CSE 2383 and CSE 2813) Three hours lecture. Study of the computer in context with human thought processes. Heuristic programming;search programming; search strategies; knowledge representation; natural language understanding; perception; learning
+CSE 4643
+AI Robotics:
+3 hours.
+(Prerequisites: Grade of C or better in CSE 2383 or CSE 1233 or with consent of instructor). Three hours lecture. Introduction to artificial intelligence methods for mobile robots. Focus on the theory and practice of robot sensing, localization, navigation, and intelligent task execution
+CSE 4653
+Cognitive Science:
+3 hours.
+(Prerequisite:
+PSY 3713 or CSE 4633 or PHI 4143/6143 or AN 4623/6623).
+Three hours lecture.
+The nature of human cognition from an interdisciplinary perspective, primarily utilizing a computational model, including insights from philosophy, psychology, linguistics, artificial intelligence, anthropology, and neuroscience.
+(Same as PSY 4653/6653)
+CSE 4663
+Human-Computer Interaction:
+3 hours.
+(Prerequisite:
+Junior class standing or consent of instructor).
+Three hours lecture.
+Conceptual models formed by users, aspects of computer systems which affect users, interface design and evaluation, and examples and critiques of specific interfaces
+CSE 4713
+Programming Languages:
+3 hours.
+(Prerequisities:Grade of C or better in
+ECE 3724 and CSE 3813 ).Three hours lecture. An introduction to programming language specification and analysis. Additional topics include control structrues, data types, and structures,run-time environments, binding strategies, compilers, and interpreters
+CSE 4723
+Compiler Construction:
+3 hours.
+(Prerequisite:Credit or registration in CSE 4713/6713). Formal treatment of context-free programming language translation and compiler design concepts, including: lexical, syntactic and semantic analysis, machine-dependent code generation and improvement, and error processing
+CSE 4733
+Operating Systems I:
+3 hours.
+(Prerequisites: Grade of C or better in CSE 2383 and ECE 3724).Three hours lecture. Historical development of operating systems to control complex computing systems; process management, communication, scheduling techniques;file systems concepts and operation; data communication, distributed process management
+CSE 4743
+Operating Systems II:
+3 hours.
+(Prerequisites: CSE 4733/6733 with grade of C or better). Three hours lecture. Integrated treatment of hardware and software concepts in operating systems design; procedure implementation; creation and control of processes;name and space management
+CSE 4753
+Introduction to Cyber Operations:
+3 hours.
+Three hours lecture.
+This course is designed to develop the students’ knowledge of basic cyberspace operations concepts and methodologies. Graduates should be able to assist in the analysis, synthesys, and evaluation of management, engineering, and operational approaches to solve complex problems within cyberspace, defensive and offensive
+CSE 4763
+Cyber Law:
+3 hours.
+Three hours lecture. A detailed discussion of laws, technology issues, business strategies, and policies relating to cyber security
+CSE 4833
+Introduction to Analysis of Algorithms:
+3 hours.
+(Prerequisites:CSE 2383,CSE 2813, and MA 2733 with a grade of C or better). Three hours lecture. Study of complexity of algorithms and algorithm design. Tools for analyzing efficiency; design of algorithms, including recurrence, divide-and-conquer, dynamic programming and greedy algorithms
+CSE 4990
+Special Topics in Computer Science and Engineering:
+1-9 hours.
+Credit and title to be arranged. This course is to be used on a limited basis to offer developing subject matter areas not covered in existing courses. (Courses limited to two offerings under one title within two academic years)
+CSE 6153
+Data Communications and Computer Networks:
+3 hours.
+(Prerequisites: Grade of C or better in CSE 1384 or ECE 3732, and ECE 3724 . Three hours lecture.The concepts and practices of data communications and networking to provide the student with an understanding of the hardware and software used for data communications. (Same as ECE 4833/6833 )
+CSE 6163
+Designing Parallel Algorithms:
+3 hours.
+(Prerequisites: Grade of C or better in CSE 3324 or CSE 4733/6733). Three hours lecture. Techniques for designing algorithms to take advantage efficiently of different parallel architectures. Includes techniques for parallelizing sequential algorithms and techniques for matching algorithms to architectures
+CSE 6214
+Introduction to Software Engineering:
+4 hours.
+(Prerequisite: CSE 2383 with a grade of C or better). Three hours lecture. Two hours laboratory. Introduction to software engineering; planning, requirements,
+analysis and specification, design; testing; debugging; maintenance;
+documentation. Alternative design methods, software metrics, software projecet management, reuse, and reengineering
+CSE 6223
+Managing Software Projects:
+3 hours.
+(Prerequisite:CSE 4214/6214 with grade of C or better). Three hours lecture. Concepts in software project management functions such as planning, organizing, staffing, directing and control, estimating, scheduling, monitoring, risk management, and use of tools
+CSE 6233
+Software Architecture and Design Paradigms:
+3 hours.
+(Prerequisite: Grade of C or better in CSE 4214/6214). Three hours lecture. Topics include software architectures, methodologies, model representations, component-based design ,patterns,frameworks, CASE-based designs, and case studies
+CSE 6243
+Information and Computer Security:
+3 hours.
+(Prerequisite:
+Credit or registration in CS 4733/6733).
+Three hours lecture.
+Topics include encryption systems, network security, electronic commerce, systems threats, and risk avoidance procedures
+CSE 6253
+Secure Software Engineering:
+3 hours.
+(Prerequisite: CSE 3324 with a grade of C or better).
+Three hours lecture.
+Principles, techniques, and practices involved in building security into software systems including security requirements analysis, secure design, secure coding and security testing, verification and risk management. Topics include analysis and security assessment of legacy software
+CSE 6273
+Introduction to Computer Forensics:
+3 hours.
+(Prerequisite:Senior standing in CSE/SE/CPE/MIS/CJ) Three hours lecture. Introduction to computer crime and the study of evidence for solving computer-based crimes. Topics: computer crime, computer forensics and methods for handling evidence
+CSE 6283
+Software Testing and Quality Assurance:
+3 hours.
+(Prerequisite:Grade of C or better in CSE 4214/6214). Three hour lecture. Topics include methods of testing, verification and validation, quality assurance processes and techniques, methods and types of testing, and ISO 9000/SEI CMM process evaluation
+CSE 6363
+Software Reverse Engineering:
+3 hours.
+(Prerequisite:
+CSE 4733/6733).
+Three hours lecture.
+Software specification recovery and malicious software analysis.
+Tools and techniques for analyzing compiled programs and communications in the absence of documentation
+CSE 6383
+Cryptography and Network Security:
+3 hours.
+(Prerequisite:
+Credit or registration in CSE 4153/6153).
+Three hours lecture.
+Basic and advanced concepts in cryptography and network security:
+symmetric and asymmetric cryptography, key management, wired and wireless network security protocols, network systems security
+CSE 6413
+Principles of Computer Graphics:
+3 hours.
+(Prerequisities:MA 3113 and grade of C or better in CSE 2383). Three hours lecture. Graphics hardware; algorithms,graphics primitives, windowing and clipping , transformations,3D graphics, shading,hidden surfaces; standards
+CSE 6453
+Game Design:
+3 hours.
+(Prerequisites: All majors: junior standing, Design-oriented
+majors: courses in digital art and/or sound design. CS/SE/CPE majors: CSE 3324 or equivalent with a grade of C or better). Three hours lecture. Principles of computer game design: Game mechanics, structure, narrative, character/environment/level design
+CSE 6503
+Database Management Systems:
+3 hours.
+(Prerequisites: CSE 2383 and CSE 2813, both with a grade of C or better). Three hours lecture. Modern database models; basic database management concepts; query languages; database design through normalization; advanced database models; extensive development experience in a team environment
+CSE 6613
+Bio-computing:
+3 hours.
+Three hours lecture. Essential programming skills for computational biology. Problem-solving and use of specialized bio-computing libraries. (Credit will not be given to students matriculating in Computer Science, Computer Engineering , or Software Engineering degree programs)
+CSE 6623
+Computational Biology:
+3 hours.
+(Prerequisite:BCH 4113/6113 or equivalent and CSE 1384 or CSE 4613/6613 ). Three hours lecture. Computational analysis of gene sequences and protein structures on a large scale. Algorithms for sequence alignment, structural and functional genomics, comparative genomics, and current topics
+CSE 6633
+Artificial Intelligence:
+3 hours.
+(Prerequisite:Grade of C or better in CSE 2383 and CSE 2813) Three hours lecture. Study of the computer in context with human thought processes. Heuristic programming;search programming; search strategies; knowledge representation; natural language understanding; perception; learning
+CSE 6643
+AI Robotics:
+3 hours.
+CSE 6653
+Cognitive Science:
+3 hours.
+(Prerequisite:
+PSY 3713 or CSE 4633 or PHI 4143/6143 or AN 4623/6623).
+Three hours lecture.
+The nature of human cognition from an interdisciplinary perspective, primarily utilizing a computational model, including insights from philosophy, psychology, linguistics, artificial intelligence, anthropology, and neuroscience.
+(Same as PSY 4653/6653)
+CSE 6663
+Human-Computer Interaction:
+3 hours.
+(Prerequisite:
+Junior class standing or consent of instructor).
+Three hours lecture.
+Conceptual models formed by users, aspects of computer systems which affect users, interface design and evaluation, and examples and critiques of specific interfaces
+CSE 6713
+Programming Languages:
+3 hours.
+(Prerequisities:Grade of C or better in
+ECE 3724 and CSE 3813 ).Three hours lecture. An introduction to programming language specification and analysis. Additional topics include control structrues, data types, and structures,run-time environments, binding strategies, compilers, and interpreters
+CSE 6723
+Compiler Construction:
+3 hours.
+(Prerequisite:Credit or registration in CSE 4713/6713). Formal treatment of context-free programming language translation and compiler design concepts, including: lexical, syntactic and semantic analysis, machine-dependent code generation and improvement, and error processing
+CSE 6733
+Operating Systems I:
+3 hours.
+(Prerequisites: Grade of C or better in CSE 2383 and ECE 3724).Three hours lecture. Historical development of operating systems to control complex computing systems; process management, communication, scheduling techniques;file systems concepts and operation; data communication, distributed process management
+CSE 6743
+Operating Systems II:
+3 hours.
+(Prerequisites: CSE 4733/6733 with grade of C or better). Three hours lecture. Integrated treatment of hardware and software concepts in operating systems design; procedure implementation; creation and control of processes;name and space management
+CSE 6753
+Foundations in Computation:
+3 hours.
+(Prerequisite: CSE 1213 or CSE 1233 or CSE 1273 or CSE 1284 with a grade of C or better, or permission of instructor). Three hours lecture. Foundational concepts of computational algorithm design and analysis. (No credit for student in Computer Science, Computer Engineering, or Software Engineering degree programs)
+CSE 6763
+Cyber Law:
+3 hours.
+Three hours lecture. A detailed discussion of laws, technology issues, business strategies, and policies relating to cyber security
+CSE 6833
+Introduction to Analysis of Algorithms:
+3 hours.
+(Prerequisites:CSE 2383,CSE 2813, and MA 2733 with a grade of C or better). Three hours lecture. Study of complexity of algorithms and algorithm design. Tools for analyzing efficiency; design of algorithms, including recurrence, divide-and-conquer, dynamic programming and greedy algorithms
+CSE 6990
+Special Topics in Computer Science and Engineering:
+1-9 hours.
+Credit and title to be arranged. This course is to be used on a limited basis to offer developing subject matter areas not covered in existing courses. (Courses limited to two offerings under one title within two academic years)
+CSE 7000
+Directed Individual Study in Computer Science and Engineering:
+1-6 hours.
+Hours and credits to be arranged
+CSE 8000
+Thesis Research/ Thesis in Computer Science and Engineering:
+1-13 hours.
+Hours and credits to be arranged
+CSE 8011
+Graduate Seminar:
+1 hour.
+One hour seminar. Reports on recent advances and problems in computer science by guest speakers,faculty, and students; student participation, general discussion
+CSE 8080
+Directed Project in Computer Science:
+1-3 hours.
+Hours and credits to be arranged. An individual professional project open only to candidates for the Master of Science degree (project option). Formal written and oral project reports are required
+CSE 8153
+Advanced Data Communications:
+3 hours.
+(Prerequisite:CSE 4153/6153 or equivalent). Three hours lecture. A study of advanced concepts and practices of data communications with particular emphasis on Local Area Networks and Transmission Control Protocol/Internet Protocol (TCP/IP)
+CSE 8163
+Parallel and Distributed Scientific Computing:
+3 hours.
+(Prerequisite:CSE 4163/6163). Three hours lecture. Algorithms for distributed scientific computing; performance evaluation; scheduling and load balancing issues for scientific applications; architectural issues affecting performance
+CSE 8233
+Software Engineering Project Management:
+3 hours.
+(Prerequisites:CSE 4214/6214). Three hours lecture. Management of the engineering of software products including estimating, planning, process management, and special topics
+CSE 8243
+Software Specification:
+3 hours.
+(Prerequisites:CSE 4214/6214). Three hours lecture. Writing software specifications, transforming specifications into code , and verifying transformations using formal methods
+CSE 8253
+Software Design:
+3 hours.
+(Prerequisite:CSE 4214/6214). Three hours lecture. Software design principles, attributes, models, and methodologies; object-oriented designs; real-time system design; user interface design;design verification; reusability issues; tools;current issues
+CSE 8273
+Software Requirements Engineering:
+3 hours.
+(Prerequisites:CSE 4214/6214 with grade of C or better). Three hours lecture. An in-depth study of current research and practice in requirements elicitation, requirements analysis, requirements specification, requirements verification and validation, and requirements management
+CSE 8283
+Empirical Software Engineering:
+3 hours.
+(Prerequisite:CSE 4214/6214). Three hours lecture. Basics of empirical software engineering, metrics, and modeling of the software development process, validation and comparing software engineering methods, and methods for data analysis
+CSE 8413
+Visualization:
+3 hours.
+(Prerequisites:CSE 4413/6413).Three hours lecture. Essential algorithms for three-dimensional rendering and modeling techniques;viewing transformations, illumination, surface modeling; methodologies for visualization of scalar and vector fields in three dimensions
+CSE 8433
+Advanced Computer Graphics:
+3 hours.
+(Prerequisites:CSE 4413/6413 ). Three hours lecture. Realistic, three-dimensional image generation; modeling techniques for complex three-dimensional scenes;
+advanced illumination techniques; fractal surface modeling; modeling and rendering of natural phenomena
+CSE 8613
+Cognitive Models of Skill:
+3 hours.
+(Prerequisite: Graduate standing). Three hours lecture. Introduction to cognitive modeling, with a focus on computational models of skill acquisition and expert skill. (Same as PSY 8723 )
+CSE 8673
+Machine Learning:
+3 hours.
+(Prerequisite: CSE 4633/6633 ). Three hours lecture. Introduction to machine learning, including computational learning theory, major approaches to machine learning, evaluation of models, and current research
+CSE 8713
+Advanced Cyber Operations:
+3 hours.
+Three hours lecture. This course is designed to develop the students’ knowledge of cyberspace operations concepts and methodologies. Graduates should be able to analyze, synthesize, and evaluate management, engineering, and operational approaches to solve complex problems within cyberspace, defensive and offensive
+CSE 8723
+Cyber Law and Policy:
+3 hours.
+Three Hours Lecture. This course will provide students with an advanced understanding of how and why information security laws and policies are developed and managed. Students will be exposed to existing laws at the state and federal level, as well as security policies of successful organizations
+CSE 8743
+Advanced Network Security:
+3 hours.
+Three Hours Lecture: This course explores advanced topics in Network Security, to include: Internet of Things, Wireless Networks, Low Complexity Cryptographic Models, Network System Models, Tamper Resistant Network Components
+CSE 8813
+Theory of Computation:
+3 hours.
+(Prerequisite: CSE 3813).Three hours lecture.Study of abstract models of computation,unsolvability,complexity theory, formal grammars and parsing, and other advanced topics in theoretical computer science
+CSE 8833
+Algorithms:
+3 hours.
+(Prerequisites: CSE 4833/6833).Three hours lecture. Advanced techniques for designing and analyzing algorithms, advanced data structures, case studies, NP-completeness including reductions, approximation algorithms
+CSE 8843
+Complexity of Sequential and Parallel Algorithms:
+3 hours.
+(Prerequisite:CSE 4833/6833 ).Three hours lecture. Complexity of sequential algorithms, theory of complexity, parallel algorithms
+CSE 8990
+Special Topics in Computer Science and Engineering:
+1-9 hours.
+Credit and title to be arranged. This course is to be used on a limited basis to offer developing subject matter areas not covered in existing courses. (Courses limited to two offerings under one title within two academic years)
+CSE 9000
+Dissertation Research/ Dissertation in Computer Science and Engineering:
+1-13 hours.
+Hours and credits to be arranged
+CSE 9133
+Topics in High Performance Computing:
+3 hours.
+(Prerequisite:Consent of Instructor). Three hours lecture. Reading and study of current work related to the area of high performance computing. Intended for doctoral students. ( May be taken for credit more than once)
+CSE 9633
+Topics in Artificial Intelligence:
+3 hours.
+(Prerequisite: Consent of instructor). Three hours lecture. Reading and study of current work related to the area of artificial intelligence. Intended for doctoral students. (May be taken for credit more than once)
+Mississippi State, MS 39762 | 662.325.2323
+© 2012 Mississippi State University. All rights reserved.
+Twitter
+Facebook
+LinkedIn
+YouTube
+Customer Service | Emergencies | IT Status
+Jobs | Legal | Ethics | Contact: John Genin
+Print Options
+Send Page to Printer
+Print this page.
+Download PDF of this pageThe PDF will include all information unique to this page.
+Download PDF of the entire Undergraduate Catalog
+All pages in Undergraduate Academic Catalog.
+Download PDF of the entire Graduate Catalog
+All pages in Graduate Academic Catalog
+-->
+Cancel

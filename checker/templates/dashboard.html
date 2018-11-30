@@ -1,0 +1,27 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <table cellpadding=20>
+        {% for document in documents %}
+            <tr>
+                <td><a href="{{ document.document.url }}">{{ document}}</a> </td>
+                <td></td>
+                <td></td>
+                <td><a href="delete/{{ document.document.name }}"> Delete</a></td>
+
+            </tr>
+        {% endfor %}
+        </table>
+
+
+  </body>
+</html>
+<<<<<<< HEAD
+#siva will suck dicks in a row with max effort n potruku
+=======
+>>>>>>> c0a8f176d23af1ac340267e4d6539fc04e0600b2

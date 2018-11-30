@@ -1,0 +1,55 @@
+Wikipedia:Alphabetical order - Wikipedia
+Wikipedia:Alphabetical order
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+Shortcuts
+WP:ALPHA
+WP:ALPHABETIZATION
+The system applies alphabetical order only in page names, namely in the following features:
+Special:Allpages
+Categories
+They are in Unicode order; the range 32-127 corresponds to ASCII. For more information on non-ASCII special characters, see Help:Special characters.
+Thus, the following partial list shows the order:
+!"#$%&'()*+,-./0123456789:;<=>?@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_'
+abcdefghijklmnopqrstuvwxyz{|}~
+¡¢£¤¥¦§¨©ª«­®¯°±²³´µ•¸¹º»¼½¾¿
+ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ
+ĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋ
+ŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſ
+ǺǻǼǽǾǿ΄΅Ά·ΈΉΊΌΎΏΐ
+ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰ
+αβγδεζηθικλμνξοπρςστυφχψωϊϋόύώ
+Note in particular that "Z" comes before "a", and "z" before "é". The blank space within a page name is treated as an underscore, and therefore comes after the capitals, and before the lower case letters. However, a "blank space" after the name comes before any character. Sometimes a special character looks like a regular letter, but has a special code anyway.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Alphabetical_order&oldid=814811167"
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageTalk
+Variants
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store
+Interaction
+HelpAbout WikipediaCommunity portalRecent changesContact page
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+Print/export
+Create a bookDownload as PDFPrintable version
+Languages
+Add links
+This page was last edited on 11 December 2017, at 02:01.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view

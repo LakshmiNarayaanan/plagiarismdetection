@@ -1,0 +1,292 @@
+  
+ 
+ 
+ 
+ 
+ Module 5   Broadcast Communication Networks  Version 2 CSE IIT, Kharagpur   
+ 
+ 
+ 
+ 
+  Lesson 1   Network Topology Version 2 CSE IIT, Kharagpur Specific Instructional Objectives  At the end of this lesson, the students will be able to: 
+ Specify what is meant by network topology 
+ Classify different Network topologies  Categorize various Network topologies  
+ Explain the characteristics of the following topologies: o Mesh o Bus o Star o Ring o Tree o Unconstrained  5.1.1 Introduction
+ Topology refers to the way in which the ne
+twork of computers is connected. Each topology is suited to specific tasks and has its own advantages and disadvantages. The 
+choice of topology is dependent upon type and number of eq
+uipment being used, planned 
+applications and rate of data transfer required, response time, and  cost. Topology can 
+also be defined as the geometrically interc
+onnection pattern by which the stations (nodes/computers) are connected using suitabl
+e transmission media (which can be point-
+to-point and broadcast). Various commonly used topologies are discussed in the 
+following sections. 
+ 5.1.2 Mesh Topology 
+In this topology each node or station is connect
+ed to every other station as shown in Fig. 
+5.1.1. The key characteristics of this topology are as follows:  
+ 
+Key Characteristics: 
+o Fully connected o Robust Œ Highly reliable o Not flexible 
+o Poor expandability  
+  Figure 5.1.1 Mesh Topology  
+Two nodes are connected by dedicated point-point links between them. So the total number of links to conn
+ect n nodes = n(n-1)/2; which is proportional to n2 . Media used 
+for the connection (links) can be twisted pair, co-axial cable or optical fiber. With this 
+topology there is no need to provide any additional information, that is from where the 
+packet is coming, along with the packet because two nodes have a point-point dedicated 
+Version 2 CSE IIT, Kharagpur link between them. And each node knows which 
+link is connected to which node on the 
+other end.   
+Mesh Topology is not flexible and has a 
+poor expandability as to add a new node n links have to be laid because that new node has to be connected to each of the existing 
+
+nodes via dedicated link as shown in Fig. 
+5.1.2. For the same reason the cost of 
+
+cabling will be very high for a larger area. 
+And due to these reasons this topology is 
+rarely used in practice. 
+  New 
+Node 
+Figure 5.1.2 Adding a new node in Mesh Topology  5.1.3 Bus Topology 
+In Bus Topology, all stations attach through appropriate hardware in
+terfacing known as a tap, directly to a linear transmission medium, or bus 
+as shown in Fig. 5.1.3. Full-duplex 
+operation between the station and the tap allows
+ data to be transmitted onto the bus and 
+received from the bus. A transmission from
+ any station propagates the length of the medium in both directions and can be receive
+d by all other stations. At each end of the 
+bus there is a terminator, which absorbs any signal, preventing reflection of signal from the endpoints. If the terminator is not pres
+ent, the endpoint acts like a mirror and reflects 
+the signal back causing inte
+rference and other problems. 
+ Shared Media Terminator 
+Tap Stations   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Figure 5.1.3 Bus Topology  
+Key Characteristics of this topology are: o Flexible o Expandable o Moderate Reliability  
+o Moderate performance 
+A shared link is used between different stati
+ons. Hence it is very cost effective. One 
+can easily add any new node or delete any node without affecting other nodes; this makes this topology easily expandable. Because of th
+e shared medium, it is necessary to provide 
+Version 2 CSE IIT, Kharagpur some extra information about the desired de
+stination, i.e. to ex
+plicitly specify the 
+destination in the packet, as compared to
+ mesh topology. This is because the same 
+medium is shared among many nodes. As 
+each station has a unique address in the 
+network, a station copies a packet only when the destination address of the packet 
+matches with the self-address. This is how
+ data communications 
+take place among the 
+stations on the bus.  As there are dedicated links in the mess topology, there is a possibility of 
+transferring data in parallel. But in bus topology, only one station is allowed to send data at a time and all other stations listen to it, 
+as it works in a broadcast mode. Hence, only 
+one station can transfer the data at any given time. Suitable medium access control 
+technique should be used so as to provide some way to decide ﬁwhoﬂ will go next to send 
+data? Usually a distributed medium access cont
+rol technique, as discussed in the next 
+lesson, is used for this purpose. As the distance through which signal traverses increases, the attenuation 
+increases. If the sender sends data (signal) with a small strength signal,
+ the farthest station will not be able to receive the signal properl
+y. While on the other hand if the transmitter 
+sends the signal with a larger 
+strength (more power) then the farthest station will get the 
+signal properly but the station near to it ma
+y face over-drive. Hence, delay and signal unbalancing will force a maximum length of shared medium, which can be used in bus 
+
+topology. 
+ 5.1.4 STAR Topology 
+In the star topology, each station is directly connected to a common central node as 
+shown in Fig. 5.1.4. Typically, each station attaches to a central node, referred to as the star coupler, via two point-to-point links, one for transmission and one for reception.  
+
+   
+ 
+ 
+ 
+Key features: 
+o High Speed o Very Flexible o High Reliability 
+o High Maintainability 
+Figure 5.1.4 Star Topology 
+ 
+In general, there are two alternatives for the operation of the central node.  o One approach is for the central node to operate in a broadcast fashion. A 
+transmission of a frame from one station to the node is retransmitted on all of the 
+Version 2 CSE IIT, Kharagpur outgoing links. In this case, although the arrangement is physically a star, it is 
+logically a bus; a transmission from any station is received by all other stations, 
+and only one station at a time may successfu
+lly transmit. In this case the central 
+node acts as a repeater.  o Another approach is for the central node to act as a frame-switching device. An 
+incoming frame is buffered in the node and then retransmitted on an outgoing link 
+
+to the destination station. In this approach, the central node acts as a 
+switch and 
+performs the switching or routing f
+unction. This mode of operation can be 
+compared with the working of a telephone
+ exchange, where the caller party is connected to a single called party and each pair of subscriber who needs to talk 
+
+have a different connection.  Very High speeds of data transfer can be achieved by using star topology, particularly when the star coupler is used in the switch mode. This topology is the easiest to maintain, 
+among the other topologies. As the number of 
+links is proportional to n, this topology is very flexible and is the most preferred topology.   5.1.5 Ring topology 
+In the ring topology, the network consists of a set of repeaters joined by point-to-point links in a closed loop as shown in Fig. 5.1.5. The repeater is a comparatively simple 
+device, capable of receiving data on one link and transmitting them, bit by bit, on the 
+
+other link as fast as they are received, with no buffering at the repeater. The links are 
+unidirectional; that is data are transmitted in one
+ direction only and all are oriented in the 
+same way. Thus, data circulate around the 
+ring in one direction (clockwise or 
+
+counterclockwise).                               Figure 5.1.5 Ring Topology   Each station attaches to the network at 
+a repeater and can tr
+ansmit data onto the 
+network through that repeater. 
+As with the bus and tree, data are transmitted in frames. 
+Version 2 CSE IIT, Kharagpur As a frame circulates past all the other st
+ations, the destination station recognizes its 
+address and copies the frame into a local 
+buffer as it goes by. The frame continues to 
+circulate until it returns to the source sta
+tion, where it is removed. Because multiple 
+stations share the ring, medium access control 
+is needed to determine at what time each 
+station may insert frames. 
+How the source knows whether it has to transmit a new packet and whether the previous packet has been received properly by the destination or not. For this, the 
+destination change a particular bit (bits) in 
+the packet and when the receiver sees that packet with the changed bit, it comes to know
+ that the receiver has received the packet. This topology is not very reliable, b
+ecause when a link fails the entire ring 
+connection is broken. But reliability can be improved by using wiring concentrator, which helps in bypassing a faulty node and somewhat is similar to star topology. 
+ Repeater works in the following three modes: 
+ Listen mode: In this mode, the station liste
+ns to the communication going over the shared medium as shown in Fig.5.1.6.  
+ 
+ 
+ Incomin
+g packets 
+Outgoin
+g packets 
+ 
+ 
+ 
+ 
+ To the station Figure 5.1.6 Repeater in Listen Mode   Transmit mode: In this mode the station tran
+smit the data over the network as 
+shown in Fig. 5.1.7.  
+ Outgoin
+g packets
+Incomin
+g packets
+To the station 
+ 
+ 
+ 
+ 
+ 
+ Figure 5.1.7 Repeater in Transmit Mode 
+  By-Pass mode
+: When the node is faulty then it 
+can be bypassed using the repeater in bypass mode, i.e. the station doesn™t care about what data is transmitted 
+
+through the network, as shown in Fig. 5.1.8. In this mode there is no delay 
+introduced because of this repeater. 
+ 
+ Version 2 CSE IIT, Kharagpur    
+ 
+ The station is bypassed 
+Outgoin
+g packets 
+Incomin
+g packets 
+ Figure 5.1.8 Repeater in Bypass Mode  5.1.6 Tree Topology 
+This topology can be considered as an extension to bus topology. It is commonly used in cascading equipments. For example, you have 
+a repeater box with 8-port, as far as you have eight stations, this can be used in a normal fashion. But if you need to add more 
+stations then you can connect two or more rep
+eaters in a hierarchical format (tree format) 
+and can add more stations. In the Fig. 5.1.9, R1 refers to repeater one and so on and each 
+
+repeater is considered to have 8-ports.   
+ R1 
+ 
+ 
+ 
+ 
+ 
+  Figure 5.1.9 Tree Topology  This tree topology is very good in an organization as incremental expansion can 
+be done in this way. Main features of this topology are scalability and flexibility. This is 
+
+because, when the need arises for more sta
+tions that can be accomplished easily without 
+
+affecting the already established network. 
+ 5.1.7 Unconstrained Topology 
+ All the topologies discussed so far are symmetric and constrained by well-defined 
+interconnection pattern. However, sometimes no definite patte
+rn is followed and nodes 
+are interconnected in an arbitrary manner 
+using point-to-point links as shown in Fig 5.1.10. Unconstrained topology allows a lot of configuration flexibility but suffers from the complex routing problem. Complex ro
+uting involves unwanted overhead and delay.      R3R2 Version 2 CSE IIT, Kharagpur     
+   
+    Figure 5.1.10 Unconstrained Topology 
+ 5.1.8 Combination of topology and transmission media Topology and transmission media are interrelate
+d. For example, all the important criteria 
+of a network such as reliability, expandability and performance depend on both the 
+topology and the transmission media used in th
+e network. As a consequence, these two 
+aspects are interrelated. Let us have a look at the various transmission media, which are 
+used for different topologies. 
+  Twisted pair is suitable for use in star and ring topologies Œ Cat 3: voice grade UTP, data rate up to 10 Mbps Œ Cat 5: data grade UTP, data rate up to 100 Mbps  Coaxial cable is suitable for use in bus topology Œ Baseband coaxial cable supports data rates of 20 Mbps at distances up to 2 Km. 
+ Fiber optics is suitable for use in ring and star topology Œ Gigabit data rates and longer distances.  Unguided media are suitable for star topology  Fill In The Blanks.  1. Number of links to connect n nodes in a mesh topology is = _______. 
+2. Mesh Topology is _______ flexible and has a ________ expandability 3. In BUS topology, at each end of the bus is a ____________, which absorbs any 
+signal, removing it from the bus.  
+4. In BUS topology, One can easily add any new node or delete any node with-out affecting other nodes; this ma
+kes this topology easily _____________.  5. _________ and ______________ will force a maximum length of shared medium 
+
+which can be used in BUS topology.  
+6. The two alternatives for the operation of the central node in STAR topology are: 
+__________ and ___________.  7. In Ring Topology, the links are _____________; that is, data are transmitted in 
+__________ direction only and all are oriented in the same way 
+Version 2 CSE IIT, Kharagpur 8. In Ring Topology, Repeater works in 3 modes: ____________, _____________ 
+and ______________. 9. ___________ topology can be considered as an extension to BUS topology. 10. ______________ is suitable for use in star and ring topologies 11. Coaxial cable is suitable for use in __________ topology.  Solutions. 
+ 1. n(n-1)/2 2. not, poor 3. terminator 
+4. expandable. 5. Delay, signal unbalancing 6. repeater, switch 7. unidirectional, one 8. Listen, Transmit, By-Pass 
+9. Tree 10. Twisted pair 11. BUS  Short Answer Questions: Q-1.  List out the advantages and drawbacks of bus topology.  
+Ans: Advantages: i) Easy to implement  
+ii) It is very cost effective becau
+se only a single segment required 
+iii) It is very flexible 
+iv) Moderate reliability. 
+v) Can add new station or delete any station easily (scalable)  Disadvantages: i) Required suitable medium access control technique. 
+ii) Maximum cable length restriction 
+imposed due to delay and signal 
+unbalancing problem. 
+ 
+Q-2.  List out the advantages
+ and drawbacks of ring topology.  
+Ans: Advantages: i) Data insertion, data reception and data removal can be provided by 
+repeater ii) It can provide multicast addressing. 
+iii) Point-to-point links to its adjacent nodes (moderate cost) 
+ Disadvantages: Version 2 CSE IIT, Kharagpur i) The repeater introduces a delay ii) The topology fails if any link disconnects or a node fails. iii) Direct link not provided iv) It provides complex management 
+ Q-3.  Why star topology is
+ commonly preferred? 
+ 
+Ans: It gives high reliability, more flexible a
+nd higher bandwidth. Since there is a central 
+control point, the control of network is easy and priority can be given to selected nodes.  
+Q-4. Is there any relationship between transmission me
+dia and topology?  
+Ans: Yes, medium should be selected ba
+sed on the topology. For example, for bus 
+topology coaxial cable medium is
+ suitable, and for ring/star topology twisted-pair or optical fiber can be used. Version 2 CSE IIT, Kharagpur 

@@ -1,0 +1,127 @@
+{% extends "footer.html" %}
+{% load staticfiles %}
+
+{% block body %}
+<div>
+<center><div id="loader"></div></center>
+<div id="hi">
+
+
+
+
+  <!--Contact Starts-->
+
+
+  <div id="contact" class="spacer">
+
+
+
+    <div class="row wowload fadeInLeftBig" >
+        <div class="col-sm-6 col-sm-offset-3 col-xs-12">
+          <form class="contact100-form validate-form" method='POST' action='.'>
+    				{% csrf_token %}
+
+
+    				<!-- <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Name is required">
+    					<span class="label-input100">Tell us your name *</span>
+    					<input class="input100" type="text" name="name" placeholder="Enter your name">
+    				</div> -->
+
+    				<!-- <div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
+    					<span class="label-input100">  Enter your email *</span>
+    					<input class="input100" type="text" name="email" placeholder="Enter your email">
+    				</div> -->
+
+    				<!-- <div class="wrap-input100">
+    					<span class="label-input100">Your Website</span>
+    					<input class="input100" type="text" name="web" placeholder="http://">
+    				</div> -->
+
+    				<div class="wrap-input100 validate-input"  data-validate = "Content is required">
+
+  <center>
+    <div>
+
+      <h4>Check your content here</h4>
+    <textarea id="text" style="max-width:600px;margin-top:10px;"  class="input100" name="data" placeholder="Your data here..."></textarea>
+    <p id ="result" style="margin-left:400px;float:left;"></p>
+          <p id="res" style="margin-left:900px"></p>
+</div>
+
+
+  </center>
+    					<!--<textarea class="input100"  name="data" placeholder="Your data here..."></textarea>-->
+
+    				<div class="container-contact100-form-btn">
+    					<div class="wrap-contact100-form-btn">
+    						<div class="contact100-form-bgbtn"></div>
+    						<button  id="b" onclick="spin()" class="contact100-form-btn" name="quickcheck">
+    							QuickCheck
+    						</button>
+
+                <button  id="b" onclick="spin()" class="contact100-form-btn" name="deepcheck">
+                  DeepCheck
+                </button>
+                 <button id="b" class="contact100-form-btn" name="uploadafile">
+                  <!-- <a href="/upload/">Upload a file</a> -->upload a file
+                </button>
+
+    			</form>
+        </div>
+    </div>
+  </div>
+
+
+
+  </div>
+  </div>
+</div>
+<script type="text/javascript">
+    function wordCount( val ){
+var wom = val.match(/\S+/g);
+return {
+    charactersNoSpaces : val.replace(/\s+/g, '').length,
+    characters         : val.length,
+    words              : wom ? wom.length : 0,
+    lines              : val.split(/\r*\n/).length
+};
+}
+
+
+var textarea = document.getElementById("text");
+var result   = document.getElementById("result");
+    var res = document.getElementById("res");
+
+textarea.addEventListener("input", function(){
+var v = wordCount( this.value );
+result.innerHTML = (
+
+
+  "<br>Lines: "+ v.lines
+);
+res.innerHTML=(
+     "<br>Words: "+ v.words
+)
+}, false);
+</script>
+<div class="container">
+  <div class="row">
+    <div>
+      <h5 class="black-text">Why Plagiarism Checker ?</h5>
+      <p class="black-text text-lighten-4">You created a paper for presentation in your educational institution and want to check content for originality? Or you ordered papers from writing companies and want to check essay for plagiarism? Whatever your cause is – the purpose stays the same – you apparently desire to check papers before submission. To help users worldwide detect copied content, we created free plagiarism checker! With the assistance of this useful instrument, you can search for any stolen data and avoid them in your document easy.
+
+When you are preparing assignments, the quality of them is the first thing teacher is paying attention to. Of course, mistakes and typos strike the eye, but they can be fixed. But, many students tend to duplicate content and pass it off as own. As a result, college plagiarism became a usual thing, and such works frequently are returned to students. To avoid such a problem it is necessary to sift through text before submission. That’s why our plagiarism detector is tool for you.
+
+If you decided to buy papers from professional authors, you might come across the same problem – copied essay. Don’t give those so-called “helpers” a chance fool you! Use plagiarism scanner to be sure sent paper is authentic and deserves the money paid.
+.</p>
+
+
+    </div>
+
+  </div>
+</div>
+
+
+
+
+{% endblock %}

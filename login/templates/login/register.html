@@ -1,0 +1,88 @@
+{% extends "footer.html" %}
+{% load staticfiles %}
+
+{% block body %}
+
+<body style="background-image:url({% static 'images/6.png' %});background-size:100%;background-repeat:no-repeat;">
+
+<!-- <div class="container">
+    <form method="post" action=".">{% csrf_token %}
+        <fieldset>
+                <ul>
+                    {{ form.as_p }}
+                </ul>
+            </fieldset>
+        <a href="/register/success"><button class="btn waves-effect waves-light" type="submit" value="Register" />Register</button>
+
+    </form>
+    <a href="/login/"><button class="btn waves-effect waves-light">Login</button>
+    </a>
+  </div> -->
+    <br>
+
+<div class="container">
+    <div class="row">
+    <div class="col s12 z-depth-6 card-panel">
+      <form method="post" action=".">
+        {% csrf_token %}
+        <div class="row">
+          <div class="input-field col s12 center">
+            <a href="/" alt="" class="responsive-img valign profile-image-login" style="font-family: 'Amaranth', sans-serif;font-size:300%;color: black "><i class="material-icons">code</i>&nbspChronicleScan</a>
+          </div>
+        </div>
+        {{ form.non_field_errors }}
+        <div class="row margin">
+          <span style="margin-left: 5%">{{ form.username.errors }}</span>
+          <div class="input-field col s12">
+            <i class="mdi-social-person-outline prefix"></i>
+            <label for="{{ form.username.id_for_label }}" class="center-align">Username</label>
+             {{ form.username }}
+          </div>
+        </div>
+        <div class="row margin">
+          <span style="margin-left: 5%">{{ form.email.errors }}</span>
+          <div class="input-field col s12">
+            <i class="mdi-communication-email prefix"></i>
+            <label for="{{ form.email.id_for_label }}" class="center-align">Email</label>
+             {{ form.email }}
+          </div>
+        </div>
+        <div class="row margin">
+          <span style="margin-left: 5%">{{ form.password1.errors }}</span>
+          <div class="input-field col s12">
+            <i class="mdi-action-lock-outline prefix"></i>
+            <label for="{{ form.password1.id_for_label }}">Password</label>
+             {{ form.password1 }}
+          </div>
+        </div>
+        <div class="row margin">
+          <span style="margin-left: 5%">{{ form.password2.errors }}</span>
+          <div class="input-field col s12">
+            <i class="mdi-action-lock-outline prefix"></i>
+            <label for="{{ form.password2.id_for_label }}">Re-type password</label>
+             {{ form.password2 }}
+          </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s12">
+            <a href="/register/success"><button class="btn waves-effect waves-light" type="submit" value="Register" />Register Now !</button></a>
+          </div>
+        </div>
+      </form>
+          <div class="input-field col s12">
+            <p class="margin center medium-small sign-up" style="color:black;">Already have an account? <a  style="color:black;" href="/login">Login</a></p>
+          </div>
+    </div>
+  </div>
+</div>
+
+
+{% if msg %}
+<script type="text/javascript">
+  alert("{{ msg }}");
+</script>
+{% endif %}
+
+</body>
+
+{% endblock %}

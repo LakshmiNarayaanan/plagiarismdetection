@@ -1,0 +1,109 @@
+International Journal of Network Security & Its Applications (IJNSA)
+International Journal of Network Security & Its Applications (IJNSA)ISSN : 0974 - 9330[Online];  0975 - 2307 [Print]
+Scope & Topics
+Editorial Board
+Current Issue
+Archives
+Paper Submission
+Indexing
+Special Issue Proposal
+Contact UsAIRCC Home
+Call for papers
+Special Issue on : "Network & Communications Security"
+Guest Editor :
+Jan Zizka,SoNet/DI, FBE, Mendel University in Brno,Czech Republic
+Dhinaharan Nagamalai,Wirella Net Solutions PTY Ltd,Australia
+Call for Papers
+This SI focuses on all technical and practical aspects of Computer
+Networks & Communications security for wired and wireless networks.
+The goal of this workshop is to bring together researchers and
+practitioners from academia and industry to focus on understanding
+Modern security threats and countermeasures, and establishing new
+collaborations in these areas. Authors are solicited to contribute to
+the workshop by submitting articles that illustrate research results,
+projects, surveying works and industrial experiences that describe
+significant advances in the areas of Communication Security &
+Information assurance. The special issue will additionally select high
+quality papers from The Third International Conference on Communications
+Security & Information Assurance (CSIA-2012)(In Conjunction with
+ICCSEA-2012), to be held in Delhi, India , May 25~27, 2012.
+Subject CoverageAuthors are solicited to contribute to this
+special Issue by submitting
+articles that illustrate research results,
+projects, surveying works
+and industrial experiences that describe significant
+advances in the
+following areas, but are not limited to
+Access control, Anonymity, Audit and audit reduction &
+Authentication and authorization
+Applied cryptography, Cryptanalysis, Digital Signatures
+Biometric security
+Boundary control devices
+Certification and accreditation
+Cross-layer design for security
+Data and system integrity, Database security
+Defensive information warfare
+Denial of service protection, Intrusion Detection,
+Anti-malware
+Distributed systems secure
+Electronic commerce
+E-mail security, Spam, Phishing, E-mail fraud, Virus,
+worms, Trojon Protection
+Grid security
+Information hiding and watermarking & Information
+survivability
+Insider threat protection, Integrity
+Intellectual property protection
+Internet/Intranet Security
+Key management and key recovery
+Language-based security
+Mobile and wireless security
+Mobile, Ad Hoc and Sensor Network Security
+Monitoring and surveillance
+Multimedia security ,Operating system security,
+Peer-to-peer security
+Performance Evaluations of Protocols & Security
+Application
+Privacy and data protection
+Product evaluation criteria and compliance
+Risk evaluation and security certification
+Risk/vulnerability assessment
+Security & Network Management
+Security and Assurance in Operational, Technological,
+commercial Area
+Security Engineering and Its Application
+Security Models & protocols
+Security threats like DDoS, MiM, Session Hijacking, Replay
+attack etc & countermeasures
+Trusted computing
+Ubiquitous Computing Security
+Virtualization security, VoIP security, Web 2.0
+security
+Notes for Prospective Authors
+Submissions must be original and should not have been published
+previously or be under consideration for publication while being
+evaluated for this Issue. Manuscripts should be written in English and
+strictly follow the guideline of the Journal IJNSA. The extended version
+of the selected papers from "CSIA" could be submitted to this special
+issue. The revised version must have at least 30% difference from the
+conference paper. The manuscripts should be submitted to one of the
+guest editors by June 11, 2012, through email specialissuecsia@airccse.org or specialissuecsia@yahoo.com
+Important Dates
+Submission deadline
+: June 11, 2012
+Authors Notification
+: July 11, 2012
+Final manuscript due
+: July 15, 2012
+Publication Dates
+: Determined by the Editor-in-Chief
+For more details please visit: http://airccse.org/csia2012/csia2012.html
+Conferences & Workshops
+CCSIT 2013
+SIPP 2013
+AISC 2013
+PDCTA 2013
+Most Cited Articles
+IJNSA is listed in ERA 2012 as per the Australian Research Council (ARC) Journal Ranking. New
+Download leaflet
+All Rights Reserved Â® AIRCC

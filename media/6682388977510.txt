@@ -1,0 +1,197 @@
+International Journal of Network Security
+Scimago Journal & Country Rank
+menuHomeJournal RankingsCountry RankingsViz ToolsHelpAbout Us
+International Journal of Network Security
+CountryTaiwan
+29H Index
+Subject Area and CategoryComputer ScienceComputer Networks and Communications
+PublisherNational Chung Hsing University
+Publication typeJournals
+ISSN1816353X, 18163548
+Coverage2005-ongoing
+Quartiles
+The set of journals have been ranked according to their SJR and divided into four equal groups, four quartiles. Q1 (green) comprises the quarter of the journals with the highest values, Q2 (yellow) the second highest values, Q3 (orange) the third highest values and Q4 (red) the lowest values.
+CategoryYearQuartile
+Computer Networks and Communications2006Q2
+Computer Networks and Communications2007Q3
+Computer Networks and Communications2008Q2
+Computer Networks and Communications2009Q3
+Computer Networks and Communications2010Q2
+Computer Networks and Communications2011Q2
+Computer Networks and Communications2012Q2
+Computer Networks and Communications2013Q2
+Computer Networks and Communications2014Q2
+Computer Networks and Communications2015Q2
+Computer Networks and Communications2016Q2
+SJR
+The SJR is a size-independent prestige indicator that ranks journals by their 'average prestige per article'. It is based on the idea that 'all citations are not created equal'. SJR is a measure of scientific influence of journals that accounts for both the number of citations received by a journal and the importance or prestige of the journals where such citations come from
+It measures the scientific influence of the average article in a journal, it expresses how central to the global scientific discussion an average article of the journal is.
+YearSJR
+20060.420
+20070.225
+20080.353
+20090.271
+20100.398
+20110.417
+20120.466
+20130.571
+20140.451
+20150.463
+20160.321
+Citations per document
+This indicator counts the number of citations received by documents from a journal and divides them by the total number of documents published in that journal. The chart shows the evolution of the average number of times documents published in a journal in the past two, three and four years have been cited in the current year. The two years line is equivalent to journal impact factor ™ (Thomson Reuters) metric.
+Cites per documentYearValue
+Cites / Doc. (4 years)20061.000
+Cites / Doc. (4 years)20070.670
+Cites / Doc. (4 years)20080.930
+Cites / Doc. (4 years)20091.041
+Cites / Doc. (4 years)20101.388
+Cites / Doc. (4 years)20111.455
+Cites / Doc. (4 years)20121.446
+Cites / Doc. (4 years)20131.708
+Cites / Doc. (4 years)20141.585
+Cites / Doc. (4 years)20151.864
+Cites / Doc. (4 years)20161.343
+Cites / Doc. (3 years)20061.000
+Cites / Doc. (3 years)20070.670
+Cites / Doc. (3 years)20080.930
+Cites / Doc. (3 years)20090.991
+Cites / Doc. (3 years)20101.329
+Cites / Doc. (3 years)20111.340
+Cites / Doc. (3 years)20121.507
+Cites / Doc. (3 years)20132.016
+Cites / Doc. (3 years)20141.562
+Cites / Doc. (3 years)20151.963
+Cites / Doc. (3 years)20161.402
+Cites / Doc. (2 years)20061.000
+Cites / Doc. (2 years)20070.670
+Cites / Doc. (2 years)20080.905
+Cites / Doc. (2 years)20090.851
+Cites / Doc. (2 years)20101.141
+Cites / Doc. (2 years)20111.474
+Cites / Doc. (2 years)20121.732
+Cites / Doc. (2 years)20131.936
+Cites / Doc. (2 years)20141.535
+Cites / Doc. (2 years)20151.875
+Cites / Doc. (2 years)20161.287
+Total Cites Self-Cites
+Evolution of the total number of citations and journal's self-citations received by a journal's published documents during the three previous years.
+Journal Self-citation is defined as the number of citation from a journal citing article to articles published by the same journal.
+CitesYearValue
+Self Cites20062
+Self Cites20071
+Self Cites20089
+Self Cites200917
+Self Cites2010100
+Self Cites201176
+Self Cites201249
+Self Cites201362
+Self Cites201460
+Self Cites2015123
+Self Cites2016122
+Total Cites200624
+Total Cites200761
+Total Cites2008159
+Total Cites2009219
+Total Cites2010295
+Total Cites2011252
+Total Cites2012226
+Total Cites2013250
+Total Cites2014214
+Total Cites2015318
+Total Cites2016293
+External Cites per Doc Cites per Doc
+Evolution of the number of total citation per document and external citation per document (i.e. journal self-citations removed) received by a journal's published documents during the three previous years.
+External citations are calculated by subtracting the number of self-citations from the total number of citations received by the journal’s documents.
+CitesYearValue
+External Cites per document20060.917
+External Cites per document20070.659
+External Cites per document20080.877
+External Cites per document20090.914
+External Cites per document20100.878
+External Cites per document20110.936
+External Cites per document20121.180
+External Cites per document20131.516
+External Cites per document20141.124
+External Cites per document20151.204
+External Cites per document20160.818
+Cites per document20061.000
+Cites per document20070.670
+Cites per document20080.930
+Cites per document20090.991
+Cites per document20101.329
+Cites per document20111.340
+Cites per document20121.507
+Cites per document20132.016
+Cites per document20141.562
+Cites per document20151.963
+Cites per document20161.402
+% International Collaboration
+International Collaboration accounts for the articles that have been produced by researchers from several countries. The chart shows the ratio of a journal's documents signed by researchers from more than one country; that is including more than one country address.
+YearInternational Collaboration
+20064.48
+200718.75
+200812.16
+20095.88
+20109.26
+201110.53
+20129.52
+201311.86
+201423.44
+201518.89
+201617.32
+Citable documents Non-citable documents
+Not every article in a journal is considered primary research and therefore "citable", this chart shows the ratio of a journal's articles including substantial research (research articles, conference papers and reviews) in three year windows vs. those documents other than research articles, reviews and conference papers.
+DocumentsYearValue
+Non-citable documents20061
+Non-citable documents20071
+Non-citable documents20081
+Non-citable documents20090
+Non-citable documents20100
+Non-citable documents20118
+Non-citable documents201210
+Non-citable documents201310
+Non-citable documents20142
+Non-citable documents20153
+Non-citable documents20164
+Citable documents200624
+Citable documents200791
+Citable documents2008171
+Citable documents2009221
+Citable documents2010222
+Citable documents2011188
+Citable documents2012150
+Citable documents2013124
+Citable documents2014137
+Citable documents2015162
+Citable documents2016209
+Cited documents Uncited documents
+Ratio of a journal's items, grouped in three years windows, that have been cited at least once vs. those not cited during the following year.
+DocumentsYearValue
+Uncited documents200612
+Uncited documents200761
+Uncited documents200895
+Uncited documents2009137
+Uncited documents201088
+Uncited documents201172
+Uncited documents201255
+Uncited documents201353
+Uncited documents201461
+Uncited documents201554
+Uncited documents201685
+Cited documents200613
+Cited documents200731
+Cited documents200877
+Cited documents200984
+Cited documents2010134
+Cited documents2011124
+Cited documents2012105
+Cited documents201381
+Cited documents201478
+Cited documents2015111
+Cited documents2016128
+Show this widget in your own website
+Just copy the code below and paste within your html code:
+Developed by:
+Powered by:
+Follow us on TwitterScimago Lab, Copyright 2007-2017. Data Source: Scopus®

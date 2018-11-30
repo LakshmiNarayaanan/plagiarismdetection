@@ -1,0 +1,297 @@
+Paying With Your Face: 10 Breakthrough Technologies 2017 - MIT Technology Review
+Hello,
+We noticed you're browsing in private or incognito mode.
+To continue reading this article, please exit incognito mode
+or log in.
+Not an Insider? Subscribe now for unlimited access to online articles.
+Subscribe today
+Why we made this change
+Visitors are allowed 3 free articles per month (without a subscription), and private browsing prevents us from counting how many stories you've read. We hope you understand, and consider subscribing for unlimited online access.
+Back to MIT Technology Review home
+Contact customer service if you are seeing this message in error.
+Menu
+Past Lists
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2001
+Topics
+Business Impact
+Connectivity
+Intelligent Machines
+Rewriting Life
+Sustainable Energy
+10 Breakthrough Technologies
+35 Innovators Under 35
+50 Smartest Companies
+Views
+Views from the Marketplace
+Sponsored: Ubiquitous on-device AI
+The Download
+Magazine
+Events
+More
+Video
+Special Publications
+MIT News Magazine
+Newsletters
+Help/Support
+Advertise with Us
+Log in / Create and account
+Subscribe
+Log in / Create an account
+Search
+Click search or press enter
+10 Breakthrough Technologies
+The List +
+Paying with Your Face
+Reversing Paralysis
+Self-Driving Trucks
+Practical Quantum Computers
+The 360-Degree Selfie
+Hot Solar Cells
+Gene Therapy 2.0
+The Cell Atlas
+Botnets of Things
+Reinforcement Learning
+Past Lists +
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2001
+Menu
+Paying with Your Face
+Face-detecting systems in China now authorize payments, provide access to facilities, and track down criminals. Will other countries follow?
+Reversing Paralysis
+Scientists are making remarkable progress at using brain implants to restore the freedom of movement that spinal cord injuries take away.
+Self-Driving Trucks
+Tractor-trailers without a human at the wheel will soon barrel onto highways near you. What will this mean for the nationâs 1.7 million truck drivers?
+Practical Quantum Computers
+Advances at Google, Intel, and several research groups indicate that computers with previously unimaginable power are finally within reach.
+The 360-Degree Selfie
+Inexpensive cameras that make spherical images are opening a new era in photography and changing the way people share stories.
+Hot Solar Cells
+By converting heat to focused beams of light, a new solar device could create cheap and continuous power.
+Gene Therapy 2.0
+Scientists have solved fundamental problems that were holding back cures for rare hereditary disorders. Next weâll see if the same approach can take on cancer, heart disease, and other common illnesses.
+The Cell Atlas
+Biologyâs next mega-project will find out what weâre really made of.
+Botnets of Things
+The relentless push to add connectivity to home gadgets is creating dangerous side effects that figure to get even worse.
+Reinforcement Learning
+By experimenting, computers are figuring out how to do things that no programmer could teach them.
+10 Breakthrough Technologies
+The List
+Paying with Your Face
+Reversing Paralysis
+Self-Driving Trucks
+Practical Quantum Computers
+The 360-Degree Selfie
+Hot Solar Cells
+Gene Therapy 2.0
+The Cell Atlas
+Botnets of Things
+Reinforcement Learning
+Years
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2001
+Paying with Your Face
+Face-detecting systems in China now authorize payments, provide access to facilities, and track down criminals. Will other countries follow?
+Availability: Now
+by
+Will Knight
+Shortly after walking through the door at Face++, a Chinese startup valued at roughly a billion dollars, I see my face, unshaven and looking a bit jet-lagged, flash up on a large screen near the entrance.
+Having been added to a database, my face now provides automatic access to the building. It can also be used to monitor my movements through each room inside. As I tour the offices of Face++ (pronounced âface plus plusâ), located in a suburb of Beijing, I see it appear on several more screens, automatically captured from countless angles by the companyâs software. On one screen a video shows the software tracking 83 different points on my face simultaneously. Itâs a little creepy, but undeniably impressive.
+Over the past few years, computers have become incredibly good at recognizing faces, and the technology is expanding quickly in China in the interest of both surveillance and convenience. Face recognition might transform everything from policing to the way people interact every day with banks, stores, and transportation services.
+This story is part of our March/April 2017 Issue
+See the rest of the issue
+Subscribe
+Technology from Face++ is already being used in several popular apps. It is possible to transfer money through Alipay, a mobile payment app used by more than 120 million people in China, using only your face as credentials. Meanwhile, Didi, Chinaâs dominant ride-hailing company, uses the Face++ software to let passengers confirm that the person behind the wheel is a legitimate driver. (A âlivenessâ test, designed to prevent anyone from duping the system with a photo, requires people being scanned to move their head or speak while the app scans them.)
+The technology figures to take off in China first because of the countryâs attitudes toward surveillance and privacy. Unlike, say, the United States, China has a large centralized database of ID card photos. During my time at Face++, I saw how local governments are using its software to identify suspected criminals in video from surveillance cameras, which are omnipresent in the country. This is especially impressiveâalbeit somewhat dystopianâbecause the footage analyzed is far from perfect, and because mug shots or other images on file may be several years old.
+Paying With Your Face
+Breakthrough
+Face recognition technology that is finally accurate enough to be widely used in financial transactions and other everyday applications.
+Why It Matters
+The technology offers a secure and extremely convenient method of payment but could raise privacy concerns.
+Key Players
+- Face++ - Baidu - Alibaba
+Availability
+Now
+Facial recognition has existed for decades, but only now is it accurate enough to be used in secure financial transactions. The new versions use deep learning, an artificial-intelligence technique that is especially effective for image recognition because it makes a computer zero in on the facial features that will most reliably identify a person (see â10 Breakthrough Technologies 2013: Deep Learningâ).
+âThe face recognition market is huge,â says Shiliang Zhang, an assistant professor at Peking University who specializes in machine learning and image processing. Zhang heads a lab not far from the offices of Face++. When I arrived, his students were working away furiously in a dozen or so cubicles. âIn China security is very important, and we also have lots of people,â he says. âLots of companies are working on it.â
+Employees simply show their face to gain entry to the companyâs headquarters.
+One such company is Baidu, which operates Chinaâs most popular search engine, along with other services. Baidu researchers have published papers showing that their software rivals most humans in its ability to recognize a face. In January, the company proved this by taking part in a TV show featuring people who are remarkably good at identifying adults from their baby photos. Baiduâs system outshined them.
+Face++ pinpoints 83 points on a face. The distance between them provides a means of identification.
+Now Baidu is developing a system that lets people pick up rail tickets by showing their face. The company is already working with the government of Wuzhen, a historic tourist destination, to provide access to many of its attractions without a ticket. This involves scanning tens of thousands of faces in a database to find a match, which Baidu says it can do with 99 percent accuracy.
+Jie Tang, an associate professor at Tsinghua University who advised the founders of Face++ as students, says the convenience of the technology is what appeals most to people in China. Some apartment complexes use facial recognition to provide access, and shops and restaurants are looking to the technology to make the customer experience smoother. Not only can he pay for things this way, he says, but the staff in some coffee shops are now alerted by a facial recognition system when he walks in: âThey say, âHello, Mr. Tang.ââ
+Discover how deep learning is driving the future of work at EmTech Next!
+Find more information and register
+Employees simply show their face to gain entry to the companyâs headquarters.
+Share
+Tagged
+Baidu,
+China,
+deep learning,
+machine learning,
+biometrics,
+Face++,
+face recognition,
+Beijing,
+10 Breakthrough Technologies 2017
+Credit
+Illustration by Yoshi Sodeoka
+Will Knight Senior Editor, AI
+I am the senior editor for AI at MIT Technology Review. I mainly cover machine intelligence, robots, and automation, but Iâm interested in most aspects of computing. I grew up in south London, and I wrote my first line of code (a spell-binding… More infinite loop) on a mighty Sinclair ZX Spectrum. Before joining this publication, I worked as the online editor at New Scientist magazine. If youâd like to get in touch, please send an e-mail to will.knight@technologyreview.com.
+READ
+COMMENTS
+Please read our commenting guidelines.
+Please enable JavaScript to view the comments powered by Disqus.
+Related Video
+More videos
+Intelligent Machines
+Blood-Delivering Drones 04:23
+Connectivity
+Paying with Your Face: 10 Breakthrough Technologies 2017 01:07
+Augmented Intelligence at Work: Presented by Brainspace 18:01
+Intelligent Machines
+AIâs Economic Impact 30:23
+Next in 10 Breakthrough Technologies 2017
+Reversing Paralysis: 10 Breakthrough Technologies 2017
+Scientists are making remarkable progress at using brain implants to restore the freedom of movement that spinal cord injuries take away.
+by
+Antonio Regalado
+Self-Driving Trucks: 10 Breakthrough Technologies 2017
+Tractor-trailers without a human at the wheel will soon barrel onto highways near you. What will this mean for the nationâs 1.7 million truck drivers?
+by
+David H. Freedman
+Practical Quantum Computers: 10 Breakthrough Technologies 2017
+Advances at Google, Intel, and several research groups indicate that computers with previously unimaginable power are finally within reach.
+by
+Russ Juskalian
+View the full list
+From Our Advertisers
+In partnership with
+Qualcomm
+On-Device Processing and AI Go Hand-in-Hand
+In partnership with
+BMF
+A New Dimension: How a Startup Company Reshaped Precision Manufacturing
+Sponsored by
+VMware
+Network Virtualization: The Bridge to Digital Transformation
+Presented in partnership with
+VMware
+The Bridge to Digital Transformation: The Move to a Software-Based Network Strategy
+Want more award-winning journalism?
+Subscribe to Insider Basic.
+Insider Basic
+{! insider.prices.basic !}*
+{! insider.display.menuOptionsLabel !}
+Six issues of our award winning print magazine, unlimited online access plus The Download with the top tech stories delivered daily to your inbox.
+{! insider.buttons.basic.buttonText !}
+See details+
+Print Magazine (6 bi-monthly issues)
+Unlimited online access including all articles, multimedia, and more
+The Download newsletter with top tech stories delivered daily to your inbox
+*
+{! insider.display.footerLabel !}
+See international prices
+See U.S. prices
+Revert to MIT Enterprise Forum pricing
+Revert to standard pricing
+The Download What's important in technology and innovation, delivered to you every day
+Follow us
+Twitter
+Facebook
+RSS
+The mission of MIT Technology Review is to equip its audiences with the intelligence to understand a world shaped by technology.
+BrowseInternationalEditions
+Company
+About Us
+Careers
+Advertise with Us
+Insights
+Reuse, Permissions, and Licensing
+Press Room
+Your Account
+Log In / Create Account
+Activate Account
+Newsletters
+Manage Account
+Manage Subscription
+Customer Support
+Help/FAQs
+Contact Us
+Feedback
+Sitemap
+More
+Events
+MIT Enterprise Forum
+MIT News
+Policies
+Ethics Statement
+Terms of Service
+Privacy
+Commenting Guidelines
+MIT Technology Review © 2018
+v.|eiπ|
+/3
+You've read
+of three
+free articles this month.
+Subscribe now for unlimited online access.
+You've read
+of three
+free articles this month.
+Subscribe now for unlimited online access.
+This is your last free article this month.
+Subscribe now for unlimited online access.
+You've read all your free articles this month.
+Subscribe now for unlimited online access.
+You've read
+of three
+free articles this month.
+Log in for more, or subscribe now for unlimited online access.
+Log in for two more free articles, or subscribe now
+for unlimited online access.

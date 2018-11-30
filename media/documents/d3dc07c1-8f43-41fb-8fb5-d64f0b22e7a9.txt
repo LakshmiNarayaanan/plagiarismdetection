@@ -1,0 +1,113 @@
+
+nature.comnaturenewsarticle
+a nature research journal
+MENU
+
+NEWS  09 MARCH 2018
+MIT launches multimillion-dollar collaboration to develop fusion energy
+With corporate participation, researchers seek to build a pilot fusion energy plant within 15 years.
+Jeff Tollefson
+  
+The Massachusetts Institute of Technology (MIT) in Cambridge will work with a private firm to develop technology for producing energy from nuclear fusion within the next 15 years. If successful, the multimillion-dollar effort could help unlock a virtually limitless source of pollution-free energy.
+
+The team's approach — which has attracted US$50 million thus far — is based on a generation of high-temperature superconductors that has become commercially available in the last several years, researchers from MIT and its partner, Commonwealth Fusion Systems (CFS) in Cambridge, said on 8 March. The more-powerful superconductors will allow the team to strengthen the magnetic field that contains the hot plasma fuel used in traditional tokamak reactors. That could enable a reactor that is smaller, cheaper and easier to build than previous designs, including the troubled international ITER project under development in southern France.
+
+“It’s about scale, and it’s about speed,” says Robert Mumgaard, chief executive officer at CFS. The company — a private venture spun off from MIT — has attracted US$50 million from Italian energy giant ENI, and plans to invest $30 million of that sum in research and development at MIT over the next three years. Mumgaard says the collaboration between academics and industrialists should help the team to drive fusion technology out of the lab and into the marketplace.
+
+Fusing hydrogen atoms to form helium releases massive amounts of energy, which can be harnessed to produce carbon-free electricity. But sustaining the extreme temperatures that are required for this process in a confined space remains a daunting challenge that has defied most hopes and expectations to date.
+
+Ambitious plans
+
+CFS is just the latest in a series of start-up companies pursuing fusion energy as a clean power source. Tokamak Energy, a company in Milton Park, UK, is also seeking to develop a tokamak reactor using high-temperature superconductors. But observers say that the MIT initiative is the most significant of its kind.
+
+“If MIT can do what they are saying — and I have no reason to think that they can’t — this is a major step forward,” says Stephen Dean, who heads Fusion Power Associates, an advocacy group in Gaithersburg, Maryland.
+
+The first challenge will be to transform a commercially available superconductor into a large, high-performance electromagnet, which could take around three years. Within the next decade, the team hopes to develop a prototype reactor that can generate more energy than it consumes. Then, they hope to develop a 200-megwatt pilot power plant that can export electricity to the grid.
+
+“We feel very confident in what its performance would be if we can build the magnets at that scale,” says Martin Greenwald, deputy director of MIT’s Plasma Science and Fusion Center.
+
+Stewart Prager, former director of the Princeton Plasma Physics Laboratory in New Jersey, says it’s good news that the MIT proposal is attracting private capital. But he warns that private investment isn't enough to make up for stagnant budgets in the US fusion programme. “This funding for MIT is terrific, but there’s just no way you are going to get the private sector to take on the full brunt of the fusion programme,” Prager says.
+
+For their part, MIT researchers hope their work will generate more government interest in fusion research. “If we can change that narrative, we can potentially reinvigorate the rest of the program,” Greenwald says.
+
+Nature Briefing
+Sign up for the daily Nature Briefing email newsletter
+
+Stay up to date with what matters in science and why, handpicked from Nature and other publications worldwide.
+
+SIGN UP
+
+RELATED ARTICLES
+Trump science budget sows confusion
+Budget battle looms for US science programmes
+US left with just one working fusion reactor — for now
+Lockheed Martin's fusion goals meet scepticism
+SUBJECTS
+Climate change Energy Nuclear physics
+
+Nature
+ISSN 1476-4687 (online)
+
+FOR AUTHORS AND REFEREES
+Guide to Authors
+Guide to Referees
+Editorial policies
+Language editing
+Scientific editing
+Reprints & permissions
+FOR READERS
+Journals A-Z
+Subject Pages
+Protocol Exchange
+Blogs
+Podcasts
+Webcasts
+Subscriptions
+Mobile apps
+RSS
+FOR LIBRARIANS
+Account administration
+Site licenses
+Catalogs
+Print subscriptions
+Pay per view
+Open access
+Promotion tools
+Public interfaces
+User guides
+Library relations
+Publisher collaborations
+CAREERS AND EVENTS
+Natureconferences
+Natureevents
+Naturejobs.com
+REGIONAL WEBSITES
+Natureasia
+Nature China
+Nature India
+Nature Japan
+Nature Korea
+Nature Middle East
+NATURE RESEARCH
+About us
+Work for us
+Help
+Contact us
+Privacy Policy
+Use of cookies
+Legal notice
+Accessibility statement
+Terms & Conditions
+Partners
+FOR ADVERTISERS
+Advertising options
+Journal audience
+Event advertising
+Job posts
+Contact representative
+FOR PRESS
+Press site
+Press room
+Contact press office
+Springer Nature
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.
